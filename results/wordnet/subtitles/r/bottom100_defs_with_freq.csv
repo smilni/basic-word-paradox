@@ -1,0 +1,101 @@
+lemma,definition,len_tokens,mean_log_freq,median_log_freq,miss_rate
+verbally,as a verb,1,-6.010043529973873,-6.010043529973873,0.0
+needlessly,without need,1,-2.811491762008242,-2.811491762008242,0.0
+sarcastically,in a sarcastic manner,2,-5.234073969030799,-5.234073969030799,0.0
+decidedly,without question and beyond doubt,2,-3.923791293820477,-3.923791293820477,0.0
+indirectly,not in a forthright manner,2,-4.903586662348671,-4.903586662348671,0.5
+coincidentally,happening at the same time,2,-3.146447041648874,-3.146447041648874,0.0
+ne'er,not ever; at no time in the past or future,4,-3.4108555736478987,-3.5138271115890958,0.0
+rationally,in a rational manner,2,-5.086935191341718,-5.086935191341718,0.0
+understandably,in an intelligible manner,2,-4.903586662348671,-4.903586662348671,0.5
+intellectually,in an intellectual manner,2,-5.104485904645331,-5.104485904645331,0.0
+thereof,of or concerning this or that,1,-4.5344181499524,-4.5344181499524,0.0
+tenderly,with tenderness; in a tender manner,3,-5.2065767921122115,-5.048924320292784,0.0
+cruelly,excessively,1,,,1.0
+internationally,throughout the world,1,-3.283619473576388,-3.283619473576388,0.0
+chemically,with chemicals,1,-4.903213402704131,-4.903213402704131,0.0
+stupidly,in a stupid manner,2,-4.322759754660824,-4.322759754660824,0.0
+unfairly,in an unfair manner,2,-4.938916050046022,-4.938916050046022,0.0
+exponentially,in an exponential manner,2,-4.903586662348671,-4.903586662348671,0.5
+expressly,with specific intentions; for the express purpose,4,-4.676806274994405,-4.723127140826163,0.0
+astern,stern foremost or backward,3,-5.485466922308184,-5.55528393898244,0.0
+anxiously,with anxiety or apprehension,2,-5.612853046705535,-5.612853046705535,0.0
+doubly,to double the degree,2,-4.43806104337423,-4.43806104337423,0.0
+mockingly,in a disrespectful jeering manner,3,-5.485654967300019,-5.565385725181427,0.0
+fondly,with fondness; with love,2,-4.487896999048113,-4.487896999048113,0.0
+interestingly,in an interesting manner; - Time,3,-3.9595124485309285,-4.277186939588806,0.0
+cleverly,in a clever manner,2,-4.718541832220216,-4.718541832220216,0.0
+inherently,in an inherent manner,2,-5.4783480601040875,-5.4783480601040875,0.0
+relentlessly,in a relentless manner,2,-5.25739491750949,-5.25739491750949,0.0
+strategically,with regard to strategy,2,-5.00879953193029,-5.00879953193029,0.0
+dolce,gently and sweetly,2,-5.429289617202179,-5.429289617202179,0.0
+evilly,in a wicked evil manner,3,-4.632597484393169,-4.860376576393049,0.0
+drastically,in a drastic manner,2,-5.2935804883621325,-5.2935804883621325,0.0
+notoriously,to a notorious degree,2,-5.050520441320698,-5.050520441320698,0.0
+curiously,in a manner differing from the usual or expected,4,-4.739364700481977,-4.665189756116153,0.0
+biologically,with respect to biology,2,-4.696942940564293,-4.696942940564293,0.0
+figuratively,in a figurative sense,2,-3.877552573364424,-3.877552573364424,0.5
+mistakenly,in a mistaken manner,2,-4.872327000386746,-4.872327000386746,0.0
+recklessly,in a reckless manner,2,-5.041922804501835,-5.041922804501835,0.0
+warmly,in a hearty manner,2,-5.3525299064736505,-5.3525299064736505,0.0
+electronically,by electronic means,2,-3.9349823464808313,-3.9349823464808313,0.0
+forcefully,with full force,2,-3.8762330383200383,-3.8762330383200383,0.0
+i.e.,that is to say; in other words,2,-3.2140165596683072,-3.2140165596683072,0.0
+distantly,from or at a distance,1,-4.371370480338701,-4.371370480338701,0.0
+grossly,in a gross manner,2,-4.8192408810102325,-4.8192408810102325,0.0
+honorably,in an honorable manner,2,-5.003044904305641,-5.003044904305641,0.0
+rudely,in an impolite manner,2,-5.416672917745796,-5.416672917745796,0.0
+invariably,"without variation or change, in every case",3,-4.344721621786046,-3.605338895305116,0.0
+perchance,"through chance,",1,-3.6291726588980544,-3.6291726588980544,0.0
+explicitly,in an explicit manner,2,-5.390546498536023,-5.390546498536023,0.0
+arguably,as can be shown by argument,2,-4.063083182416481,-4.063083182416481,0.0
+suspiciously,with suspicion,1,-5.082567689621267,-5.082567689621267,0.0
+frantically,in an uncontrolled manner,2,-4.903586662348671,-4.903586662348671,0.5
+extensively,in a widespread way,2,-4.346518574920838,-4.346518574920838,0.0
+massively,to a massive degree or in a massive manner,4,-4.771404660676469,-4.733808531582425,0.0
+hastily,in a hurried or hasty manner,3,-4.724580795326819,-4.903586662348671,0.0
+splendidly,extremely well,2,-3.510002846965191,-3.510002846965191,0.0
+economically,with respect to economic science,3,-4.536147750199468,-4.358188003185415,0.0
+substantially,to a great extent or degree,3,-4.3761897682871735,-4.714414917192351,0.0
+subconsciously,from the subconscious mind,2,-4.407241524858115,-4.407241524858115,0.0
+vividly,in a vivid manner,2,-5.256550054032612,-5.256550054032612,0.0
+digitally,by means of the fingers,2,-3.6824565315807543,-3.6824565315807543,0.0
+pleasantly,in a cheerful manner,2,-5.123885805597293,-5.123885805597293,0.0
+unjustly,in an unjust manner,2,-5.345114533142775,-5.345114533142775,0.0
+securely,in a secure manner; in a manner free from danger,5,-4.458614899536872,-4.530833151560808,0.0
+doubtless,without doubt; certainly,2,-4.09734530554079,-4.09734530554079,0.0
+adequately,in an adequate manner or to an adequate degree,4,-5.207054865097542,-5.254347801386622,0.0
+cautiously,as if with kid gloves; with caution or prudence or tact,5,-5.152511224271751,-5.218936398509907,0.0
+royally,in a royal manner,2,-4.705004946946872,-4.705004946946872,0.0
+playfully,in a playful manner,2,-5.320376321663984,-5.320376321663984,0.0
+abundantly,in an abundant manner,2,-5.4436168443268524,-5.4436168443268524,0.0
+decently,in a decent manner,2,-4.747479038960773,-4.747479038960773,0.0
+mathematically,with respect to mathematics,2,-4.781300437243443,-4.781300437243443,0.0
+unanimously,of one mind; without dissent,2,-4.750904471937672,-4.750904471937672,0.0
+realistically,in a realistic manner,2,-5.096136678012861,-5.096136678012861,0.0
+carelessly,without care or concern,2,-3.9384245682150283,-3.9384245682150283,0.0
+unconsciously,without awareness,1,-5.50730253611651,-5.50730253611651,0.0
+awkwardly,in an awkward manner,2,-4.851779593287851,-4.851779593287851,0.0
+vigorously,with vigor; in a vigorous manner,3,-5.718798701405279,-6.027349106565327,0.0
+fatally,with fatal consequences or implications,3,-5.528630904467925,-5.43465362969169,0.0
+meticulously,in a meticulous manner,2,-5.375029381666039,-5.375029381666039,0.0
+unwittingly,without knowledge or intention,2,-4.6941333984611235,-4.6941333984611235,0.0
+aimlessly,without aim; in an aimless manner,3,-4.832405789998122,-4.832405789998122,0.33333333333333337
+collectively,in conjunction with; combined,2,-5.748012086068611,-5.748012086068611,0.0
+routinely,according to routine or established practice,4,-4.9752259318596685,-4.924124170997162,0.0
+notwithstanding,despite anything to the contrary (usually following a concession),5,-4.398237374178334,-4.21241184635631,0.0
+mercilessly,without pity; in a merciless manner,3,-5.098847849394387,-4.903586662348671,0.0
+underfoot,under the feet,1,-4.155109528597632,-4.155109528597632,0.0
+cheaply,in a stingy manner,2,-5.33520141991356,-5.33520141991356,0.0
+shockingly,extremely,1,-4.576564261821492,-4.576564261821492,0.0
+culturally,with regard to a culture,2,-4.9525405818249935,-4.9525405818249935,0.0
+anon,at another time,1,-2.6977637436553072,-2.6977637436553072,0.0
+c.o.d.,collecting the charges upon delivery,3,-4.614392584006231,-4.68627018176059,0.0
+westward,toward the west,1,-4.2026434041838865,-4.2026434041838865,0.0
+legitimately,in a manner acceptable to common custom,4,-4.898223980156018,-5.011051188102433,0.0
+incorrectly,in an incorrect manner,2,-5.26980567198578,-5.26980567198578,0.0
+cleanly,in an adroit manner,2,-4.903586662348671,-4.903586662348671,0.5
+diligently,with diligence; in a diligent manner,3,-5.612532459362794,-5.892074675204686,0.0
+moderately,to a moderately sufficient extent or degree,4,-5.376956565337899,-5.268490630365261,0.0
+slowest,most slowly,1,-4.469346252200185,-4.469346252200185,0.0
+unknowingly,without knowledge or intention,2,-4.6941333984611235,-4.6941333984611235,0.0

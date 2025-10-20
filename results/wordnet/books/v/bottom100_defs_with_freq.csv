@@ -1,0 +1,101 @@
+lemma,definition,len_tokens,mean_log_freq,median_log_freq,miss_rate
+undergrow,grow below something,2,-3.601238384860804,-3.601238384860804,0.0
+misally,make a bad alliance; ally inappropriately,5,-4.329567397232642,-4.2867543121828104,0.0
+devilize,turn into a devil or make devilish,4,-4.195129027484505,-4.043875021618312,0.0
+wrawl,"cry loudly, as of animals",3,-4.465550987842719,-4.12624793497522,0.0
+skreak,"make a high-pitched, screeching noise",4,-3.473336777181503,-3.473336777181503,0.5
+simonise,polish with wax,2,-4.6551244965186775,-4.6551244965186775,0.0
+animize,give lifelike qualities to,3,-4.314327233919985,-3.7494366814882465,0.0
+salinate,add salt to,2,-3.789395758106766,-3.789395758106766,0.0
+nutrify,give nourishment to,2,-4.186463325993374,-4.186463325993374,0.0
+ostentate,display proudly; act ostentatiously or pretentiously,5,-5.2438708510286425,-5.3694041200502785,0.0
+reassail,assail again,1,-5.376538417906804,-5.376538417906804,0.0
+dissonate,be dissonant or harsh,2,-5.664783073072643,-5.664783073072643,0.0
+gluttonise,eat a lot and without restraint,3,-4.2605568696814045,-4.001310686238185,0.0
+unsubstantialize,render immaterial or incorporeal,3,-5.177124270022291,-5.277011575427647,0.0
+thurify,perfume especially with a censer,3,-5.1575441033844145,-5.19843886240326,0.0
+egotrip,act in a way that attracts attention,4,-3.6106881360692675,-3.481380018409525,0.0
+fluoridise,subject to fluoridation; treat with fluoride,4,-4.703213954332914,-4.588192341680594,0.0
+powderize,become powder or dust,3,-4.011331012669245,-4.400988802864296,0.0
+syllabise,divide into syllables,2,-4.626494525861526,-4.626494525861526,0.0
+aphorise,speak or write in aphorisms,3,-4.367736340575946,-3.5737783299761445,0.0
+skimcoat,coat with a mixture of gypsum and spackle,4,-5.4091053253563235,-4.82071635506461,0.0
+finedraw,sew together very finely,3,-4.490704481494693,-4.88258232112235,0.0
+uniformise,make uniform,2,-3.4398057124405317,-3.4398057124405317,0.0
+capsulise,enclose in a capsule,2,-4.773594679763321,-4.773594679763321,0.0
+sensibilise,make sensitive or aware,3,-3.768282852511501,-4.20956225425517,0.0
+circumvolute,"wind or turn in volutions, especially in an inward spiral, as of snail",7,-4.734629179414772,-4.934264879971229,0.0
+detransitivize,intransitivize,1,-9.908856381187789,-9.908856381187789,0.0
+aggroup,form a group or group together,4,-3.3063376298264022,-3.245135724444604,0.0
+desynchronise,cause to become desynchronized; cause to occur at unrelated times,7,-3.561464469340635,-3.3614513342302876,0.1428571428571429
+inunct,administer an oil or ointment to ; often in a religious ceremony of blessing,7,-4.302092111198125,-4.139431938883704,0.1428571428571429
+superfetate,conceive when a fetus is already present in the uterus,5,-4.343878208995195,-4.511557261962671,0.0
+instrumentate,write an instrumental score for,3,-4.144881435703248,-4.189066966903311,0.0
+bombilate,make a buzzing sound,3,-3.205840253761905,-3.205840253761905,0.33333333333333337
+cinematise,make a film of or adopt so as to make into a film,5,-3.400157290337501,-3.8270616701860143,0.0
+destalinize,counteract the effects and policies of Stalinism,4,-4.6219899627559,-4.439163689894919,0.0
+handcolor,color by hand,2,-3.549255716031806,-3.549255716031806,0.0
+sightsing,sing from a score without having seen it before,3,-3.7403008404038673,-4.183501618146505,0.0
+pervaporate,evaporate through a semipermeable membrane,3,-5.417685629659428,-5.064722071351286,0.0
+nigrify,make or become black,3,-3.1706374399534347,-3.210589575270905,0.0
+shamanise,practice shamanism,2,-4.934206565018625,-4.934206565018625,0.0
+handbuild,make without a potter's wheel,3,-3.9667468886020942,-4.218460563261088,0.0
+palpebrate,"wink or blink, especially repeatedly",4,-4.743311014639442,-4.975227536611651,0.0
+deglycerolize,remove from glycerol,2,-4.736445559146844,-4.736445559146844,0.0
+chiromance,divine by reading someone's palms,4,-4.112492946633422,-4.208246144185672,0.0
+aurify,transform into gold,2,-4.1921059405057415,-4.1921059405057415,0.0
+ablactate,gradually deprive (infants and young mammals) of mother's milk,7,-4.35544925022568,-4.354247262544772,0.0
+equilibrize,bring into balance or equilibrium,3,-3.913669660214738,-3.8281926821692482,0.0
+monologuize,talk to oneself,1,-3.7162340100067466,-3.7162340100067466,0.0
+coeducate,educate persons of both sexes together,4,-3.912505822690311,-3.8662967733867895,0.0
+shnorr,obtain or seek to obtain by cadging or wheedling,5,-4.845389713463699,-3.751504862082963,0.0
+vowelise,pronounce as a vowel,2,-4.9079451622004555,-4.9079451622004555,0.0
+shmoose,talk idly or casually and in a friendly way,5,-4.5380283918600774,-4.53984345530235,0.0
+transpirate,"pass through the tissue or substance or its pores or interstices, as of gas",6,-4.872057960287557,-4.586278705457797,0.0
+stalinise,transform in accordance with Stalin's policies,4,-4.31891533219316,-4.281343543181535,0.0
+inmarry,marry within one's own tribe or group,3,-3.9685319285187504,-3.9795261914976647,0.0
+spiritize,imbue with a spirit,2,-4.697914058434071,-4.697914058434071,0.0
+telepathise,communicate nonverbally by telepathy,3,-5.892923057182844,-6.25466138930735,0.0
+anathemise,wish harm upon; invoke evil upon,4,-4.367304441113214,-4.408621264872739,0.0
+symphonise,"play or sound together, in harmony",4,-3.9158878229212943,-3.680665508255466,0.0
+ptyalise,expel or eject (saliva or phlegm or sputum) from the mouth,6,-5.352084548191216,-5.483385848359298,0.0
+hygienize,make sanitary by cleaning or sterilizing,4,-4.294821538260506,-4.753419161221456,0.25
+discolorize,remove color from,2,-3.8120496564047395,-3.8120496564047395,0.0
+detusk,remove the tusks of animals,3,-4.582317502574159,-4.069339300845608,0.0
+sensify,make sensitive or aware,3,-3.768282852511501,-4.20956225425517,0.0
+intransitivize,intransitivize,1,-9.908856381187789,-9.908856381187789,0.0
+abacinate,blind by holding a red-hot metal plate before someone's eyes,6,-3.7741052259123236,-3.884419464971816,0.16666666666666663
+chickenfight,fight while sitting on somebody's shoulders,4,-4.132690331884026,-4.078076650891428,0.0
+glycerolize,place in glycerol,2,-4.394355215199109,-4.394355215199109,0.0
+etherialise,make ethereal,2,-4.214398165524315,-4.214398165524315,0.0
+reharmonise,provide with a different harmony,3,-3.728152215059511,-3.354368386502728,0.0
+transitivise,make transitive,2,-4.211476023579232,-4.211476023579232,0.0
+mussitate,talk indistinctly; usually in a low voice,5,-4.226742245382803,-3.734046310895536,0.0
+dulcorate,make sweeter in taste,3,-4.25568548174079,-4.289345427664807,0.0
+sorcerise,transform or change by means of sorcery,4,-4.170010422728544,-3.794191776499077,0.0
+solmizate,sing by the syllables of solmization,3,-5.702782463545437,-5.275904174058938,0.0
+malversate,appropriate (as property entrusted to one's care) fraudulently to one's own use,6,-4.059633755588372,-3.6914307904980745,0.0
+mismarry,marry an unsuitable partner,3,-4.5169410893455515,-4.1907093050291016,0.0
+cannulize,introduce a cannula or tube into,3,-4.657809898111682,-4.06335545495185,0.0
+animise,give lifelike qualities to,3,-4.314327233919985,-3.7494366814882465,0.0
+ancylose,produce ankylosis by surgery,3,-4.798206976899064,-4.47999701100149,0.0
+mudwrestle,wrestle in mud,2,-5.020247975795707,-5.020247975795707,0.0
+renegociate,negociate anew,2,-6.251915902321917,-6.251915902321917,0.0
+ovenbake,bake in an oven,2,-4.824878845675304,-4.824878845675304,0.0
+coconspire,conspire together,2,-4.533370413672941,-4.533370413672941,0.0
+dethaw,become or cause to become soft or liquid,5,-3.646091708914546,-3.3614513342302876,0.0
+handcolour,color by hand,2,-3.549255716031806,-3.549255716031806,0.0
+patinise,coat with a patina,2,-5.287565553926417,-5.287565553926417,0.0
+monologuise,talk to oneself,1,-3.7162340100067466,-3.7162340100067466,0.0
+acetylise,receive substitution of an acetyl group,4,-4.288699075390218,-4.093098546122936,0.0
+destalinise,counteract the effects and policies of Stalinism,4,-4.6219899627559,-4.439163689894919,0.0
+bedhop,be sexually active with more than one partner,3,-4.451241148980537,-4.1907093050291016,0.0
+satisfise,decide on and pursue a course of action satisfying the minimum requirements to achieve a goal,9,-3.9487877562092186,-4.0384913856762354,0.0
+cackel,make a cackling sound,3,-3.205840253761905,-3.205840253761905,0.33333333333333337
+baronetize,confer baronetcy upon,2,-5.618210714463381,-5.618210714463381,0.0
+detransitivise,intransitivize,1,-9.908856381187789,-9.908856381187789,0.0
+radiolocate,locate by means of radar,3,-4.012639348809604,-3.9761623119181078,0.0
+sentimentize,act in a sentimental way or indulge in sentimental thoughts or expression,7,-4.324981207132622,-4.503526819935753,0.1428571428571429
+demasculinise,remove the testicles of a male animal,4,-4.52329586939985,-4.096902953311941,0.0
+secernate,mark as different,2,-3.507248699505407,-3.507248699505407,0.0
+hygienise,make sanitary by cleaning or sterilizing,4,-4.294821538260506,-4.753419161221456,0.25

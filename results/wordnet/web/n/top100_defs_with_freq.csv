@@ -1,0 +1,101 @@
+lemma,definition,len_tokens,mean_log_freq,median_log_freq,miss_rate
+page,one side of one leaf (of a book or magazine or newspaper or letter etc.) or the written or pictorial matter it contains,10,-3.9152105002816215,-3.760469666228287,0.0
+time,an instance or single occasion for some event,4,-3.8688174868163347,-3.8905403699964207,0.0
+service,work done by one person or group that benefits another,5,-3.2255687952842806,-3.118523557514077,0.0
+search,the activity of looking thoroughly in order to find something or someone,7,-3.6525791853597154,-3.442480731514426,0.0
+site,the piece of land on which something is located (or is to be located),5,-4.108787702373793,-3.9225178565188132,0.0
+information,a message received and understood,3,-3.8669099928010215,-3.8233661701394577,0.0
+may,the month following April and preceding June,5,-4.083432593362359,-3.5931906674730527,0.0
+product,commodities offered for sale,3,-3.745873749671714,-3.340821190189117,0.0
+year,a period of time containing 365 (or 366) days,4,-3.3978312732598783,-3.28447584407127,0.0
+news,information about recent and important events,4,-3.3267514403463325,-3.4365223206322004,0.0
+day,time for Earth to make a complete rotation on its axis,6,-3.819564246757391,-3.788476463206387,0.0
+price,the property of having material worth (often indicated by the amount of money something would bring if sold),10,-3.7617747591567388,-3.66694197839252,0.0
+state,the territory occupied by one of the constituent administrative districts of a nation,6,-4.41815054720287,-4.22244720861576,0.0
+business,a commercial or industrial enterprise and the people who constitute it,5,-3.8933523197614868,-3.842654318393572,0.0
+contact,close interaction,2,-3.99309574255692,-3.99309574255692,0.0
+view,a way of regarding situations or topics etc.,5,-3.783117212170312,-3.997505933896573,0.0
+book,a written work or composition that has been published (printed on pages bound together),7,-3.8031148173352167,-3.795816031514178,0.0
+item,a distinct part that can be specified separately in a group of things that could be enumerated on a list,8,-4.11128765540113,-3.935107043325142,0.0
+right,an abstract idea of that which is due to a person or governmental body by law or tradition or nature; ; - Eleanor Roosevelt,11,-4.124744810632975,-3.855609161239701,0.0
+web,an intricate network suggesting something that was formed by weaving or interweaving,7,-4.598873961568943,-4.204491572375024,0.0
+system,instrumentality that combines interrelated interacting artifacts designed to work as a coherent entity,9,-4.8856510384326155,-5.0714694752090095,0.0
+post,the position where someone (as a guard or sentry) stands or is assigned to stand,7,-4.357511451426706,-3.9540022089361853,0.0
+pm,an examination and dissection of a dead body to determine cause of death or the changes produced by disease,10,-4.070460379712339,-3.9632924963771425,0.0
+hotel,a building where travelers can pay for lodging and meals and other services,6,-3.89427539563073,-4.101998629288236,0.0
+name,a language unit by which a person or thing is known,5,-3.447811733434108,-3.4925806513763145,0.0
+game,a contest with rules to determine a winner,4,-4.0471417737251265,-4.170739651937973,0.0
+list,a database containing an ordered array of items (names or topics),7,-3.5453269042839546,-3.3818408425360063,0.0
+date,the specified day of the month,3,-3.5947004658398654,-3.399844795944383,0.0
+work,activity directed toward making or doing something,4,-3.4821216154063834,-3.5459576008909566,0.0
+member,one of the persons who compose a social group (especially individuals who have joined and participate in a group organization),10,-3.793012615017271,-3.623219589871879,0.0
+top,the upper part of anything,3,-3.7438149645353787,-3.8887397904489203,0.0
+people,(plural) any group of human beings (men or women or children) collectively,8,-3.8458807287379653,-3.4251625456354047,0.0
+message,a communication (usually brief) that is written or spoken or signaled,6,-4.026972566754778,-3.9485063789138675,0.0
+policy,a plan of action adopted by an individual or social group,6,-3.655392037905673,-3.53984648303154,0.0
+user,a person who makes use of a thing; someone who uses or employs something,8,-3.5166296691717873,-3.4360685659917958,0.0
+school,an educational institution,2,-4.008485297584154,-4.008485297584154,0.0
+video,the visible part of a television transmission,4,-4.023442685125258,-4.178789911397593,0.0
+email,(computer science) a system of world-wide electronic communication in which a computer user can compose a message at one terminal that can be regenerated at the recipient's terminal when the recipient logs in,16,-3.9518659142082484,-3.693286198240033,0.0625
+city,a large and densely populated urban area; may include several independent administrative districts,10,-4.124811528540404,-3.8468726449997366,0.0
+program,a series of steps to be carried out or goals to be accomplished,5,-4.051101944909329,-3.8672399363524947,0.0
+number,the property possessed by a sum or total or indefinite quantity of units or individuals,8,-4.146332466480567,-3.8673404483214275,0.0
+group,any number of entities (members) considered as a unit,5,-3.6233626908469225,-3.592722142323107,0.0
+company,an institution created to conduct business,4,-3.7056374445237816,-3.815200690883822,0.0
+world,everything that exists anywhere,3,-4.232618489306241,-4.39020748521555,0.0
+health,a healthy state of wellbeing free from disease,5,-3.8831290331532378,-3.842076752591857,0.0
+comment,a statement that expresses a personal opinion or belief or adds information,7,-3.5762938188249804,-3.638216734550912,0.0
+store,a mercantile establishment for the retail sale of goods or services,6,-3.903333400960167,-3.611191017236056,0.0
+music,an artistic form of auditory communication incorporating instrumental or vocal tones in a structured and continuous manner,11,-4.42135340109029,-4.429561533347373,0.0
+forum,a public meeting or assembly for open discussion,5,-3.592432792655147,-3.5650183123974855,0.0
+data,a collection of facts from which conclusions may be drawn,4,-3.982724817467335,-3.980388626677433,0.0
+part,something determined in relation to something that includes it,5,-3.7651629447494637,-3.649434470267487,0.0
+result,a phenomenon that follows and is caused by some previous phenomenon,5,-4.1339577728557515,-3.930727138601495,0.0
+photo,a representation of a person or scene in the form of a print or transparent slide; recorded by a camera on light-sensitive material,11,-3.8525189520961156,-3.545874682495758,0.09090909090909094
+term,a word or expression used for some particular thing,5,-3.5712695928739917,-3.4916732617925734,0.0
+copyright,a document granting exclusive right to publish and sell literary or musical or artistic work,10,-3.96287827129665,-3.9984488565492984,0.0
+area,a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography),13,-4.172398708408995,-3.901059592946117,0.0
+car,a motor vehicle with four wheels; usually propelled by an internal combustion engine,8,-4.339940963933811,-4.042409487997984,0.0
+map,a diagrammatic representation of the earth's surface (or part of it),5,-4.428299501165176,-4.001330298860221,0.0
+software,(computer science) written programs or procedures or rules and associated documentation pertaining to the operation of a computer system and that are stored in read/write memory,14,-3.6619024468660863,-3.5775571935293256,0.0
+jan,the first month of the year; begins 10 days after the winter solstice,7,-3.6857591960640232,-3.399844795944383,0.0
+way,how something is done or how it happens,3,-3.6345987363259376,-3.649434470267487,0.0
+job,the principal activity in your life that you do to earn money,5,-3.778758427788733,-3.4875726595593806,0.0
+line,a formation of people or things one beside another,4,-3.9926509296162638,-3.9327034349238703,0.0
+info,a message received and understood,3,-3.8669099928010215,-3.8233661701394577,0.0
+sale,a particular instance of selling,3,-4.083587268390262,-4.122323274621533,0.0
+life,a characteristic state or mode of living,4,-3.6976554294338846,-3.7987932388323324,0.0
+type,a subdivision of a particular kind of thing,4,-3.966314458960936,-3.8248715622412206,0.0
+student,a learner who is enrolled in an educational institution,4,-4.658527824267338,-4.40519710976874,0.0
+rate,a magnitude or frequency relative to a time unit,5,-3.9406245981629104,-4.223283174489497,0.0
+movie,a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement,11,-4.020815059062972,-3.720723930339857,0.0
+category,a collection of things sharing a common attribute,5,-3.7200742009355183,-3.6503443873664096,0.0
+computer,a machine for performing calculations automatically,4,-4.193463560533349,-4.254751561103324,0.0
+picture,a visual representation (of an object or scene or person or abstraction) produced on a surface,8,-4.152768373443919,-4.092024136167781,0.0
+article,nonfictional prose forming an independent part of a publication,6,-3.8886413987152517,-3.7023932251619356,0.16666666666666663
+privacy,the quality of being secluded from the presence or view of others,5,-4.413298499294423,-3.722592900747357,0.0
+university,the body of faculty and students at a university,4,-3.520122109738041,-3.412830227293713,0.0
+center,an area that is approximately central within some larger region,5,-3.6633386509246533,-3.650818582692157,0.0
+child,a young person of either sex,3,-3.4618259025026745,-3.4925806513763145,0.0
+project,any piece of work that is undertaken or attempted,4,-4.008784049725078,-4.056910845424646,0.0
+event,something that happens at a given place and time,5,-3.5081426180819433,-3.4991683377907523,0.0
+detail,an isolated fact that is considered separately from the whole,5,-4.355683285407318,-4.036575952606206,0.0
+phone,electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds,13,-4.004941894686626,-3.956905502435165,0.0
+sex,activities associated with sexual intercourse,4,-4.216322378749525,-4.051446602787973,0.0
+doe,the federal department responsible for maintaining a national energy policy of the United States; created in 1977,10,-3.535954226762931,-3.522924215519133,0.0
+case,an occurrence of something,2,-4.2727668320283625,-4.2727668320283625,0.0
+art,the products of human creativity; works of art collectively,6,-3.8093070426225495,-3.3966997867458866,0.0
+resource,available source of wealth; a new or reserve supply that can be drawn upon when needed,8,-3.610035559153484,-3.4878276687967755,0.0
+woman,an adult female person (as opposed to a man),5,-3.952006153592457,-3.6540897842334665,0.0
+research,systematic investigation to establish facts,4,-4.306697202509183,-4.308020329691553,0.0
+image,an iconic mental representation,3,-4.840662745405684,-4.3669391441115195,0.0
+january,the first month of the year; begins 10 days after the winter solstice,7,-3.6857591960640232,-3.399844795944383,0.0
+subject,the subject matter of a conversation or discussion,4,-3.790511183155197,-3.6980189009138225,0.0
+community,a group of people living in a particular local area,6,-3.3611726472157746,-3.2593061169098885,0.0
+management,the act of managing something,3,-3.80331308662181,-3.649434470267487,0.0
+card,one of a set of small pieces of stiff paper marked in various ways and used for playing games or for telling fortunes,13,-3.6794555168103997,-3.532601899696378,0.0
+development,act of improving by expanding or enlarging or refining,5,-4.326810954928621,-4.262680441778172,0.0
+family,a social unit living together,4,-3.6404377179932275,-3.6082934525989625,0.0
+dvd,a digital recording (as of a movie) on an optical disk that can be played on a computer or a television set,9,-3.6306403283859865,-3.4633729105331064,0.0
+office,place of business where professional or clerical duties are performed,6,-3.9033240693919695,-3.825534230082824,0.0
+technology,the practical application of science to commerce or industry,5,-3.7465948913072538,-3.485790772346987,0.0

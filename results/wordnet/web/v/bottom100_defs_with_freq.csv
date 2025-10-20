@@ -1,0 +1,101 @@
+lemma,definition,len_tokens,mean_log_freq,median_log_freq,miss_rate
+foreknow,realize beforehand,2,-4.958469985559817,-4.958469985559817,0.0
+dehumanise,deprive of human qualities,3,-4.098470955811718,-3.563794636130359,0.0
+scarify,"puncture and scar (the skin), as for purposes or tribal identification or rituals",7,-4.645238196618215,-4.73055558299196,0.0
+rubberstamp,"stamp with a rubber stamp, usually an indication of official approval on a document",8,-4.16504310894661,-4.251046470569992,0.0
+mistime,time incorrectly,2,-4.064708939729479,-4.064708939729479,0.0
+transmogrify,change completely the nature or appearance of,4,-3.9483727895629253,-4.04795767588367,0.0
+brutalise,treat brutally,2,-4.960796238181633,-4.960796238181633,0.0
+sough,make a murmuring sound,3,-3.222355801220309,-3.222355801220309,0.33333333333333337
+reshoot,shoot again,1,-3.913780366600203,-3.913780366600203,0.0
+tessellate,"fit together exactly, of identical shapes",5,-4.176946746962172,-4.096830276162845,0.0
+desalinate,remove salt from,2,-4.059821793820757,-4.059821793820757,0.0
+benumb,make numb or insensitive,3,-4.67373989804846,-5.544099284203501,0.0
+traduce,speak unfavorably about,2,-5.359577965821657,-5.359577965821657,0.0
+repine,express discontent,2,-4.804046040083653,-4.804046040083653,0.0
+appall,strike with disgust or revulsion,3,-5.314077309647499,-5.297204699815258,0.0
+debone,remove the bones from,2,-4.07791340523395,-4.07791340523395,0.0
+bestir,become active,2,-3.6483155123352167,-3.6483155123352167,0.0
+swinge,burn superficially or lightly,3,-5.212685393401373,-5.176056002707368,0.0
+imbricate,place so as to overlap,2,-4.104879207441908,-4.104879207441908,0.0
+unbelt,undo the belt of,2,-4.645073142571429,-4.645073142571429,0.0
+quantise,approximate (a signal varying continuously in amplitude) by one whose amplitude is restricted to a prescribed set of discrete values,10,-4.3666146710854745,-4.42001143540097,0.09999999999999998
+overexploit,exploit excessively,2,-5.245562494166025,-5.245562494166025,0.0
+mythologize,construct a myth,2,-4.676366651190442,-4.676366651190442,0.0
+unclip,remove the clip from,2,-3.8747164999426174,-3.8747164999426174,0.0
+proselytise,convert to another faith or religion,3,-4.169219585631048,-4.16637503770755,0.0
+analogize,make an analogy,2,-4.113860820352798,-4.113860820352798,0.0
+siss,express or utter with a hiss,3,-4.938026737731849,-5.247437332693319,0.0
+purvey,supply with provisions,2,-3.743502660522875,-3.743502660522875,0.0
+compartmentalise,separate into isolated compartments or categories,4,-4.374344719586952,-4.346568666596548,0.0
+gallivant,wander aimlessly in search of pleasure,4,-4.681616419391168,-4.777194431475733,0.0
+disfranchise,deprive of voting rights,3,-4.106377323731056,-4.106377323731056,0.33333333333333337
+dichotomize,divide into two opposing groups or kinds,4,-3.982862358823161,-4.158132911062995,0.0
+prognosticate,make a prediction about; tell in advance,4,-3.653000872707323,-3.441648735524884,0.0
+whistlestop,tour the country in order to solicit votes for an election,6,-3.900307017882376,-3.6916516792141154,0.0
+agglutinate,string together (morphemes in an agglutinating language),5,-5.134111151522416,-3.9464476798489523,0.0
+underquote,offer for sale at a price lower than the market price,6,-3.2662792906825895,-3.244722617679873,0.0
+schuss,ski downhill,2,-4.7889784172928795,-4.7889784172928795,0.0
+illume,make lighter or brighter,3,-3.929149701496982,-3.478678026378575,0.0
+transship,transfer for further transportation from one ship or conveyance to another,4,-4.19124401143142,-3.9362572274346377,0.0
+decriminalise,make legal,2,-3.215027483980152,-3.215027483980152,0.0
+strangulate,kill by squeezing the throat of so as to cut off the air,5,-4.188403382579258,-3.9453320611018046,0.0
+ruckle,"make a hoarse, rattling sound",4,-4.559637915245016,-4.5213437323049135,0.0
+brecciate,form into breccia,2,-4.960790741689488,-4.960790741689488,0.0
+judder,shake or vibrate rapidly and intensively,4,-5.191592844076307,-5.044912863320291,0.0
+universalize,make universal,2,-3.5042683809727126,-3.5042683809727126,0.0
+topdress,scatter manure or fertilizer over (land),4,-4.8219452221077175,-5.0634922647754586,0.0
+betoken,be a signal for or a symptom of,2,-4.617288374291725,-4.617288374291725,0.0
+tenderize,"make tender or more tender as by marinating, pounding, or applying a tenderizer",7,-4.699544945572703,-4.660276964491947,0.0
+romanticise,interpret romantically,2,-5.567023756668352,-5.567023756668352,0.0
+angulate,make or become angular,3,-3.891996041178876,-3.451879154871438,0.0
+confute,prove to be false,2,-4.1753565424978145,-4.1753565424978145,0.0
+criminate,bring an accusation against; level a charge against,4,-4.129481933277514,-3.670889447332136,0.0
+canonise,treat as a sacred person,3,-4.146378647324115,-4.036732613625638,0.0
+rejig,re-equip a factory or plant,3,-4.060339713818523,-4.060339713818523,0.33333333333333337
+quiesce,become quiet or quieter,3,-4.634607274469034,-4.539422488529102,0.0
+opsonize,make (cells) more susceptible to the action of phagocytes,5,-4.532253879263566,-3.7161311329751916,0.0
+troat,emit a cry intended to attract other animals; used especially of animals at rutting time,10,-4.130275797144334,-4.0447739472867745,0.0
+barde,put a caparison on,2,-3.609164337481311,-3.609164337481311,0.5
+hypophysectomize,remove the pituitary glands,3,-4.941080552421005,-5.360998135087756,0.0
+cogitate,consider carefully and deeply; reflect upon; turn over in one's mind,6,-4.1020374549737815,-3.9708309040054246,0.0
+desex,make infertile,2,-4.568072023198468,-4.568072023198468,0.0
+unbolt,undo the bolt of,2,-4.838629211236526,-4.838629211236526,0.0
+conventionalize,make conventional or adapt to conventions,4,-4.113105161285478,-4.482135862209395,0.0
+souse,cover with liquid; pour liquid onto,4,-4.219682480572651,-4.442677684089711,0.0
+dematerialize,become immaterial; disappear,3,-4.776873146714102,-4.7680115977856055,0.0
+scandalise,strike with disgust or revulsion,3,-5.314077309647499,-5.297204699815258,0.0
+catheterize,insert a catheter into (a body part),4,-4.155996158891012,-3.9130532250914976,0.0
+anglicise,make English in appearance,3,-3.6320176091307395,-3.533003603880143,0.0
+transistorize,equip (an electronic circuit or device) with transistors,5,-4.443035316556208,-4.24313972155636,0.0
+sermonize,speak as if delivering a sermon; express moral judgements,6,-4.458140599765849,-4.281086477340067,0.0
+remold,cast again,1,-4.130964265737276,-4.130964265737276,0.0
+unweave,undo strands that have been woven together,4,-4.5617019094480735,-4.778696157023134,0.0
+fictionalise,make into fiction,2,-3.453130631363959,-3.453130631363959,0.0
+intermit,cease an action temporarily,3,-4.456701884048407,-4.873505789977441,0.0
+concretize,make something concrete,3,-3.649955712690403,-3.6494344707984254,0.0
+chaffer,"wrangle (over a price, terms of an agreement, etc.)",5,-4.00635532350434,-3.722754309676494,0.0
+expostulate,reason with (somebody) for the purpose of dissuasion,4,-4.95132127675172,-4.228389087559309,0.0
+attaint,bring shame or dishonor upon,3,-4.915892638063551,-4.93790035200848,0.0
+empanel,enter into a list of prospective jurors,4,-4.247990425569558,-4.149686092844986,0.0
+outdistance,go far ahead of,3,-3.675075117565612,-3.8006977125739825,0.0
+underdress,dress without sufficient warmth,3,-4.606690042037074,-4.45549592025748,0.0
+automatize,turn into an automaton,2,-4.794582888465241,-4.794582888465241,0.0
+chemisorb,take up a substance by chemisorption,3,-4.936205193127595,-4.560306289730695,0.0
+iodise,treat with iodine,2,-4.83769472050828,-4.83769472050828,0.0
+demilitarise,do away with the military organization and potential of,4,-3.868939720086124,-3.903866901536831,0.0
+unitise,divide (bulk material) and process as units,5,-3.958091487539926,-3.7976630313999573,0.0
+overstrain,strain excessively,2,-5.189222925526355,-5.189222925526355,0.0
+dialyse,separate by dialysis,2,-4.7774569367740884,-4.7774569367740884,0.0
+afforest,establish a forest on previously unforested land,5,-3.9602349887505865,-3.92910465601424,0.19999999999999996
+speechify,"make speeches; hold forth, or harangue with a certain degree of formality",8,-4.466193635745995,-4.109818148716685,0.0
+systematise,arrange according to a system or reduce to a system,5,-3.697725407082128,-3.803556359264858,0.0
+systemize,arrange according to a system or reduce to a system,5,-3.697725407082128,-3.803556359264858,0.0
+convect,circulate hot air by convection,4,-4.42413485878811,-4.328433102911257,0.0
+uncoil,unwind or untwist,2,-6.49490831171901,-6.49490831171901,0.0
+lipread,interpret by lipreading; of deaf people,4,-5.087978471022117,-4.808812124818414,0.0
+delouse,free of lice,2,-4.639579852703962,-4.639579852703962,0.0
+rusticate,live in the country and lead a rustic life,5,-3.772844070719917,-3.4625471459997366,0.0
+expurgate,edit by omitting or modifying parts considered indelicate,6,-4.5477073386229705,-3.6368151409401976,0.16666666666666663
+concuss,shake violently,2,-5.171945766303037,-5.171945766303037,0.0
+forfend,prevent the occurrence of; prevent from happening,4,-4.237875511003352,-4.041306015875628,0.0

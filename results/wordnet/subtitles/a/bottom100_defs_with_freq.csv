@@ -1,0 +1,101 @@
+lemma,definition,len_tokens,mean_log_freq,median_log_freq,miss_rate
+keyed,fitted with or secured by a key,3,-4.26640025190862,-4.225633025417915,0.0
+castrated,deprived of sexual capacity or sexual attributes,5,-5.213065488388935,-5.057433839126989,0.0
+impractical,not practical; not workable or not given to practical matters,5,-4.112935649099051,-4.243615490168611,0.19999999999999996
+flaky,made of or resembling flakes,3,-4.954369336976889,-5.85877063969824,0.0
+untrained,not disciplined or conditioned or made adept by training,4,-4.155660903600824,-4.364103919689622,0.0
+metabolic,of or relating to metabolism,2,-5.629747627832034,-5.629747627832034,0.0
+gradual,proceeding in small stages,3,-4.260956876115247,-4.29579563963024,0.0
+supersonic,(of speed) greater than the speed of sound in a given medium (especially air),8,-3.939706627468955,-4.004377087273395,0.0
+tolerable,capable of being borne or endured,3,-5.161147372225803,-5.182803118613861,0.0
+meager,deficient in amount or quality or extent,4,-4.836118873302895,-4.7151133026556735,0.25
+spectral,of or relating to a spectrum,2,-5.461408053227618,-5.461408053227618,0.0
+fledged,(of birds) having developed feathers or plumage; often used in combination,7,-4.5129436592956,-4.604615509018807,0.1428571428571429
+maleficent,harmful or evil in intent or effect,4,-4.907804610716924,-4.873895397658604,0.0
+motivational,of or relating to motivation,2,-5.402635256099382,-5.402635256099382,0.0
+resentful,full of or marked by resentment or indignant ill will,5,-4.485976262916844,-4.272174660015827,0.19999999999999996
+jittery,characterized by jerky movements,3,-5.558563571888418,-5.728947695814196,0.0
+undesirable,not wanted,1,-2.573982152814122,-2.573982152814122,0.0
+feline,of or relating to cats,2,-4.75587281746677,-4.75587281746677,0.0
+philharmonic,composing or characteristic of an orchestral group,4,-5.419845538143817,-5.853968487815207,0.0
+undue,not yet payable,2,-4.817775176640122,-4.817775176640122,0.0
+unafraid,oblivious of dangers or perils or calmly resolute in facing them,6,-5.1610977469636,-5.57088174393245,0.0
+incomparable,such that comparison is impossible; unsuitable for comparison or lacking features that can be compared,7,-5.160611552369049,-5.248998652885721,0.0
+monogamous,(used of relationships and of individuals) having one mate,4,-4.172449746971178,-4.192284054045055,0.0
+horned,having a horn or horns or hornlike parts or horns of a particular kind,7,-4.120511721123866,-4.446325896615801,0.1428571428571429
+alphabetical,relating to or expressed by a writing system that uses an alphabet,6,-4.567802070506816,-4.505380061327456,0.0
+flowery,of or relating to or suggestive of flowers,3,-4.992594078806828,-4.992594078806828,0.33333333333333337
+consecrated,solemnly dedicated to or set apart for a high purpose,6,-4.511384479976411,-4.316603802457932,0.0
+thoracic,of or relating to the chest or thorax,3,-4.902534484110763,-4.902534484110763,0.33333333333333337
+kinetic,relating to the motion of material bodies and the forces associated therewith,7,-4.571772349157332,-4.690910540954343,0.1428571428571429
+celebratory,used for celebrating,2,-4.210138807577696,-4.210138807577696,0.0
+unscrupulous,without scruples or principles,2,-5.057571829295338,-5.057571829295338,0.5
+likeable,(of characters in literature or drama) evoking empathic or sympathetic feelings,7,-4.723653569808586,-4.783321702114251,0.2857142857142857
+pancreatic,of or involving the pancreas,2,-5.571169751909146,-5.571169751909146,0.0
+bulging,curving or bulging outward,3,-5.771091655905319,-5.874391686575127,0.0
+ideological,of or pertaining to or characteristic of an orientation that characterizes the thinking of a group or nation,7,-4.837571231196345,-5.100209347146936,0.1428571428571429
+soapy,resembling or having the qualities of soap,3,-5.093370321220626,-4.880505722508446,0.0
+inaccessible,capable of being reached only with great difficulty or not at all,4,-4.256436994407571,-4.360880741778752,0.0
+proactive,descriptive of any event or stimulus or process that has an effect on events or stimuli or processes that occur subsequently,10,-5.105908699522498,-4.566851379062684,0.09999999999999998
+marxist,following the ideas of Marx and Engels,4,-4.302000873016725,-3.845697314310429,0.25
+parliamentary,relating to or having the nature of a parliament,3,-4.966356007186025,-5.249090573546831,0.0
+bionic,of or relating to bionics,2,-5.356095280506189,-5.356095280506189,0.5
+unselfish,disregarding your own advantages and welfare over those of others,4,-4.8038433517438675,-4.870352261145229,0.0
+calibrated,marked with or divided into degrees,3,-4.660088744447265,-4.714414899924143,0.0
+inefficient,not producing desired results; wasteful,4,-5.311351225364735,-5.209133348740267,0.0
+aortic,of or relating to the aorta,2,-5.633653384482811,-5.633653384482811,0.0
+irreparable,"impossible to repair, rectify, or amend",4,-5.3214438662668915,-5.511874557552819,0.0
+departmental,of or relating to a department,2,-4.7803725577081,-4.7803725577081,0.0
+systolic,of or relating to a systole or happening during a systole,4,-4.475612801440211,-4.475612801440211,0.5
+uneventful,marked by no noteworthy or significant events,4,-4.534626720966649,-4.513440416668609,0.25
+existent,having existence or being or actuality,2,-4.794720408945828,-4.794720408945828,0.5
+feudal,of or relating to or characteristic of feudalism,3,-5.621540899684845,-5.621540899684845,0.33333333333333337
+loopy,consisting of or covered with or having loops,3,-5.085268919090254,-5.077728744410181,0.0
+toed,"having a toe or toes of a specified kind; often used in combination; five-toed""",8,-4.545451929707302,-4.958221925616719,0.125
+moonlit,lighted by moonlight,2,-4.476883202210554,-4.476883202210554,0.0
+impersonal,not relating to or responsive to individual persons,4,-4.947500489592143,-5.104721199226853,0.0
+automotive,of or relating to motor vehicles,3,-4.925089481775366,-4.880728726898895,0.0
+unturned,not turned,1,-3.5047237487164566,-3.5047237487164566,0.0
+incompatible,not compatible,1,-5.6607669736172905,-5.6607669736172905,0.0
+metaphysical,pertaining to or of the nature of metaphysics,3,-4.293882167505056,-4.293882167505056,0.6666666666666667
+geographical,of or relating to the science of geography,3,-5.119103467785812,-5.356095280506189,0.0
+regimental,belonging to or concerning a regiment,3,-4.7005354383476945,-4.534418132684192,0.0
+rectal,of or involving the rectum,2,-5.592057321578265,-5.592057321578265,0.0
+hydrated,containing combined water (especially water of crystallization as in a hydrate),7,-4.655718927904078,-4.631748957602022,0.1428571428571429
+rhyming,having corresponding sounds especially terminal sounds,5,-4.60562953967599,-4.171322500321935,0.0
+cinematic,of or pertaining to or characteristic of the cinema,3,-5.4852474961120175,-5.4852474961120175,0.33333333333333337
+bellied,having a belly; often used in combination,4,-4.343868841495587,-4.482512241771964,0.0
+interplanetary,between or among planets,1,-4.146086852523083,-4.146086852523083,0.0
+alternating,(of a current) reversing direction,3,-4.696697808276583,-4.645565998725588,0.0
+decreasing,becoming less or smaller,3,-3.831006836485734,-3.8084785904138228,0.0
+journalistic,of or relating to or having the characteristics of journalism,3,-5.596447722694628,-5.546261368714194,0.0
+harmonic,of or relating to harmony as distinct from melody and rhythm; - Ralph Hill,7,-5.0714071596517964,-5.1603748348643395,0.0
+inhumane,lacking and reflecting lack of pity or compassion,5,-4.879304520175989,-4.683303546432523,0.0
+aground,stuck in a place where a ship can no longer float,5,-4.091297150730836,-4.021134604834344,0.19999999999999996
+freudian,of or relating to Sigmund Freud or his psychoanalytic ideas,5,-5.115847914886827,-5.446877940961128,0.19999999999999996
+insubordinate,not submissive to authority,2,-5.329238781870178,-5.329238781870178,0.0
+plowed,(of farmland) broken and turned over with a plow,4,-4.889026745649045,-4.923718424393596,0.0
+likable,(of characters in literature or drama) evoking empathic or sympathetic feelings,7,-4.723653569808586,-4.783321702114251,0.2857142857142857
+discontinued,stopped permanently or temporarily,3,-4.5721158665791615,-5.308536137359405,0.0
+floored,provided with a floor,2,-4.33216684607792,-4.33216684607792,0.0
+sorrowful,experiencing or marked by or expressing sorrow especially that associated with irreparable loss; ; ; ; - Proverbs 14:13,9,-4.875432536836168,-4.748944082054237,0.0
+occipital,of or relating to the occiput,2,-5.356095280506189,-5.356095280506189,0.5
+sidearm,(of pitches) made with the arm moving parallel to the ground,6,-4.098236389353957,-4.114013580987538,0.0
+underprivileged,lacking the rights and advantages of other members of society,5,-4.116317347352322,-4.455573454879628,0.0
+toothed,having teeth especially of a certain number or type; often used in combination,8,-4.129749872155502,-4.175018641343426,0.0
+incoherent,without logical or meaningful connection,3,-5.025259297217159,-5.1229622031383,0.0
+contemptible,deserving of contempt or scorn,3,-5.188922285872774,-5.338801908318393,0.0
+futuristic,of or relating to futurism,2,-5.356095280506189,-5.356095280506189,0.5
+reconstructed,adapted to social or economic change,4,-4.659804179544265,-4.808697654300776,0.0
+restful,affording physical or mental rest,4,-4.320910850265674,-4.478691193753109,0.0
+antiseptic,thoroughly clean and free of or destructive to disease-causing organisms,6,-4.758238011551529,-5.299701427674209,0.16666666666666663
+prenatal,occurring or existing before birth,3,-4.669283811499345,-4.454052841952944,0.0
+synonymous,(of words) meaning the same or nearly the same,3,-3.6426843784780707,-3.623384002879737,0.0
+inanimate,belonging to the class of nouns denoting nonliving things,6,-4.387517390886078,-4.160026793322155,0.33333333333333337
+shaven,having the beard or hair cut off close to the skin,5,-4.041472842462601,-3.8674026596424635,0.0
+breasted,having a breast or breasts; or breasts as specified; used chiefly in compounds,7,-4.919817009998717,-4.988690145567439,0.1428571428571429
+directional,relating to or indicating directions in space,4,-4.757431945586447,-4.811151029628025,0.0
+unsupervised,not supervised or under constant observation,3,-5.2751974776283355,-5.144649718981797,0.0
+parasitic,relating to or caused by parasites,3,-4.9759970575153805,-5.356095280506189,0.0
+inconspicuous,not prominent or readily noticeable,3,-5.895388686701886,-5.987824556464737,0.0
+methodist,of or pertaining to or characteristic of the branch of Protestantism adhering to the views of Wesley,7,-5.310062903642076,-5.2652930445477715,0.2857142857142857

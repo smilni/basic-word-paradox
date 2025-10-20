@@ -1,0 +1,101 @@
+lemma,definition,len_tokens,mean_log_freq,median_log_freq,miss_rate
+one,The represented by the ; the numerical value equal to that cardinal number.,6,-3.96803853814345,-3.9864379610140874,0.0
+may,To be strong; to have power (over).,2,-3.5034346836272023,-3.5034346836272023,0.0
+time,The inevitable progression into the future with the passing of present and past events.,7,-3.9985648974432455,-3.7235145872562287,0.0
+state,A condition; a set of circumstances applying at any given time.,6,-3.4258878337205356,-3.3345192565334587,0.0
+year,A period of time akin to the time taken for the Earth to undergo a full cycle of seasons.,10,-3.7994280271561083,-3.7028181263178257,0.0
+new,"made, or created.",2,-3.5925589107099016,-3.5925589107099016,0.0
+two,A numerical value equal to 2; this many dots (••).,5,-3.930745625735139,-3.8292881161334784,0.0
+also,In addition; besides; as well; further; too.,3,-3.661135024832031,-3.6881401881093105,0.0
+first,Preceding all others of a series or kind; the ordinal of one; earliest.,6,-4.2630182839784565,-3.63295747706966,0.0
+see,"To perceive or detect someone or something with the eyes, or as if by sight.",6,-4.194076917855363,-4.163801522087056,0.0
+made,A grub or maggot.,2,-5.75294178057823,-5.75294178057823,0.0
+work,Employment.,1,-3.8195783017597678,-3.8195783017597678,0.0
+case,"An actual event, situation, or fact.",4,-3.6620273549264257,-3.7108799596508515,0.0
+day,The time when the Sun is above the horizon and it lights the sky.,5,-3.8595047678821173,-4.035737574313599,0.0
+part,A portion; a component.,2,-3.8720411928537675,-3.8720411928537675,0.0
+find,To locate,1,-4.920028416960738,-4.920028416960738,0.0
+well,"Accurately, competently, satisfactorily.",3,-5.291951762905963,-4.996976212438935,0.0
+great,Taking much space; large.,4,-3.3509265080745063,-3.281161352179944,0.0
+system,A group or set of related things that operate together as a complex whole.,8,-3.6274102216768727,-3.5532232222956788,0.0
+many,"before a countable noun: A large, indefinite number of.",5,-4.4876039924321764,-4.837118784343733,0.0
+service,An act of being of assistance to someone.,3,-3.730258729815405,-3.946180690668879,0.0
+must,To do as a requirement; .,1,-3.706344379512866,-3.706344379512866,0.0
+like,"To enjoy, be pleased by; favor; be in favor of.",4,-4.2477988412429735,-4.216271779057614,0.0
+make,To create.,1,-4.091068956627387,-4.091068956627387,0.0
+use,The act of using.,2,-3.1150868308585093,-3.1150868308585093,0.0
+right,"Designating the side of the body which is positioned to the east if one is facing north, the side on which the heart is not located in most humans. This arrow points to the reader's right: →",15,-3.7806182558936823,-3.5543784409393293,0.0
+number,Quantity.,1,-3.9337666083415113,-3.9337666083415113,0.0
+way,To do with a place or places.,2,-3.211455825014654,-3.211455825014654,0.0
+people,a body of persons considered generally or collectively; a group of two or more persons.,7,-3.7035456379612843,-3.4475974146643313,0.0
+general,"Including or involving every part or member of a given or implied entity, whole, etc.; common to all, universal.",11,-3.8994252757601386,-3.717774710626506,0.0
+law,"The body of binding rules and regulations, customs and standards established in a community by its legislative and judicial authorities.",11,-3.7927960463602397,-3.6334146902570206,0.09090909090909094
+act,"Something done, a deed.",3,-3.5750393755887218,-3.6067067166288718,0.0
+life,"The state of organisms preceding their death, characterized by biological processes such as metabolism and reproduction and distinguishing them from inanimate objects; the state of being alive and living.",15,-4.2418828079055775,-4.455258653966519,0.0
+even,Flat and level.,2,-3.8108463824232777,-3.8108463824232777,0.0
+far,Distant; remote in space.,3,-4.220141398565551,-4.481667205185065,0.0
+much,A large amount of.,2,-3.3636305858610336,-3.3636305858610336,0.0
+section,A cutting; a part cut out from the rest of something.,5,-3.6146931374878326,-3.8054028193382807,0.0
+order,"Arrangement, disposition, or sequence.",3,-4.229486727064452,-4.223421593489475,0.0
+company,A team; a group of people who work together professionally.,6,-3.754833417576523,-3.433395432622077,0.0
+court,"An enclosed space; a courtyard; an uncovered area shut in by the walls of a building, or by different buildings; also, a space opening from a street and nearly surrounded by houses; a blind alley.",19,-4.067508656619586,-3.7566623400204757,0.0
+water,"A inorganic compound (of molecular formula H2O) found at room temperature and pressure as a clear liquid; it is present naturally as rain, and found in rivers, lakes and seas; its solid form is ice and its gaseous form is steam.",23,-4.070591451476217,-4.109589818364213,0.04347826086956519
+three,A numerical value after two and before four. Represented in Arabic digits as 3; this many dots (•••).,7,-4.2743816880069625,-4.649635291203784,0.0
+government,"The body with the power to make and/or enforce laws to control a country, land area, people or organization.",11,-3.4073053321362297,-3.225094207249511,0.0
+school,An institution dedicated to teaching and learning; an educational institution.,6,-4.284500360303979,-4.057298038776407,0.0
+public,Able to be known or seen by everyone; happening without concealment; open to general view.,9,-3.7891110656458764,-3.590546650957252,0.0
+man,An adult male human.,3,-3.8400810419218243,-3.986442345869833,0.0
+child,"A person who has not yet reached adulthood, whether natural (puberty), cultural (initiation), or legal (majority).",10,-4.22571443880226,-4.005639029083728,0.0
+place,An area; somewhere within an area.,3,-3.685991017424151,-3.225094207249511,0.0
+however,"Nevertheless; yet, still; in spite of that.",4,-3.8784325318765336,-3.8616325202954274,0.0
+power,The ability to do or undergo something.,3,-4.186033644574873,-3.9428264865763514,0.0
+country,"The territory of a nation; a sovereign state or a region once independent and still distinct in institutions, language, etc.",11,-3.8559328406205235,-3.7531155121479958,0.0
+area,A measure of the extent of a surface; it is measured in square units.,6,-3.7252424880966473,-3.6668552926180396,0.0
+study,"To review materials already learned in order to make sure one does not forget them, usually in preparation for an examination.",11,-3.7328634786912818,-3.7340463092631038,0.0
+point,A small dot or mark.,3,-4.018660183766833,-3.888709692183128,0.0
+long,Having much distance in space from one end to the other.,4,-3.510563371393064,-3.5112632390139202,0.0
+take,"To get into one's hands, possession or control, with or without force.",5,-3.507885917691856,-3.36586848012022,0.0
+house,A structure built or serving as an abode of human beings.,6,-3.9317152949182415,-3.807019639311525,0.0
+say,To pronounce.,1,-5.377924648000415,-5.377924648000415,0.0
+result,"To proceed, spring up or rise, as a consequence, from facts, arguments, premises, combination of circumstances, consultation, thought or endeavor.",12,-4.061085062110237,-4.014698435740407,0.08333333333333337
+member,One who belongs to a group.,2,-3.8816303467937683,-3.8816303467937683,0.0
+high,"Physically elevated, extending above a base or average level",6,-4.252573055352462,-4.068876533137031,0.0
+report,"To relate details of (an event or incident); to recount, describe (something). {{defdate|from }}",7,-4.271875001835624,-4.291635136768179,0.0
+know,To perceive the truth or factuality of; to be certain of; to be certain that.,5,-4.5424358580255655,-3.9055346625221543,0.0
+mean,To intend.,1,-4.80839594697214,-4.80839594697214,0.0
+doe,"A female deer; also used of similar animals such as antelope (less commonly a goat, as is also used).",12,-3.8568737336338184,-3.6938751816441036,0.0
+group,A number of things or persons being in some relation to one another.,4,-3.3237948243330253,-3.294297853965359,0.0
+world,"The subjective human experience, regarded collectively; human collective existence; existence in general; the reality we live in.",12,-3.997591040320632,-3.9474720376409884,0.0
+value,The quality that renders something desirable or valuable; worth.,6,-4.061734857239313,-4.151567222513421,0.0
+person,An individual who has been granted personhood; usually a human being.,5,-4.135615238004645,-3.7340463092631038,0.0
+present,"Relating to now, for the time being; current.",3,-3.651366465100254,-3.6124142722646972,0.0
+city,"A large settlement, bigger than a town; sometimes with a specific legal definition, depending on the place.",10,-3.7958353198028276,-3.8100265112696032,0.0
+line,"A path through two or more points (compare ‘segment’); a continuous mark, including as made by a pen; any path, curved or straight.",12,-4.001423286920412,-4.12893432830783,0.0
+effect,The result or outcome of a cause.,3,-3.694274184150283,-3.520237854065906,0.0
+change,To become something different.,3,-3.5097714200508996,-3.568239158653531,0.0
+within,"In the inner part, spatially; physically inside.",4,-4.434308192855628,-4.526845534136864,0.0
+hand,"The part of the forelimb below the forearm or wrist in a human, and the corresponding part in many other animals.",9,-4.230918440986146,-3.7472574226918196,0.0
+question,"A worded or expressed sentence, phrase, or only a word on its own, which asks for information, a reply, or a response; an interrogative.",10,-4.050849593545613,-3.9794800934533687,0.0
+fact,Something actual as opposed to invented.,4,-4.353482714370985,-4.429348636526287,0.0
+another,"One more further, in addition to the quantity by then; a second or additional one, similar in likeness or in effect.",7,-3.8433576892909187,-3.6881401881093105,0.0
+come,To move nearer to the point of perspective.,4,-4.038853754759033,-4.04219234997733,0.0
+little,Small in size.,2,-3.500049176971335,-3.500049176971335,0.0
+rate,The worth of something; value.,3,-3.6544383735798234,-3.6067067166288718,0.0
+back,At or near the rear.,1,-4.494423324549361,-4.494423324549361,0.0
+national,"Pertaining to a nation or country, especially as a whole; affecting, shared by, or existing throughout all of a nation.",9,-3.926793706698744,-3.710723146163216,0.0
+every,"of a countable group (considered individually), without exception.",5,-4.4319437487296325,-4.076532882847651,0.0
+information,"That which resolves uncertainty; anything that answers the question of ""what a given entity is"".",7,-3.964444903500581,-3.8260334353150114,0.0
+program,A set of structured activities; a plan of action.,5,-3.7236622715093532,-3.4714459941792764,0.0
+give,"To move, shift, provide something abstract or concrete to someone or something or somewhere.",8,-4.064397319278489,-4.172416605073195,0.0
+interest,"The price paid for obtaining, or price received for providing, money or goods in a credit transaction, calculated as a fraction of the amount or value of what was borrowed.",15,-3.8613148442861758,-3.631973341774566,0.0
+development,"The process of developing; growth, directed change.",5,-3.6311678805698513,-3.690771118560122,0.0
+problem,A difficulty that has to be resolved or dealt with.,3,-4.383830332358381,-4.5664797264391686,0.0
+woman,An adult female human.,3,-3.8366572729033304,-3.9761710388143494,0.0
+thing,"That which is considered to exist as a separate entity, object, quality or concept.",7,-3.952796677445073,-3.934519234818701,0.0
+cost,To incur a charge of; to require payment of a (specified) price.,6,-4.140676442164378,-3.8183333284927783,0.0
+second,Number-two; following after the first one with nothing between them.,4,-3.4982633537758434,-3.6077442387609704,0.25
+term,"That which limits the extent of anything; limit, extremity, bound, boundary, .",6,-4.052231171713058,-3.8582756925029766,0.0
+might,", strength, force or influence held by a person or group.",6,-3.5702831173334637,-3.6070673019899986,0.0
+condition,A state or quality.,2,-3.2121061724028515,-3.2121061724028515,0.0
+university,"Institution of higher education (typically accepting students from the age of about 17 or 18, depending on country, but in some exceptional cases able to take younger students) where subjects are studied and researched in depth and degrees are offered.",21,-3.781050827290133,-3.5802122540295946,0.0
+small,Not large or big; insignificant; few in number.,4,-3.8633149183629363,-3.622890863566961,0.0

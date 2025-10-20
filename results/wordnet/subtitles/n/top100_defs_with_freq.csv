@@ -1,0 +1,101 @@
+lemma,definition,len_tokens,mean_log_freq,median_log_freq,miss_rate
+right,an abstract idea of that which is due to a person or governmental body by law or tradition or nature; ; - Eleanor Roosevelt,11,-4.3711832812759654,-4.296297093929686,0.09090909090909094
+oh,a midwestern state in north central United States in the Great Lakes region,9,-4.12359671153286,-4.221167426712858,0.11111111111111116
+time,an instance or single occasion for some event,4,-4.470204590723551,-4.498451994525782,0.0
+yes,an affirmative,1,-5.30222186438223,-5.30222186438223,0.0
+going,the act of departing,2,-4.693385431241624,-4.693385431241624,0.0
+na,a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt),27,-4.670937342882079,-4.65330752200285,0.07407407407407407
+man,an adult person who is male (as opposed to a woman),5,-4.240639229440655,-4.349671889177578,0.0
+ca,a white metallic element that burns with a brilliant light; the fifth most abundant element in the earth's crust; an important component of most plants and animals,15,-4.542578312619883,-4.413158736872541,0.0
+thing,a special situation,2,-3.91111278722646,-3.91111278722646,0.0
+way,how something is done or how it happens,3,-2.873659698484547,-2.8393400733284975,0.0
+doe,the federal department responsible for maintaining a national energy policy of the United States; created in 1977,10,-4.361416959857822,-4.326404711338198,0.0
+guy,an informal term for a youth or man,4,-4.382472910484092,-4.481850673713199,0.0
+people,(plural) any group of human beings (men or women or children) collectively,8,-4.14837539920817,-3.567562577560607,0.0
+day,time for Earth to make a complete rotation on its axis,6,-4.129766487296264,-4.040170148719968,0.0
+life,a characteristic state or mode of living,4,-4.5405160719898445,-4.456505903684133,0.0
+year,a period of time containing 365 (or 366) days,4,-3.7954146769922446,-3.719784664445786,0.0
+god,the supernatural being conceived as the perfect and omnipotent and omniscient originator and ruler of the universe; the object of worship in monotheistic religions,12,-4.83381821539748,-4.872317012254085,0.33333333333333337
+work,activity directed toward making or doing something,4,-3.70102262945207,-3.7103985040494134,0.0
+sir,term of address for a man,3,-3.731368075948096,-4.176160360057525,0.0
+nothing,a quantity of no importance,2,-5.240208058033606,-5.240208058033606,0.0
+night,the time after sunset and before sunrise while it is dark outside,4,-4.206431982593409,-4.480897679370614,0.0
+thought,the content of cognition; the main thing you are thinking about,5,-3.875937511329388,-3.9380518614031823,0.19999999999999996
+must,a necessary or essential thing,3,-4.050122885218746,-4.312349224954624,0.0
+mr.,a form of address for a man,3,-3.693228287269619,-4.164477089217458,0.0
+friend,a person you know well and regard with affection and trust,6,-3.6502179634571994,-3.6229928579709236,0.0
+girl,a young woman,2,-3.3962947903134686,-3.3962947903134686,0.0
+name,a language unit by which a person or thing is known,5,-3.4122905942750634,-3.5900404081597945,0.0
+boy,a youthful male person,3,-4.578260783366872,-4.349671889177578,0.0
+woman,an adult female person (as opposed to a man),5,-4.149508035889733,-4.352042474872781,0.0
+money,the most common medium of exchange; functions as legal tender,6,-4.615688642525,-4.5391034563464006,0.0
+father,a male parent (also used as a term of address to your father),7,-3.8303007144791317,-3.810730601589383,0.0
+lot,(often followed by `of') a large number or amount or extent,6,-4.270712398012669,-4.248020346655738,0.0
+kind,a category of things distinguished by some common characteristic or quality,6,-4.6903057907147625,-4.944771608933602,0.0
+hand,the (prehensile) extremity of the superior limb,4,-5.342915164771924,-5.081191184701582,0.25
+house,a dwelling that serves as living quarters for one or more families,5,-4.3677467585906875,-4.419023899082804,0.0
+hello,an expression of greeting,2,-5.00045576543199,-5.00045576543199,0.0
+kid,a young person of either sex,3,-3.6937098041318728,-3.595515614643245,0.0
+someone,a human being,1,-3.7310018138592485,-3.7310018138592485,0.0
+shit,obscene terms for feces,3,-5.268424275765603,-5.61077978461333,0.0
+minute,a unit of time equal to 60 seconds or 1/60th of an hour,5,-3.6754721400557977,-3.4408965543243633,0.0
+world,everything that exists anywhere,3,-4.009640254735249,-4.029580676749942,0.0
+fuck,slang for sexual intercourse,3,-5.307696126621862,-5.461991975479387,0.0
+may,the month following April and preceding June,5,-4.1870290117551665,-4.2432697148482115,0.19999999999999996
+car,a motor vehicle with four wheels; usually propelled by an internal combustion engine,8,-4.674898558430201,-4.42827600731127,0.125
+course,education imparted in a series of lessons or meetings,5,-4.74949812326958,-4.6470723967135825,0.0
+might,physical strength,2,-4.435204351449691,-4.435204351449691,0.0
+dad,an informal term for a father; probably derived from baby talk,7,-4.222641720062192,-3.561662765087399,0.0
+mother,a woman who has given birth to a child (also used as a term of address to your mother),9,-3.633636479782306,-3.4540778196109523,0.0
+son,a male human offspring,3,-4.533742069082405,-4.349671889177578,0.0
+hell,any place of pain and turmoil,3,-4.29231751151316,-3.940823904323147,0.0
+talking,an exchange of ideas via conversation,3,-4.055123959832172,-4.184007954137985,0.0
+fucking,slang for sexual intercourse,3,-5.307696126621862,-5.461991975479387,0.0
+today,the present time or age,3,-3.5375774403689135,-3.964500558647181,0.0
+baby,a very young child (birth to 1 year) who has not yet begun to walk or talk,8,-3.592701786739849,-3.5240720675343793,0.0
+mind,that which is responsible for one's thoughts and feelings; the seat of the faculty of reason,6,-4.0917370063711616,-4.026420114741999,0.16666666666666663
+getting,the act of acquiring something,3,-4.071463057816996,-3.925728438033014,0.0
+hi,an expression of greeting,2,-5.00045576543199,-5.00045576543199,0.0
+job,the principal activity in your life that you do to earn money,5,-4.061398377319616,-4.5843783054426135,0.0
+head,the upper part of the human body or the front part of the body in animals; contains the face and brains,11,-3.9089204621768663,-3.7307917976404332,0.0
+door,a swinging or sliding barrier that will close the entrance to a room or building or vehicle,8,-4.31408395484946,-4.51520362925876,0.0
+family,a social unit living together,4,-3.8694345942612816,-3.8143070024538313,0.0
+room,an area within a building enclosed by walls and floor and ceiling,6,-4.167347155567348,-3.9797354956336783,0.16666666666666663
+brother,a male with the same parents as someone else,4,-3.6889581077838534,-3.5706131550934224,0.0
+mom,informal terms for a mother,3,-4.469710035037376,-4.27889645525289,0.0
+morning,the time period between dawn and noon,4,-4.134936643816031,-4.535107424047279,0.0
+ta,a hard grey lustrous metallic element that is highly resistant to corrosion; occurs in niobite and fergusonite and tantalite,12,-4.843340846251476,-4.788956781588698,0.41666666666666663
+child,a young person of either sex,3,-3.6937098041318728,-3.595515614643245,0.0
+idea,the content of cognition; the main thing you are thinking about,5,-3.875937511329388,-3.9380518614031823,0.19999999999999996
+problem,a state of difficulty that needs to be resolved,4,-4.179577840755018,-4.377075919685115,0.0
+men,the force of workers available,3,-4.308608187188338,-4.454691611040846,0.0
+hour,a period of time equal to 1/24th of a day,4,-3.6892328634109575,-3.719784664445786,0.0
+matter,a vaguely specified concern,3,-5.367957952963103,-5.65370798515514,0.0
+eye,the organ of sight,2,-4.538551960675098,-4.538551960675098,0.0
+word,a unit of language that native speakers can identify,5,-4.559625255526624,-4.750564516914204,0.0
+wife,a married woman; a man's partner in marriage,5,-3.557923966249793,-3.7050335888922334,0.0
+phone,electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds,13,-4.467402349371345,-4.611481565123392,0.0
+face,the front of the human head from the forehead to the chin and ear to ear,7,-4.169703557235154,-4.193426349794871,0.0
+week,any period of seven consecutive days,3,-4.425008667203264,-4.510890517376121,0.0
+bit,a small piece or quantity of something,4,-3.974562406451085,-3.8138827241230118,0.0
+school,an educational institution,2,-5.291129258121599,-5.291129258121599,0.0
+saying,a word or phrase that particular people use in particular situations,7,-3.9816628511123366,-4.005475175654509,0.0
+excuse,a defense of some offensive behavior or some failure to keep a promise etc.,7,-4.434846727403949,-4.603030275924741,0.0
+case,an occurrence of something,2,-4.383377463468192,-4.383377463468192,0.0
+question,an instance of questioning,2,-4.17126165463848,-4.17126165463848,0.0
+tomorrow,the day after today,2,-3.130622784197138,-3.130622784197138,0.0
+lady,a polite name for any woman,3,-3.7613532948167294,-3.197073965983692,0.0
+heart,the locus of feelings and intuitions,3,-5.133339223612128,-5.480022075535402,0.0
+ai,an agency of the United States Army responsible for providing timely and relevant and accurate and synchronized intelligence to tactical and operational and strategic level commanders,16,-4.796972082435853,-4.613393781089357,0.0
+part,something determined in relation to something that includes it,5,-4.091564863078871,-4.843770010487258,0.0
+business,a commercial or industrial enterprise and the people who constitute it,5,-4.740420693009841,-4.795916520616033,0.0
+doctor,a licensed medical practitioner,3,-4.990943204160773,-4.524523944050943,0.0
+gun,a weapon that discharges a missile at high velocity (especially from a metal tube or barrel),9,-4.5882767620854885,-4.717205948205163,0.0
+police,the force of policemen and officers,3,-4.160555955735056,-3.910422959280767,0.0
+point,a geometric element that has position but no extension,4,-5.058899060853831,-4.981400412578448,0.0
+mr,a form of address for a man,3,-3.693228287269619,-4.164477089217458,0.0
+number,the property possessed by a sum or total or indefinite quantity of units or individuals,8,-4.745113397491215,-4.700114257554283,0.125
+death,the event of dying or departure from life,4,-4.000783765812997,-3.8881555206359817,0.0
+month,one of the twelve divisions of the calendar year,4,-4.384691000940526,-4.702707112099029,0.0
+story,a message that tells the particulars of an act or occurrence or course of events; presented in writing or drama or cinema or as a radio or television program,14,-4.209543561642861,-4.001482003191302,0.0714285714285714
+body,"the entire structure of an organism (an animal, plant, or human being)",6,-4.372246609682814,-4.186168488455349,0.0

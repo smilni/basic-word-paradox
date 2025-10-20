@@ -1,0 +1,101 @@
+lemma,definition,len_tokens,mean_log_freq,median_log_freq,miss_rate
+know,be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about,9,-4.271772377698771,-4.178885154710665,0.11111111111111116
+get,come into the possession of something concrete or abstract,5,-4.174839464226148,-4.756093202794244,0.0
+like,prefer or wish to do something,3,-3.6214327940381614,-3.6183447541458738,0.0
+go,"change location; move, travel, or proceed, also metaphorically",7,-4.26141119353923,-4.287611808428143,0.0
+right,an abstract idea of that which is due to a person or governmental body by law or tradition or nature; ; - Eleanor Roosevelt,11,-4.371183280585238,-4.296297093238957,0.09090909090909094
+come,"move toward, travel toward something or somebody or approach something or somebody",7,-3.5779504892530762,-3.5956176856889415,0.0
+one,used of a single unit or thing; not two or more,4,-3.617305766471082,-3.7445568964281843,0.0
+got,come into the possession of something concrete or abstract,5,-4.174839464226148,-4.756093202794244,0.0
+good,having desirable or positive qualities especially those suitable for a thing specified,7,-4.724083235211372,-4.614634132709683,0.0
+oh,a midwestern state in north central United States in the Great Lakes region,9,-4.122082792832188,-4.221167426022129,0.11111111111111116
+yeah,"not only so, but",0,,,1.0
+want,feel or have a desire for; want strongly,4,-3.832481821706092,-3.8248696323673643,0.0
+well,(often used as a combining form) in a good or proper or satisfactory manner or to a high standard (`good' is a nonstandard dialectal variant for `well'),15,-3.976523711495617,-4.171595773944848,0.19999999999999996
+think,judge or regard; look upon; judge,4,-3.9178636360297396,-4.085542005837596,0.0
+see,perceive by sight or have the power to perceive by sight,5,-4.714791270679028,-4.285803999816871,0.0
+let,make it possible through a specific action or lack of action for something to happen,8,-3.825053533953635,-3.9823607341985134,0.0
+time,an instance or single occasion for some event,4,-4.470204590032822,-4.498451993835054,0.0
+look,perceive with attention; direct one's gaze towards,5,-4.811890439590201,-4.5814569340796005,0.0
+okay,being satisfactory or in satisfactory condition,3,-5.180135273284084,-5.652542613956819,0.0
+yes,an affirmative,1,-5.302221863691501,-5.302221863691501,0.0
+back,in or to or toward a former location,2,-4.485660307383231,-4.485660307383231,0.0
+going,the act of departing,2,-4.693385430550895,-4.693385430550895,0.0
+take,carry out,1,-4.1030027099023,-4.1030027099023,0.0
+na,a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt),27,-4.6709373421913485,-4.653307521312121,0.07407407407407407
+say,express in words,2,-4.082129055466777,-4.082129055466777,0.0
+man,an adult person who is male (as opposed to a woman),5,-4.2406392287499255,-4.349671888486848,0.0
+ca,a white metallic element that burns with a brilliant light; the fifth most abundant element in the earth's crust; an important component of most plants and animals,15,-4.5425783119291525,-4.413158736181812,0.0
+tell,express in words,2,-4.082129055466777,-4.082129055466777,0.0
+thing,a special situation,2,-3.911112786535732,-3.911112786535732,0.0
+make,engage in,1,-4.97661125271661,-4.97661125271661,0.0
+need,"require as useful, just, or proper",3,-4.688561422305839,-4.682521077949093,0.0
+really,in accordance with truth or fact or reality,4,-4.408981358180906,-4.099091991256402,0.0
+way,how something is done or how it happens,3,-2.873659697793818,-2.8393400726377687,0.0
+find,"come upon, as if by accident; meet with",3,-3.3263304277537036,-3.4567052334648647,0.0
+mean,mean or intend to express or convey,4,-4.4431144793352315,-4.695750053086342,0.0
+never,not ever; at no time in the past or future,4,-3.397373476324247,-3.5138267713189366,0.0
+doe,the federal department responsible for maintaining a national energy policy of the United States; created in 1977,10,-4.361416959167093,-4.326404710647469,0.0
+guy,an informal term for a youth or man,4,-4.382472909793362,-4.481850673022469,0.0
+little,limited or below average in number or quantity or magnitude or extent,6,-4.950482128999942,-5.100605536513647,0.0
+people,(plural) any group of human beings (men or women or children) collectively,8,-4.148375398517441,-3.5675625768698778,0.0
+give,"cause to have, in the abstract sense or physical sense",5,-4.411796271342223,-4.019191457228289,0.0
+please,give pleasure to or be pleasing to,3,-3.3155718765963176,-2.92528237459897,0.0
+sorry,feeling or expressing regret or sorrow or a sense of loss over something done or undone,9,-3.9750157204833374,-4.38993362265819,0.0
+day,time for Earth to make a complete rotation on its axis,6,-4.129766486605535,-4.0401701480292385,0.0
+love,have a great affection or liking for,3,-3.513941217623158,-3.11757366762991,0.0
+said,being the one previously mentioned or spoken of,3,-4.492538988383987,-4.601206507222214,0.0
+two,being one more than one,0,,,1.0
+thank,express gratitude or show appreciation to,4,-4.615462735472752,-4.898763041147022,0.0
+life,a characteristic state or mode of living,4,-4.540516071299116,-4.456505902993404,0.0
+sure,having or feeling no doubt or uncertainty; confident and assured,5,-4.498820624539661,-4.6668781078214945,0.0
+help,give help or assistance; be of service,4,-3.7073697686479496,-3.492927797923689,0.0
+even,used as an intensive especially to indicate something unexpected,6,-4.356278253755289,-4.584124711343835,0.0
+much,(quantifier used with mass nouns) great in quantity or degree or extent,8,-4.377812656630346,-4.4911313711297645,0.25
+year,a period of time containing 365 (or 366) days,4,-3.795414676301516,-3.719784663755057,0.0
+god,the supernatural being conceived as the perfect and omnipotent and omniscient originator and ruler of the universe; the object of worship in monotheistic religions,12,-4.833818214706751,-4.872317011563356,0.33333333333333337
+work,activity directed toward making or doing something,4,-3.701022628761341,-3.7103985033586846,0.0
+sir,term of address for a man,3,-3.7313680752573677,-4.176160359366796,0.0
+call,assign a specified (usually proper) proper name to,6,-4.665708962893947,-4.507093997653561,0.0
+still,"with reference to action or condition; without change, interruption, or cessation",6,-4.47206187474833,-4.235320591938614,0.16666666666666663
+first,preceding all others in time or space or degree,5,-3.745980999107225,-3.9673707257746313,0.19999999999999996
+nothing,a quantity of no importance,2,-5.240208057342878,-5.240208057342878,0.0
+stop,"come to a halt, stop moving",4,-3.443583348309019,-3.1945736803831304,0.0
+wait,stay in one place and anticipate or expect something,5,-3.7702974749578906,-3.2413897346807197,0.0
+maybe,by chance,1,-3.5848291637804195,-3.5848291637804195,0.0
+put,put into a certain place or abstract location,5,-4.092960855335974,-4.081940236318216,0.0
+talk,exchange thoughts; talk with,3,-3.5916182075380134,-3.0997212063999,0.0
+night,the time after sunset and before sunrise while it is dark outside,4,-4.206431981902679,-4.480897678679884,0.0
+thought,the content of cognition; the main thing you are thinking about,5,-3.8759375106386598,-3.938051860712454,0.19999999999999996
+must,a necessary or essential thing,3,-4.050122884528018,-4.312349224263896,0.0
+keep,"keep in a certain state, position, or activity; e.g.,",5,-3.917374114936824,-4.03676026197865,0.0
+home,at or to or in the direction of one's home or family,3,-3.6368900970947693,-3.3691232020497868,0.0
+great,relatively large in size or number or extent; larger than others of its kind,8,-4.2916374372892,-4.3164548655143715,0.0
+away,from a particular thing or place or position (`forth' is obsolete),6,-4.170505003916026,-4.282190313462532,0.0
+mr.,a form of address for a man,3,-3.6932282865788904,-4.16447708852673,0.0
+friend,a person you know well and regard with affection and trust,6,-3.6502179627664706,-3.6229928572801953,0.0
+girl,a young woman,2,-3.39629478962274,-3.39629478962274,0.0
+last,immediately past,2,-4.0286305752969875,-4.0286305752969875,0.0
+name,a language unit by which a person or thing is known,5,-3.412290593584335,-3.5900404074690657,0.0
+told,express in words,2,-4.082129055466777,-4.082129055466777,0.0
+long,primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified,13,-4.730302865999852,-5.078617395047605,0.0
+new,not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered,8,-4.281703320162862,-4.661794761129615,0.0
+bad,having undesirable or negative qualities,3,-5.116080427349517,-4.614634132709683,0.0
+feel,undergo an emotional sensation or be in a particular state of mind,6,-4.564873407284833,-4.600696603580999,0.0
+always,at all times; all the time and on every occasion,3,-3.337043975379514,-2.649914285815793,0.0
+place,put into a certain place or abstract location,5,-4.092960855335974,-4.081940236318216,0.0
+around,in the area or vicinity,2,-4.747837699810162,-4.747837699810162,0.0
+ever,at any time,1,-2.649914285815793,-2.649914285815793,0.0
+boy,a youthful male person,3,-4.578260782676143,-4.349671888486848,0.0
+old,(used especially of persons) having lived for a relatively long time or attained a specific age,10,-4.033771114778402,-3.7772704827127592,0.0
+woman,an adult female person (as opposed to a man),5,-4.149508035199004,-4.352042474182053,0.0
+leave,go away from a place,3,-2.897563821338458,-3.1179477940303193,0.0
+money,the most common medium of exchange; functions as legal tender,6,-4.615688641834271,-4.539103455655671,0.0
+father,a male parent (also used as a term of address to your father),7,-3.830300713788403,-3.8107306008986543,0.0
+lot,(often followed by `of') a large number or amount or extent,6,-4.27071239732194,-4.24802034596501,0.0
+made,produced by a manufacturing process,3,-4.951894900920264,-4.796175642297861,0.0
+big,above average in size or number or quantity or magnitude or extent,6,-4.85021286449041,-5.039527554547478,0.0
+believe,accept as true; take to be true,4,-3.4896155827607047,-3.5407042829643505,0.0
+stay,stay the same; remain in a certain state,4,-3.866576485623376,-3.9275614376533285,0.0
+done,having finished or arrived at completion,3,-4.783996325935635,-4.631739575406779,0.0
+fine,being satisfactory or in satisfactory condition,3,-5.180135273284084,-5.652542613956819,0.0

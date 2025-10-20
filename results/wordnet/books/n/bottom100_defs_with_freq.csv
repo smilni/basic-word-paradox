@@ -1,0 +1,101 @@
+lemma,definition,len_tokens,mean_log_freq,median_log_freq,miss_rate
+hematocyturia,the presence of red blood cells in the urine,5,-3.967235614645766,-3.7949200656281445,0.0
+underreckoning,an estimation that is too low; an estimate that is less than the true or actual value,7,-3.764467699517499,-3.6364352465470517,0.0
+flashboarding,boarding place along the top of a dam to increase its height,6,-3.7454218377598125,-3.637461720401644,0.0
+stylostixis,treatment of pain or disease by inserting the tips of needles at specific points on the skin,9,-4.009029424847287,-4.03312487471809,0.0
+pseudophloem,false phloem,2,-5.179006667087069,-5.179006667087069,0.0
+muritaniya,a country in northwestern Africa with a provisional military government; achieved independence from France in 1960; largely western Sahara Desert,13,-4.21566018480334,-4.163471673623878,0.0
+arborolatry,the worship of trees,2,-4.141673533627081,-4.141673533627081,0.0
+rijsttaffel,dish originating in Indonesia; a wide variety of foods and sauces are served with rice,9,-4.408588800718359,-4.386404413413557,0.0
+thingmajig,something unspecified whose name is either forgotten or not known,6,-3.9537123258644846,-3.5652138193363987,0.0
+cherimolla,large tropical fruit with leathery skin and soft pulp; related to custard apples,10,-4.637901999047971,-4.552457130946218,0.0
+schistorrhachis,a not uncommon congenital defect in which a vertebra is malformed; unless several vertebrae are affected or there is myelomeningocele there are few symptoms; can be diagnosed by amniocentesis,12,-5.219379562914676,-5.23923627010806,0.0
+pinnatiped,aquatic carnivorous mammal having a streamlined body specialized for swimming with limbs modified as flippers,10,-5.0702908882454345,-4.918021808186608,0.0
+bobfloat,a small float usually made of cork; attached to a fishing line,8,-4.013814845689274,-3.9765826868840697,0.0
+tshatshke,"(Yiddish) an attractive, unconventional woman",4,-4.822101942371408,-5.127126189828917,0.0
+foetometry,measurement of a fetus (especially the diameter of the head),5,-4.127319724999578,-3.99146725126957,0.0
+urarthritis,a painful inflammation of the big toe and foot caused by defects in uric acid metabolism resulting in deposits of the acid and its salts in the blood and joints,16,-4.1846149421266,-3.9698486537748687,0.0
+ulalgia,pain in the gums,2,-4.509895649078263,-4.509895649078263,0.0
+urochesia,passage of urine from the anus,3,-4.797838353858594,-4.732185604498351,0.0
+optez,an artificial language,2,-4.06640857669556,-4.06640857669556,0.0
+splitsaw,a handsaw for cutting with the grain of the wood,4,-4.68640769432481,-3.9865595045622904,0.0
+erythrocytolysin,any substance that can cause lysis (destruction) of erythrocytes (red blood cells) and the release of their hemoglobin,10,-4.282194377328313,-4.054533447124528,0.09999999999999998
+gastromy,surgical incision into the stomach,3,-4.78068278975453,-4.642644906025917,0.0
+paletiology,the explanation of past events in terms of scientific causes (as geological causes),7,-3.8325807925717075,-3.723514587254963,0.0
+cystoparalysis,paralysis of the urinary bladder,3,-5.024893321472127,-5.0471307397901,0.0
+citroncirus,a cross between Citrus sinensis and Poncirus trifoliata,5,-5.942332287445497,-6.12923328944186,0.19999999999999996
+whatchamacallum,something unspecified whose name is either forgotten or not known,6,-3.9537123258644846,-3.5652138193363987,0.0
+antinomasia,substitution of a title for a name,3,-3.9486943409340447,-3.6844329924682215,0.0
+iontotherapy,therapy that uses a local electric current to introduce the ions of a medicine into the tissues,9,-3.9451720327466515,-4.103332900975409,0.0
+pointrel,a tool used by an engraver,3,-4.238304366684204,-4.008739490191489,0.0
+pseudovariola,a mild form of smallpox caused by a less virulent form of the virus,8,-4.2028176168504086,-3.9891939974839135,0.0
+swanflower,any of several orchids of the genus Cycnoches having slender arching columns of flowers suggesting the neck of a swan,11,-4.799274985026302,-4.523222716850672,0.0
+cryoanaesthesia,insensibility resulting from cold,3,-4.4745876069273125,-3.995679446276212,0.0
+obsessivity,extreme compulsiveness,2,-5.862082403579439,-5.862082403579439,0.0
+botulismotoxin,potent bacterial toxin produced by the bacterium Clostridium botulinum that causes botulism; can be used as a bioweapon,11,-5.21155507976267,-5.166447169811466,0.0
+bitthead,the upper end of a bitt,3,-4.703382764175248,-3.931689473004104,0.0
+glareole,Old World shorebird with long pointed wings and short legs; closely related to the coursers,11,-4.185942539496886,-3.753074003798649,0.0
+turakoo,large brightly crested bird of Africa,5,-4.36731205691732,-4.055104004479791,0.0
+orthochorea,a form of chorea in which spasms occur mainly when the patient is erect,7,-4.334734676006261,-4.137329499303894,0.1428571428571429
+cancerweed,sage of eastern United States,4,-3.729957491831802,-3.6595999452523404,0.0
+plexiglass,a light transparent weather resistant thermoplastic,5,-4.641499339879554,-4.771458394968907,0.0
+amphioxidae,lancelets,1,-7.289743868668901,-7.289743868668901,0.0
+dinocerate,an extinct ungulate,2,-5.810944267278835,-5.810944267278835,0.0
+dicamptodontid,salamanders found near cold streams throughout the year,5,-4.049261294173836,-3.995679446276212,0.0
+smiledon,saber-toothed tigers,2,-5.042617011152866,-5.042617011152866,0.5
+myaceae,clams,1,-5.478574441779284,-5.478574441779284,0.0
+musgoi,a Chadic language spoken south of Lake Chad,6,-4.643735056269305,-3.954917845893478,0.0
+fluoroboride,a salt of fluoroboric acid,3,-3.9429788464665947,-3.9429788464665947,0.33333333333333337
+racketiness,the auditory effect characterized by loud and constant noise,6,-4.420903995135173,-4.493613085663345,0.0
+paleodendrology,the branch of paleobotany that studies fossil trees,5,-4.50623098072243,-3.870872679723534,0.0
+cocoswood,wood of the granadilla tree used for making musical instruments especially clarinets,9,-4.359526569729005,-3.8788386786237132,0.0
+verbolatry,the worship of words,2,-3.9327012380487996,-3.9327012380487996,0.0
+otoganglion,an autonomic ganglion whose postganglionic fibers are distributed to the parotid gland,7,-5.379524615176896,-5.265208490594329,0.0
+quiaquia,small fusiform fish of western Atlantic,5,-4.325940258294188,-3.9599560174721353,0.0
+urodella,salamanders; newts; congo snakes,4,-5.298700000614361,-5.164399510483372,0.25
+erythrolysin,any substance that can cause lysis (destruction) of erythrocytes (red blood cells) and the release of their hemoglobin,10,-4.282194377328313,-4.054533447124528,0.09999999999999998
+keratonosis,any abnormal condition of the outer skin (epidermis),5,-4.437155543434853,-4.373315693267943,0.0
+pearlweed,any of various low-growing plants of the genus Sagina having small spherical flowers resembling pearls,10,-4.611236413903438,-4.52366637115941,0.09999999999999998
+whorlywort,a tall perennial herb having spikes of small white or purple flowers; common in eastern North America,12,-4.202177568529724,-4.091580119904192,0.0
+longanberry,tree of southeastern Asia to Australia grown primarily for its sweet edible fruit resembling litchi nuts; sometimes placed in genera Euphorbia or Nephelium,17,-4.825692005995586,-4.324520206827138,0.0
+protoarchaeology,the study of prehistoric human artifacts and human fossils,6,-4.233878261321116,-4.132486419262921,0.0
+candyweed,bog plant of pine barrens of southeastern United States having spikes of irregular yellow-orange flowers,11,-4.252058361996621,-4.47659210257519,0.18181818181818177
+jupaty,a tall Brazilian feather palm with a terminal crown of very large leathery pinnatisect leaves rising from long strong stems used for structural purposes,17,-4.390771577820094,-4.289990550291232,0.0
+taraktagenos,medium to large Indonesian and Malaysian trees,5,-4.37676880098695,-3.8405367992335293,0.0
+synercus,Cape buffalo,2,-4.602322489892089,-4.602322489892089,0.0
+exbibyte,a unit of information equal to 1024 pebibytes or 2^60 bytes,5,-4.018184319410721,-3.708460998811902,0.19999999999999996
+vetchworm,larva of a noctuid moth; highly destructive to especially corn and cotton and tomato crops,8,-4.343350024645543,-4.2477349561269095,0.0
+psilotatae,"whisk ferns; comprising the family Psilotaceae or Psilotatae: vascular plants with no roots, partial if any leaf differentiation, and rudimentary spore sacs",15,-5.3004845453300735,-5.041751995634205,0.0
+triostium,genus of Asiatic and North American herbs: feverroot,6,-5.214830877852931,-4.7390768221656465,0.0
+iridoncus,swelling of the iris of the eye,3,-4.606109202623482,-5.104997534343519,0.0
+jewbush,low tropical American shrub having powerful emetic properties,7,-4.31004309497728,-4.242007171406789,0.0
+tichodrome,crimson-and-grey songbird that inhabits town walls and mountain cliffs of southern Eurasia and northern Africa,11,-4.647064399678337,-4.036524701801213,0.09090909090909094
+hyperlipoidaemia,presence of excess lipids in the blood,4,-4.220885703130666,-4.048742960220707,0.0
+eightvo,the size of a book whose pages are made by folding a sheet of paper three times to form eight leaves,10,-3.5755671336284394,-3.5335711888993604,0.0
+mayidism,a disease caused by deficiency of niacin or tryptophan (or by a defect in the metabolic conversion of tryptophan to niacin); characterized by gastrointestinal disturbances and erythema and nervous or mental disorders; may be caused by malnutrition or alcoholism or other nutritional impairments,22,-4.883083556672904,-4.954152628651743,0.0
+theologiser,someone who is learned in theology or who speculates about theology,5,-4.784257111674455,-4.671599718346369,0.0
+clinocephalism,a congenital defect in which the top of the head is depressed (concave instead of convex),8,-4.595483541490142,-4.720069921523997,0.0
+onomancer,one who practices onomancy,2,-6.151118538086413,-6.151118538086413,0.0
+imminentness,the state of being imminent and liable to happen soon,5,-4.089066781657217,-4.350568178031574,0.0
+creashak,evergreen mat-forming shrub of North America and northern Eurasia having small white flowers and red berries; leaves turn red in autumn,16,-4.217540690497273,-3.8246235891349336,0.0625
+floodhead,a wall of water rushing ahead of the flood,5,-4.075563185214404,-4.357480432099718,0.0
+unpermissiveness,a lack of permissiveness or indulgence and a tendency to confine behavior within certain specified limits,9,-4.511925504041206,-4.164434140892834,0.0
+frontstall,medieval plate armor to protect a horse's head,6,-4.262912747298871,-4.0945319600362895,0.0
+mailsorter,a sorter for sorting mail according to the address,5,-4.568568717721754,-4.134310320067957,0.0
+waggonwright,a wagon maker,2,-4.583645591155852,-4.583645591155852,0.0
+atrophedema,"recurrent large circumscribed areas of subcutaneous edema; onset is sudden and it disappears within 24 hours; seen mainly in young women, often as an allergic reaction to food or drugs",19,-4.281511846519888,-3.906001839480328,0.0
+nauseatingness,extreme unpalatability to the mouth,3,-5.388719129371967,-4.271702359011554,0.0
+ortygan,any of several East Indian birds,4,-3.7383261309781117,-3.723562279639799,0.0
+spicemill,a mill for grinding spices,3,-4.895421719200094,-5.192304289142313,0.0
+unappetizingness,the property of spoiling the appetite,3,-4.495431430642832,-4.982080333073306,0.0
+religiousism,exaggerated or affected piety and religious zeal,5,-4.7882461118843125,-4.976793818978683,0.0
+yanquapin,water lily of eastern North America having pale yellow blossoms and edible globular nutlike seeds,12,-4.680790554411976,-4.370239317423577,0.0
+terrietia,"small genus of timber trees of eastern Asia, Australasia and tropical Africa that form large buttresses",12,-4.273508914386959,-4.191906287121887,0.0
+tunaburger,a sandwich that resembles a hamburger but made with tuna instead of beef,7,-4.698382665628938,-5.018875912494087,0.0
+polyplacophore,primitive elongated bilaterally symmetrical marine mollusk having a mantle covered with eight calcareous plates,10,-4.972692502419303,-5.179915709029137,0.0
+crocolite,a rare lead chromite mineral that forms bright orange crystals,8,-4.322168201747564,-4.318942705288645,0.0
+keratonosus,any disease of the cornea,2,-4.604088610285368,-4.604088610285368,0.0
+meerestone,an old term for a landmark that consisted of a pile of stones surmounted by an upright slab,9,-4.551110699744871,-4.632945281632375,0.0
+gynaeolatry,the worship of women,2,-3.9244064882593497,-3.9244064882593497,0.0
+aquilege,a plant of the genus Aquilegia having irregular showy spurred flowers; north temperate regions especially mountains,11,-4.348152358414342,-4.123041601887109,0.0
+corakan,"East Indian cereal grass whose seed yield a somewhat bitter flour, a staple in the Orient",11,-4.417754822222374,-4.339248071148729,0.0

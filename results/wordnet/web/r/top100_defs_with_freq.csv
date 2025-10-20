@@ -1,0 +1,101 @@
+lemma,definition,len_tokens,mean_log_freq,median_log_freq,miss_rate
+home,at or to or in the direction of one's home or family,3,-3.422451977958561,-3.3643550564203752,0.0
+also,in addition,1,-3.9035691492950257,-3.9035691492950257,0.0
+well,(often used as a combining form) in a good or proper or satisfactory manner or to a high standard (`good' is a nonstandard dialectal variant for `well'),15,-4.215764871615597,-3.8030859115091595,0.0
+back,in or to or toward a former location,2,-3.771409956665958,-3.771409956665958,0.0
+within,on the inside,0,,,1.0
+even,used as an intensive especially to indicate something unexpected,6,-4.107799704749543,-4.190610425507994,0.0
+far,to a considerable degree; very much,3,-4.025259519942176,-3.9432019998079624,0.0
+non,negation of a word or group of words,4,-4.18937042046994,-3.7752781552434556,0.0
+still,"with reference to action or condition; without change, interruption, or cessation",6,-4.249113452642474,-3.7929922809167795,0.0
+around,in the area or vicinity,2,-4.2737799379173165,-4.2737799379173165,0.0
+however,despite anything to the contrary (usually following a concession),5,-4.373016263549805,-3.9307271451592096,0.0
+really,in accordance with truth or fact or reality,4,-4.163984237505455,-4.245273568608958,0.0
+never,not ever; at no time in the past or future,4,-3.5021827644356054,-3.7146818235468624,0.0
+less,used to form the comparative of some adjectives and adverbs,5,-4.642079488447241,-4.761828781034637,0.0
+always,at all times; all the time and on every occasion,3,-3.4392209556953213,-2.811045997646874,0.0
+needs,in such a manner as could not be otherwise,2,-4.180018002122918,-4.180018002122918,0.0
+yet,up to the present time,2,-3.291519087334078,-3.291519087334078,0.0
+away,from a particular thing or place or position (`forth' is obsolete),6,-4.103591233013331,-3.8705245860444433,0.0
+least,used to form the superlative,3,-4.198449409692084,-3.465420088689415,0.0
+already,prior to a specified or implied time,4,-4.021245911664028,-4.2305687773741605,0.0
+daily,every day; without missing a day,3,-3.469442620258542,-3.119904439489543,0.0
+ever,at any time,1,-2.811045997646874,-2.811045997646874,0.0
+either,after a negative statement used as an intensive meaning something like `likewise' or `also',8,-3.906620795716626,-3.8151997068275314,0.0
+ago,in the past,1,-3.745699931206133,-3.745699931206133,0.0
+usually,under normal conditions,2,-3.9533639075330385,-3.9533639075330385,0.0
+together,in contact with each other or in proximity,2,-4.046275007638235,-4.046275007638235,0.0
+often,many times at short intervals,4,-3.6465474430987252,-3.503402085652831,0.0
+though,(postpositive) however,2,-3.554738757256274,-3.554738757256274,0.5
+currently,at this time or period; now,2,-3.281936898226535,-3.281936898226535,0.0
+none,not at all or in no way,1,-3.2844357908484874,-3.2844357908484874,0.0
+later,happening at a time subsequent to a reference time,5,-3.6489358722914473,-3.6971176733190223,0.0
+enough,as much as necessary; ; (`plenty' is nonstandard),4,-4.539151354470163,-4.260339126188159,0.0
+along,with a forward motion,2,-4.06496168213957,-4.06496168213957,0.0
+soon,in the near future,1,-3.6836637158875916,-3.6836637158875916,0.0
+across,to the opposite side,2,-4.155660254088704,-4.155660254088704,0.0
+inside,within a building,1,-3.6614071902292444,-3.6614071902292444,0.0
+rather,on the contrary,1,-4.824996707081413,-4.824996707081413,0.0
+actually,in actual fact,2,-3.9688845613045505,-3.9688845613045505,0.0
+ok,an expression of agreement normally occurring at the beginning of a sentence,6,-4.261809414716175,-4.326367520898533,0.0
+outside,outside a building,1,-3.6614071902292444,-3.6614071902292444,0.0
+almost,(of actions or states) slightly short of or not quite accomplished; all but,6,-3.9295318933313994,-3.8706681719639073,0.0
+therefore,(used to introduce a logical conclusion) from that fact or reason or as a result,7,-4.03331506656327,-3.956110543728707,0.0
+simply,and nothing more,1,-3.905053142986183,-3.905053142986183,0.0
+recently,in the recent past,2,-3.681798931088805,-3.681798931088805,0.0
+probably,with considerable certainty; without much doubt,4,-4.481698964405326,-4.604620107298416,0.0
+thus,(used to introduce a logical conclusion) from that fact or reason or as a result,7,-4.03331506656327,-3.956110543728707,0.0
+especially,to a distinctly greater extent or degree than is common,5,-4.196965235105538,-3.9432019998079624,0.0
+quite,to a degree (not used with a negative),3,-3.7134853516857658,-3.9432019998079624,0.0
+forward,at or to or toward the front; ; ; ; (`forrad' and `forrard' are dialectal variations),5,-5.2160693968810685,-4.726346584814504,0.4
+directly,without deviation,1,-5.003006109898932,-5.003006109898932,0.0
+instead,"in place of, or as an alternative to",2,-3.7251474990010705,-3.7251474990010705,0.0
+longer,for more time,1,-2.811045997646874,-2.811045997646874,0.0
+behind,in or to or toward the rear,1,-4.420715879722215,-4.420715879722215,0.0
+otherwise,in other respects or ways,2,-3.6848455363613613,-3.6848455363613613,0.0
+maybe,by chance,1,-4.131363092839754,-4.131363092839754,0.0
+pretty,to a moderately sufficient extent or degree,4,-4.5303379448901655,-4.414231582944511,0.0
+throughout,from first to last,2,-3.078063501873097,-3.078063501873097,0.0
+finally,after an unspecified period of time or an especially long delay,6,-3.9359046549416017,-3.8744879679186877,0.0
+fully,to the greatest degree or extent; completely or entirely; (`full' in this sense is used as a combining form),10,-3.878804056566417,-3.9957204210493726,0.0
+sometimes,on certain occasions or in certain cases but not always,5,-3.9134878423484607,-3.9055030165476046,0.0
+beyond,farther along in space or time or degree,5,-3.5488728851542013,-3.684874074958755,0.0
+highly,to a high degree or extent; favorably or with much respect,6,-4.13598543868909,-4.0142286408410985,0.0
+perhaps,by chance,1,-4.131363092839754,-4.131363092839754,0.0
+particularly,to a distinctly greater extent or degree than is common,5,-4.196965235105538,-3.9432019998079624,0.0
+easily,with ease (`easy' is sometimes used informally for `easily'),6,-4.218244199394235,-4.120204101079448,0.0
+generally,usually; as a rule,2,-3.900419423252364,-3.900419423252364,0.0
+quickly,with rapid movements,2,-4.356599310711861,-4.356599310711861,0.0
+alone,without any others being included or involved,3,-3.742078038463481,-3.722592907305072,0.0
+immediately,without delay or hesitation; with no time intervening,4,-4.636246375760688,-4.990266149442826,0.0
+approximately,(of quantities) imprecise but fairly close to correct,5,-4.593592157658707,-4.188279458894171,0.0
+automatically,in a reflex manner,2,-4.863283908556262,-4.863283908556262,0.0
+completely,to a complete degree or to the full or entire extent (`whole' is often used informally for `wholly'),10,-4.0742459048522965,-3.891109347189017,0.0
+earlier,earlier in time; previously,3,-3.63582290496416,-3.76941188879185,0.0
+straight,without deviation,1,-5.003006109898932,-5.003006109898932,0.0
+clearly,without doubt or question,2,-4.057555156208391,-4.057555156208391,0.0
+frequently,many times at short intervals,4,-3.6465474430987252,-3.503402085652831,0.0
+exactly,indicating exactness or preciseness,3,-6.177177640928263,-6.702783674053603,0.0
+nearly,(of actions or states) slightly short of or not quite accomplished; all but,6,-3.9295318933313994,-3.8706681719639073,0.0
+faster,more quickly,1,-4.1656586304036125,-4.1656586304036125,0.0
+bc,before the Christian era; used following dates before the supposed year Christ was born,8,-3.8205092550329494,-3.9543473181591917,0.0
+slightly,to a small degree or extent,3,-3.922266440147496,-3.9432019998079624,0.0
+originally,in an original manner,2,-4.016406662564243,-4.016406662564243,0.0
+ahead,at or in the front,1,-3.765636806140797,-3.765636806140797,0.0
+previously,at an earlier time or formerly,3,-3.7806841394061546,-3.76941188879185,0.0
+outdoors,outside a building,1,-3.6614071902292444,-3.6614071902292444,0.0
+certainly,definitely or positively (`sure' is sometimes used informally for `surely'),7,-4.459148737702219,-4.56746454480367,0.0
+indeed,in truth (often tends to intensify),4,-4.640667309389391,-4.424719453833927,0.0
+mostly,in large part; mainly or chiefly,4,-4.2641675956861596,-4.053538125168581,0.0
+specifically,in distinction from others,2,-4.328264630789726,-4.328264630789726,0.0
+yeah,"not only so, but",0,,,1.0
+totally,to a complete degree or to the full or entire extent (`whole' is often used informally for `wholly'),10,-4.0742459048522965,-3.891109347189017,0.0
+extremely,to a high degree or extent; favorably or with much respect,6,-4.13598543868909,-4.0142286408410985,0.0
+anyway,used to indicate that a statement explains or supports a previous statement,7,-3.6946280314727096,-3.7657115996905004,0.0
+anywhere,at or in or to any place; ; (`anyplace' is used informally for `anywhere'),5,-4.563659143806522,-4.390207491773265,0.0
+truly,in accordance with truth or fact or reality,4,-4.163984237505455,-4.245273568608958,0.0
+properly,in the right manner,2,-3.8252408021300184,-3.8252408021300184,0.0
+newly,very recently,1,-3.979638951580683,-3.979638951580683,0.0
+absolutely,completely and without qualification; used informally as intensifiers,5,-4.92294638951213,-4.9540483519171366,0.0
+significantly,in a statistically significant way,3,-4.177009310087211,-4.003512958159594,0.0
+tonight,during the night of the present day,3,-3.5152168424504744,-3.6537539108405976,0.0

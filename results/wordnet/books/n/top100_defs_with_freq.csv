@@ -1,0 +1,101 @@
+lemma,definition,len_tokens,mean_log_freq,median_log_freq,miss_rate
+may,the month following April and preceding June,5,-4.044907728679215,-3.743637825778083,0.0
+time,an instance or single occasion for some event,4,-3.8225686013272564,-3.778365176388564,0.0
+state,the territory occupied by one of the constituent administrative districts of a nation,6,-4.116025096325519,-4.071440123263227,0.0
+year,a period of time containing 365 (or 366) days,4,-3.3218079327471792,-3.196168662352612,0.0
+work,activity directed toward making or doing something,4,-3.485560182832425,-3.5390763554028086,0.0
+case,an occurrence of something,2,-4.02395192425496,-4.02395192425496,0.0
+day,time for Earth to make a complete rotation on its axis,6,-3.7452324325508286,-3.8085027548634525,0.0
+part,something determined in relation to something that includes it,5,-3.689663806751026,-3.6067067166276066,0.0
+system,instrumentality that combines interrelated interacting artifacts designed to work as a coherent entity,9,-4.812976072366629,-5.064320061245046,0.0
+service,work done by one person or group that benefits another,5,-3.198508110654225,-3.257944986505886,0.0
+must,a necessary or essential thing,3,-3.607917096437257,-3.4916366198269766,0.0
+right,an abstract idea of that which is due to a person or governmental body by law or tradition or nature; ; - Eleanor Roosevelt,11,-3.9620728843102566,-3.630105667308107,0.0
+number,the property possessed by a sum or total or indefinite quantity of units or individuals,8,-3.905352367110724,-3.7509775058631742,0.0
+way,how something is done or how it happens,3,-3.656206271205907,-3.6067067166276066,0.0
+people,(plural) any group of human beings (men or women or children) collectively,8,-3.7381930077510237,-3.3184618068327105,0.0
+law,the collection of rules imposed by authority,4,-3.8971186539772606,-3.7044386307975845,0.0
+act,a legal document codifying the result of deliberations of a committee or society or legislative body,9,-4.085513235868908,-3.831256495669684,0.0
+life,a characteristic state or mode of living,4,-3.618430595556106,-3.82202579203824,0.0
+section,a self-contained part of a larger composition (written or musical),6,-3.791090181066456,-3.9988002911252187,0.16666666666666663
+company,an institution created to conduct business,4,-3.8057495993864414,-3.886741406540753,0.0
+court,an assembly (including one or more judges) to conduct judicial business,6,-3.8642908256652304,-3.888650279980868,0.0
+water,binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid; freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade; widely used as a solvent,20,-4.593985923125912,-4.266746921938445,0.0
+government,the organization that is the governing authority of a political unit,5,-3.8339377543105213,-3.5876338814915916,0.0
+school,an educational institution,2,-3.877690036135027,-3.877690036135027,0.0
+man,an adult person who is male (as opposed to a woman),5,-3.90691383925315,-3.9864423458685674,0.0
+child,a young person of either sex,3,-3.657185795520055,-3.5802122540283294,0.0
+power,possession of controlling influence,3,-3.738385329738975,-3.765758383371085,0.0
+country,a politically organized body of people under a single government,6,-3.8720277832188956,-3.556959997484401,0.0
+area,a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography),13,-4.011140461323878,-3.845700483151047,0.0
+study,a detailed critical inspection,3,-4.14621644139657,-4.187885486607264,0.0
+point,a geometric element that has position but no extension,4,-4.106707388763295,-3.9197643434032354,0.0
+form,the phonological or orthographic sound or appearance of a word that can be used to describe or identify something,9,-4.258574010673808,-4.0713563125884775,0.0
+house,a dwelling that serves as living quarters for one or more families,5,-4.166507600617885,-4.014898335998011,0.0
+result,a phenomenon that follows and is caused by some previous phenomenon,5,-3.974759968156877,-3.958017617818264,0.0
+member,one of the persons who compose a social group (especially individuals who have joined and participate in a group organization),10,-3.8127828540483732,-3.52589090544584,0.0
+doe,the federal department responsible for maintaining a national energy policy of the United States; created in 1977,10,-3.5548201045645187,-3.5063455373868733,0.0
+group,any number of entities (members) considered as a unit,5,-3.641858412185088,-3.5876338814915916,0.0
+world,everything that exists anywhere,3,-4.299055577957772,-4.281393539098527,0.0
+value,a numerical quantity measured or assigned or computed,5,-4.36399905960693,-4.628824832812881,0.0
+person,a human being,1,-3.500137983700705,-3.500137983700705,0.0
+city,a large and densely populated urban area; may include several independent administrative districts,10,-4.002008152599638,-3.8377140688287756,0.0
+line,a formation of people or things one beside another,4,-3.7275617634382625,-3.6470241398395764,0.0
+effect,a phenomenon that follows and is caused by some previous phenomenon,5,-3.974759968156877,-3.958017617818264,0.0
+hand,the (prehensile) extremity of the superior limb,4,-5.074361411625656,-4.732036107742536,0.0
+question,an instance of questioning,2,-3.558472851645245,-3.558472851645245,0.0
+fact,a piece of information about circumstances that exist or events that have occurred,6,-3.8264308532326265,-3.8808358254628095,0.0
+rate,a magnitude or frequency relative to a time unit,5,-3.74328719056631,-3.8971658855050495,0.0
+information,a message received and understood,3,-4.067794771665316,-4.08859410368176,0.0
+program,a series of steps to be carried out or goals to be accomplished,5,-4.023633143685764,-3.9379199617743734,0.0
+men,the force of workers available,3,-3.5637196640993807,-3.536125714850608,0.0
+interest,a sense of concern with and curiosity about someone or something,5,-4.047091295625739,-3.921898192637151,0.0
+development,act of improving by expanding or enlarging or refining,5,-4.462176288836124,-4.7003768853468895,0.0
+problem,a state of difficulty that needs to be resolved,4,-3.6559668256025164,-3.605849359941288,0.0
+woman,an adult female person (as opposed to a man),5,-3.8813607966480994,-3.9761710388130838,0.0
+thing,a special situation,2,-3.606080219523152,-3.606080219523152,0.0
+cost,the total spent for goods or services including money and time and labor,8,-3.426038540200939,-3.4593721193048754,0.0
+term,a word or expression used for some particular thing,5,-3.4600753772876374,-3.3378937880256787,0.0
+might,physical strength,2,-3.8664491785427995,-3.8664491785427995,0.0
+condition,a state at a particular time,3,-3.0257399308441983,-2.7466092529741437,0.0
+university,the body of faculty and students at a university,4,-3.6445388096965843,-3.47478062893505,0.0
+committee,a special group delegated to consider some matter;  - Milton Berle,7,-3.894597994593035,-3.6879426623361615,0.1428571428571429
+word,a unit of language that native speakers can identify,5,-3.938930991069783,-4.0326320680665315,0.0
+book,a written work or composition that has been published (printed on pages bound together),7,-3.88285579311928,-3.9988002911252187,0.0
+land,the land on which real estate is located,4,-3.9378053584408157,-3.745904375992054,0.0
+business,a commercial or industrial enterprise and the people who constitute it,5,-3.8705550360906242,-3.8956642890593876,0.0
+action,something done (usually as opposed to something said),6,-3.659421703162435,-3.6067067166276066,0.0
+york,the English royal house (a branch of the Plantagenet line) that reigned from 1461 to 1485; its emblem was a white rose,10,-4.173178632454999,-3.907949446814591,0.0
+office,place of business where professional or clerical duties are performed,6,-3.8834660751792374,-3.7874206760993103,0.0
+department,a specialized division of a large organization,4,-4.064572436257375,-3.6427476907342236,0.0
+data,a collection of facts from which conclusions may be drawn,4,-3.8173172895771694,-3.894265743013916,0.0
+level,a position on a scale of intensity or amount or quality,5,-3.7527606715229296,-3.677603091829028,0.0
+subject,the subject matter of a conversation or discussion,4,-3.710495377509076,-3.6063213580602316,0.0
+name,a language unit by which a person or thing is known,5,-3.4102387169958694,-3.323752749666111,0.0
+process,a particular course of action intended to achieve a result,6,-3.7909803788249277,-3.499731240224482,0.0
+period,an amount of time,2,-3.063880798149557,-3.063880798149557,0.0
+table,a set of data arranged in rows and columns,5,-3.9550178515030536,-3.820465828017806,0.19999999999999996
+type,a subdivision of a particular kind of thing,4,-3.7536899598406666,-3.580707007283155,0.0
+method,"a way of doing something, especially a systematic way; implies an orderly logical arrangement (usually in steps)",11,-3.9871194322638677,-3.7340463092618386,0.0
+material,the tangible substance that goes into the makeup of a physical object,6,-4.230252432139405,-3.9355077916082215,0.0
+figure,a diagram or picture illustrating textual material,5,-4.335607953001621,-4.459699318766127,0.0
+research,systematic investigation to establish facts,4,-3.9801956260097398,-4.011067789861904,0.0
+property,something owned; any tangible or intangible possession that is owned by someone,7,-4.094286908720128,-4.083529125726885,0.0
+county,(United Kingdom) a region created by territorial division for the purpose of local government,9,-3.739014087692113,-3.6819042615324507,0.0
+amount,a quantity of money,2,-3.7479134610223306,-3.7479134610223306,0.0
+course,education imparted in a series of lessons or meetings,5,-4.097465154603015,-3.7036052993618194,0.0
+family,a social unit living together,4,-3.6223871713103444,-3.5982398801136646,0.0
+purpose,an anticipated outcome that is intended or that guides your planned actions,6,-4.185176789957399,-4.19426070123745,0.0
+board,a committee having supervisory powers,3,-3.868217074870333,-3.336567386939369,0.0
+party,an organization to gain political power,4,-3.6043715414666853,-3.585730253972626,0.0
+example,an item of information that is typical of a class or group,5,-3.619070468135811,-3.4597792931279114,0.0
+war,the waging of armed conflict against an enemy,4,-4.440675324067389,-4.061817139180511,0.0
+matter,a vaguely specified concern,3,-4.490852825283729,-4.164434140892834,0.0
+side,a place within a region identified relative to a center or reference location,7,-3.7727862358456727,-3.6819042615324507,0.0
+god,the supernatural being conceived as the perfect and omnipotent and omniscient originator and ruler of the universe; the object of worship in monotheistic religions,12,-4.983075739328304,-4.823586917654307,0.0
+john,a room or building equipped with one or more toilets,4,-4.339290496299827,-4.282966099530185,0.0
+rule,a principle or condition that customarily governs behavior,5,-4.296184074853191,-3.9517700134812213,0.0
+body,"the entire structure of an organism (an animal, plant, or human being)",6,-3.7842759938770882,-3.6677148433041085,0.0
+price,the property of having material worth (often indicated by the amount of money something would bring if sold),10,-3.7030391488440237,-3.584383515166011,0.0
+education,the activities of educating or instructing; activities that impart knowledge or skill,7,-4.341426475202232,-4.0363286539402115,0.0
+field,a piece of land cleared of trees and usually enclosed,6,-3.9720979173102933,-3.74494234422204,0.0

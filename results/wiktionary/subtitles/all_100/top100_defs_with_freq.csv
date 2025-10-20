@@ -1,0 +1,100 @@
+lemma,definition,len_tokens,mean_log_freq,median_log_freq,miss_rate
+know,To perceive the truth or factuality of; to be certain of; to be certain that.,5,-4.381141325054992,-4.081940236318216,0.19999999999999996
+get,To obtain; to acquire.,2,-5.413333335196807,-5.413333335196807,0.0
+like,"To enjoy, be pleased by; favor; be in favor of.",4,-3.8220373285341154,-4.109648393855523,0.0
+go,"To move, either physically or in an abstract sense",4,-4.477517463436455,-4.433803483927139,0.0
+right,"Designating the side of the body which is positioned to the east if one is facing north, the side on which the heart is not located in most humans. This arrow points to the reader's right: →",15,-3.9082528433393153,-3.675015260884311,0.06666666666666665
+come,To move nearer to the point of perspective.,4,-4.376621119726589,-4.29079654670183,0.0
+one,The represented by the ; the numerical value equal to that cardinal number.,6,-4.511245611655421,-4.667447837555009,0.16666666666666663
+got,{{non-gloss|Expressing obligation; used with .}},2,-4.281020236190865,-4.281020236190865,0.0
+want,"To wish for or desire (something); to feel a need or desire for; to crave, hanker, or demand.",9,-3.9500937056961134,-4.046925287483378,0.11111111111111116
+well,"Accurately, competently, satisfactorily.",3,-5.765304369968391,-5.765304369968391,0.6666666666666667
+think,"To ponder, to go over in one's mind.",3,-3.9180512292470873,-3.34169880089277,0.0
+see,"To perceive or detect someone or something with the eyes, or as if by sight.",6,-4.119494780081614,-3.8548054763905917,0.0
+let,"To allow to, not to prevent {{qualifier|+ infinitive, but usually without }}.",4,-4.423724813679974,-4.244143563362992,0.25
+time,The inevitable progression into the future with the passing of present and past events.,7,-4.451109495235623,-3.9983174752623096,0.0
+look,"To try to see, to pay attention to with one’s eyes.",5,-3.3964623329320105,-3.4238069529643127,0.0
+back,At or near the rear.,1,-4.922482730678842,-4.922482730678842,0.0
+take,"To get into one's hands, possession or control, with or without force.",5,-3.6119044458690133,-3.783347068153959,0.0
+say,To pronounce.,1,-5.267173477159263,-5.267173477159263,0.0
+man,An adult male human.,3,-4.213315984949319,-4.349671888486848,0.0
+tell,"To count, reckon, or enumerate.",3,-4.403491858749418,-4.403491858749418,0.33333333333333337
+thing,"That which is considered to exist as a separate entity, object, quality or concept.",7,-4.6777510882321405,-4.599761231993911,0.0
+make,To create.,1,-4.425447423034869,-4.425447423034869,0.0
+need,A for something; something .,2,-2.8393400726377687,-2.8393400726377687,0.0
+really,"In a way or manner that is real, not unreal.",4,-4.107246560107893,-3.9896029399826785,0.0
+way,To do with a place or places.,2,-3.1801781961897384,-3.1801781961897384,0.0
+find,To locate,1,-4.975744886592921,-4.975744886592921,0.0
+mean,To intend.,1,-4.660731070367472,-4.660731070367472,0.0
+never,At no time; on no occasion; in no circumstance.,3,-3.977563975152455,-4.571474285134617,0.0
+doe,"A female deer; also used of similar animals such as antelope (less commonly a goat, as is also used).",12,-4.373748858358341,-4.179859813465292,0.0
+guy,An effigy of a man burned on a bonfire on the anniversary of the Gunpowder Plot (5th November).,8,-4.681946338616527,-4.861856181208621,0.125
+little,Small in size.,2,-4.076713575421676,-4.076713575421676,0.0
+people,a body of persons considered generally or collectively; a group of two or more persons.,7,-4.3422931081890965,-4.023497426962489,0.0
+give,"To move, shift, provide something abstract or concrete to someone or something or somewhere.",8,-3.9345599114326464,-3.607421821038307,0.0
+please,To make happy or satisfy; to give pleasure to.,5,-3.7098779578403622,-3.4686511185049227,0.0
+sorry,Regretful or apologetic for one's actions.,3,-4.115075052526635,-4.115075052526635,0.6666666666666667
+day,The time when the Sun is above the horizon and it lights the sky.,5,-3.9307401264463664,-4.0390232479732004,0.0
+love,A deep caring for the existence of another.,3,-4.659135197361157,-4.794720085943877,0.0
+two,A numerical value equal to 2; this many dots (••).,5,-4.35582343347013,-4.562013897470338,0.19999999999999996
+life,"The state of organisms preceding their death, characterized by biological processes such as metabolism and reproduction and distinguishing them from inanimate objects; the state of being alive and living.",15,-4.858637284505411,-4.8174853366300034,0.06666666666666665
+sure,"Physically secure and certain, non-failing, reliable.",5,-4.688031978116808,-4.760443773025331,0.19999999999999996
+help,Action given to provide assistance; aid.,5,-4.241709207148496,-4.597363077033934,0.0
+even,Flat and level.,2,-4.274768170271686,-4.274768170271686,0.0
+much,A large amount of.,2,-4.380891702015587,-4.380891702015587,0.0
+year,A period of time akin to the time taken for the Earth to undergo a full cycle of seasons.,10,-4.154744175782658,-4.118234666953721,0.0
+god,"A deity or supreme being; a supernatural, typically immortal, being with superior powers, to which personhood is attributed.",9,-5.1237725598221395,-5.20022000206593,0.11111111111111116
+work,Employment.,1,-5.2672373745341385,-5.2672373745341385,0.0
+sir,A man of a higher rank or position.,4,-3.808788869782199,-3.8422155293311873,0.0
+call,To reach out with one's voice.,2,-3.975005006965368,-3.975005006965368,0.0
+still,Not moving; calm.,2,-3.6264396808172368,-3.6264396808172368,0.0
+first,Preceding all others of a series or kind; the ordinal of one; earliest.,6,-3.9417748214125945,-3.935057999187052,0.33333333333333337
+nothing,Not any thing; no thing.,2,-2.7763275074980056,-2.7763275074980056,0.0
+stop,To cease moving.,2,-4.138426137452769,-4.138426137452769,0.0
+wait,To delay movement or action until some event or time; to remain neglected or in readiness.,8,-4.534849932098118,-4.467663959845522,0.0
+maybe,"Perhaps, possibly.",2,-4.074381944781983,-4.074381944781983,0.0
+put,To physically place (something or someone somewhere).,5,-3.6338997075014254,-3.264934231080262,0.0
+talk,"To communicate, usually by means of speech.",4,-4.111272143503102,-4.298765939072045,0.0
+night,The time when the Sun is below the horizon when the sky is dark.,5,-3.998009360056841,-4.0390232479732004,0.0
+thought,"A representation created in the mind without the use of one's faculties of vision, sound, smell, touch, or taste; an instance of thinking.",12,-4.110074470655342,-3.9688650338503777,0.08333333333333337
+must,To do as a requirement; .,1,-5.4211021652449505,-5.4211021652449505,0.0
+keep,To continue in (a course or mode of action); to not intermit or fall from; to uphold or maintain.,8,-4.426586213863963,-4.170421307737795,0.125
+home,A dwelling.,1,-5.477111347536301,-5.477111347536301,0.0
+great,Taking much space; large.,4,-3.5187539610818064,-3.5236448606814874,0.0
+away,"From a place, hence.",2,-4.183286694128329,-4.183286694128329,0.0
+friend,"A person, typically someone other than a family member, spouse or lover, whose company one enjoys and towards whom one feels affection.",11,-4.176258663601992,-4.0757266358846005,0.0
+girl,A female child.,2,-3.874051415617374,-3.874051415617374,0.0
+last,"Final, ultimate, coming after all others of its kind.",5,-3.7507911859072047,-3.8985502598695025,0.0
+name,"Any nounal word or phrase which indicates a particular person, place, class, or thing.",9,-3.937828245001647,-3.750700750563839,0.11111111111111116
+long,Having much distance in space from one end to the other.,4,-3.7091282120212865,-3.735743930387696,0.0
+new,"made, or created.",2,-3.6121813133054896,-3.6121813133054896,0.0
+bad,Of low quality.,2,-4.377619539013528,-4.377619539013528,0.0
+feel,To use or experience the sense of touch.,4,-3.82821742020918,-3.8385049709940997,0.0
+always,At all times; throughout all time; since the beginning.,3,-3.130212755504554,-2.649914285815793,0.0
+place,An area; somewhere within an area.,3,-3.981249597719556,-4.024378745159661,0.0
+around,Forming a circle or closed curve containing (something).,6,-4.229536978831029,-4.322535300922482,0.0
+ever,"Always, frequently, forever.",3,-4.232565064489443,-4.017832734439084,0.0
+boy,A male child.,2,-3.8728661227697723,-3.8728661227697723,0.0
+old,"Of an object, concept, relationship, etc., having existed for a relatively long period of time.",8,-4.202459001918835,-4.455603978739367,0.0
+woman,An adult female human.,3,-4.214106180181053,-4.352042474182053,0.0
+leave,To have a consequence or remnant.,2,-5.213492817965841,-5.213492817965841,0.0
+money,A generally accepted means of exchange.,4,-4.177807541028515,-4.373607932369474,0.0
+father,"A male parent, especially of a human; a male who parents a child (which he has sired, adopted, fostered, taken as his own, etc.).",12,-4.174256780948507,-4.171322177319984,0.08333333333333337
+lot,A large quantity or number; a great deal.,5,-4.000083775890509,-3.580307333995879,0.0
+made,A grub or maggot.,2,-5.535169192402975,-5.535169192402975,0.0
+big,"Of great size, large.",3,-3.916827799552884,-4.315583498461688,0.0
+believe,"To accept as true, particularly without absolute certainty (i.e., as opposed to knowing).",7,-4.360513864734983,-4.748837214618437,0.0
+stay,"To remain in a particular place, especially for a definite or short period of time; sojourn; abide.",10,-4.253998989248652,-4.369793332506127,0.09999999999999998
+done,Having completed or finished an activity.,3,-4.302684352330835,-4.250894295796613,0.0
+kind,"A type, race or category; a group of entities that have common characteristics such that they may be grouped together.",9,-4.474652464854973,-4.1880814237947845,0.0
+hand,"The part of the forelimb below the forearm or wrist in a human, and the corresponding part in many other animals.",9,-4.391943581846981,-3.869339482958525,0.11111111111111116
+kill,To put to death; to extinguish the life of.,4,-3.9197924766075145,-3.328719801371136,0.0
+nice,"Pleasant, satisfactory.",2,-5.2279911295897605,-5.2279911295897605,0.0
+three,A numerical value after two and before four. Represented in Arabic digits as 3; this many dots (•••).,7,-4.677870837802698,-4.873046317665595,0.1428571428571429
+every,"of a countable group (considered individually), without exception.",5,-4.772474299745381,-4.626758953403433,0.19999999999999996
+house,A structure built or serving as an abode of human beings.,6,-4.3832684069445405,-4.2893966823292775,0.0
+kid,"A child, adolescent or a young adult.",4,-4.341495654110182,-4.077394933572552,0.0
+someone,One or some person of unspecified or indefinite identity.,4,-4.109731938918545,-4.109731938918545,0.5
+shit,Usually solid excretory product evacuated from the bowels; feces.,7,-4.981492561791911,-4.877410080441237,0.1428571428571429
+minute,A unit of time which is one sixtieth of an hour (sixty seconds).,6,-3.7588266382312185,-3.4408965536336344,0.16666666666666663
+world,"The subjective human experience, regarded collectively; human collective existence; existence in general; the reality we live in.",12,-4.626065194042583,-4.631375030378898,0.0

@@ -1,0 +1,101 @@
+lemma,definition,len_tokens,mean_log_freq,median_log_freq,miss_rate
+lipreading,The act of reading lips.,3,-3.7790994580946795,-3.5526072486573836,0.0
+foresighted,Having foresight; foreseeing; provident.,3,-5.9012882851465,-5.9803409775182494,0.0
+untempered,Not tempered; not conditioned by a process.,3,-4.099943980884117,-3.434426800393953,0.0
+conceptional,Of or relating to conception.,2,-4.973475738067676,-4.973475738067676,0.0
+fractionate,"To separate (a mixture) into its individual constituents by exploiting differences in some chemical or physical property, such as boiling point, particle size, solubility etc.",15,-4.282636520628059,-4.057444307348051,0.0
+hyoscyamus,Any of the genus of henbanes.,2,-6.09297606604759,-6.09297606604759,0.0
+belike,To make like; simulate.,2,-4.263490428174934,-4.263490428174934,0.0
+saltpetre,Potassium nitrate.,2,-5.269003227788654,-5.269003227788654,0.0
+tardily,in a tardy fashion; belatedly; late,4,-5.223011932103922,-5.196569885300584,0.0
+downmarket,Designed for low-income consumers.,3,-3.5564992577836603,-3.5564992577836603,0.33333333333333337
+rectifiable,Able to be rectified; correctable; fixable.,4,-5.784617556943509,-6.296965612688815,0.0
+depopulate,"To reduce the population of a region by disease, war, forced relocation etc.",8,-3.9633320810716226,-3.873155781619757,0.0
+evenfall,"dusk, twilight",2,-5.280747854959863,-5.280747854959863,0.0
+pahoehoe,"A form of lava flow of basaltic rock, usually dark-colored with a smooth or ropey surface. It is one of two chief forms of lava flow emitted from volcanoes of the Hawaiian type, the other form being aa.",20,-4.529988174872096,-4.070314984107506,0.050000000000000044
+shrewish,Of or pertaining to a shrew .,2,-5.944097859344399,-5.944097859344399,0.0
+unversed,"Inexperienced, untrained.",2,-6.0213515484501015,-6.0213515484501015,0.0
+chroming,"The act of inhaling the fumes of substances such as glue or paint, usually by sniffing them from a paper bag or bottle, with the aim of getting intoxicated.",14,-4.62004433514764,-4.307512186493604,0.0
+nonaligned,"Not allied with any particular nation, or with any side in a dispute.",5,-4.161157870392353,-3.9010595929468557,0.0
+superabundant,Extremely or exceedingly abundant.,3,-5.129901916550072,-5.232721975420983,0.0
+hypercritical,Meticulously or excessively critical.,3,-5.303224186006145,-5.7970041324424635,0.0
+deceivingly,In a deceiving manner.,2,-5.08099742331421,-5.08099742331421,0.0
+obduracy,"The state of being obdurate, intractable, or stubbornly inflexible.",5,-5.744645174599387,-6.131817872406744,0.0
+tragopogon,Either of two goat's-beards ( (meadow salsify) or (); or (in later use) any other member of the genus .,7,-4.501670659563167,-4.363637018227401,0.1428571428571429
+demonstratively,In a demonstrative manner.,2,-5.338907141124859,-5.338907141124859,0.0
+denumerable,"Capable of being assigned a bijection to the natural numbers. Applied to sets which are not finite, but have a one-to-one mapping to the natural numbers.",11,-4.093806855291444,-3.718623666984754,0.0
+biddable,"Docile, amenable or compliant.",3,-5.811551595866061,-6.048596153807402,0.0
+nonfeasance,The intentional failure to perform an official duty or legal requirement.,7,-4.126505551076349,-4.0753729974492385,0.0
+ineffably,indescribably; to a very great degree or extent.,4,-4.619284784900211,-4.079277493784311,0.0
+photomechanical,"of or relating to any of several methods of printing via a plate which has been prepared photographically, and can contain both text and images",10,-4.227363918108642,-3.9609345997123704,0.0
+rhinotracheitis,inflammation of the nose and trachea,3,-5.427876553621357,-5.286930948325653,0.0
+serigraphy,"Screen printing, silk-screen printing .",4,-3.8351924167891327,-3.8250677422927346,0.25
+phenobarbitone,A barbiturate drug used as a sedative.,4,-4.719437317671965,-4.840146240484797,0.0
+inanely,In an inane manner.,2,-5.275395244582434,-5.275395244582434,0.0
+defensibility,The state or quality of being defensible,3,-4.220053574229126,-3.478724710459552,0.0
+metalled,"Surfaced, tarred, covered in stone or crushed rock (usually tar-coated).",8,-4.265687841093724,-4.028267192376287,0.125
+larboard,"The left side of a ship, looking from the stern forward to the bow; port side.",9,-3.933162605174314,-3.7012280100604262,0.0
+floxuridine,"An antimetabolite drug, fluorodeoxyuridine, used in the treatment of colorectal cancer",7,-4.498049477660063,-3.848804386805364,0.1428571428571429
+fraternize,To associate with others in a brotherly or friendly manner.,5,-4.436385166849162,-3.9585965141301545,0.0
+lagger,One who or that which lags behind; a laggard.,2,-5.866590105796849,-5.866590105796849,0.0
+trifoliate,"Having or comprising three leaves, or (loosely) trifoliolate (with three leaflets)Beentje 2010, The Kew Plant Glossary or having leaves with three parts, as the clover plant.",13,-4.618161854324469,-4.367726088145544,0.15384615384615385
+rectosigmoid,"Of the rectum and the sigmoid colon; especially, of the junction between them.",5,-5.238365759762651,-5.009619084608885,0.0
+melodiously,In a melodious manner.,2,-5.409677384591623,-5.409677384591623,0.0
+ruly,Pitiable; miserable.,2,-6.180177346181704,-6.180177346181704,0.0
+renormalize,To subject to renormalization,2,-4.784032877473707,-4.784032877473707,0.0
+downhiller,Someone who is traveling downhill.,3,-4.205452055610157,-3.8855063228086397,0.0
+tomboyish,Displaying behavior associated with a tomboy.,4,-4.546481827641017,-4.029633187610766,0.0
+caecal,Of or pertaining to the caecum.,2,-6.603743911013794,-6.603743911013794,0.0
+pertinacity,The state or characteristic of being pertinacious.,3,-3.5965176200361744,-3.5965176200361744,0.33333333333333337
+pointedness,The quality of being pointed,2,-3.4122216965546874,-3.4122216965546874,0.0
+combustibility,The quality or state of being combustible,3,-4.085293669187696,-3.478724710459552,0.0
+whydah,"Any of various black and white African birds with distinctive drooping long tailfeathers on males in mating season, suitable as cage birds.",15,-4.244298670838861,-4.0781146428584405,0.06666666666666665
+demulcent,Soothing or softening.,2,-5.908895406686765,-5.908895406686765,0.0
+australopithecine,"Any of several extinct hominids, belonging to the genera and in the subtribe when seen as distinct, and sometimes other closely related genera.",12,-4.799268286029764,-4.77986058669618,0.0
+feminize,To make (more) feminine.,2,-4.186763663156802,-4.186763663156802,0.0
+topknot,"A decorative knot of hair on the crown of the head, sometimes having ribbons or feathers.",8,-4.442440996228827,-4.513617701532729,0.125
+paramountcy,"The condition or fact of being paramount; precedence, supremacy; an instance of this.",6,-4.583082888422506,-4.69986006720811,0.0
+saleroom,A room in which items for sale are displayed; a showroom,5,-3.6964318055512377,-3.3860967551341314,0.0
+undiplomatic,not diplomatic or tactful,2,-5.960083955839282,-5.960083955839282,0.0
+deutzia,"Any of a group of cultivated shrubs, of the genus , having white or pink flowers",7,-4.210598669029657,-3.97616824865333,0.1428571428571429
+topmast,The highest mast in a fore-and-aft-rigged ship.,4,-4.084296724246067,-3.7012280100604262,0.25
+noncom,"A non-commissioned officer, such as a sergeant (army) or petty officer (navy).",7,-4.4640517470191705,-4.2607716240499105,0.1428571428571429
+steradian,"In the International System of Units, the derived unit of solid angle; the solid angle subtended at the centre of a sphere of radius r by a portion of the surface of the sphere that has area r2. Symbol: sr",19,-4.311511305399344,-4.20878987099402,0.0
+hunchbacked,Having an abnormally curved or hunched back,4,-4.965865185722157,-5.307815410207543,0.0
+dekko,A look; a glance.,2,-3.9985195525819575,-3.9985195525819575,0.0
+tameness,The state or quality of being tame.,3,-4.020015679998624,-3.478724710459552,0.0
+airburst,The explosion of a bomb (or similar weapon) or meteoroid in the air rather than on the ground.,8,-4.471086004802806,-4.085696156228746,0.0
+deferentially,In a deferential manner.,2,-5.520304970851992,-5.520304970851992,0.0
+areolar,Of or relating to areolae.,2,-5.523620047229963,-5.523620047229963,0.0
+lobsterman,A fisherman (male or female) for lobsters.,4,-4.527805323264814,-4.495980798257339,0.0
+accessorial,"Of or pertaining to an accessory, e.g. to a crime.",3,-4.4578889022210655,-4.062942594748004,0.0
+catasetum,Any of the genus of showy epiphytic orchids.,4,-5.851302103158056,-5.6698349836620405,0.0
+combativeness,The state of being combative.,2,-4.704489858253202,-4.704489858253202,0.0
+rusticated,Constructed so as to produce a jagged or heavily textured surface.,6,-4.799252730890612,-4.7966602758320285,0.0
+passiveness,The state or condition of being passive; passivity.,4,-4.430200622431718,-4.169574751600191,0.0
+gloominess,The state or condition of being gloomy.,3,-4.043670440933458,-3.380444860634733,0.0
+aimlessness,"The state or quality of being aimless, or without purpose or direction.",5,-4.092934204612915,-3.7067434244175748,0.0
+jobholder,Someone who is employed in a regular job,4,-3.973121532745503,-3.926441909011918,0.0
+vambrace,The piece of armor designed to protect the arm from the elbow to the wrist.,7,-4.359360397169264,-4.1959482778665365,0.0
+jerkily,In a jerky manner.,2,-5.086169399571647,-5.086169399571647,0.0
+hellishly,In a hellish manner.,2,-5.332857502177182,-5.332857502177182,0.0
+suavely,In a suave manner.,2,-5.263734788035825,-5.263734788035825,0.0
+characin,"Any of many diverse fish, of the order , related to the carp and catfish and including the tetra, which were formerly all included in the family .",12,-4.320484213220133,-4.335512755385441,0.0
+distributary,That .,0,,,1.0
+contentiousness,The state of being contentious.,2,-4.363901740063696,-4.363901740063696,0.0
+jocose,given to jesting; habitually jolly,4,-5.238245481497948,-5.581866631405605,0.0
+crookedly,In a crooked manner.,2,-4.9068303104429685,-4.9068303104429685,0.0
+deckled,Having a rough edge (used especially of hand-made paper).,6,-3.8372522846837462,-3.9961481304742037,0.16666666666666663
+caustically,In a caustic manner.,2,-5.119807307111747,-5.119807307111747,0.0
+coelom,A fluid-filled cavity within the body of an animal.,4,-4.146960557308876,-3.6875992540864435,0.25
+wanter,"One who wants, or who wants something",3,-3.4199683030007093,-3.3052352193669514,0.0
+pleochroism,"The optical phenomenon in some coloured, transparent crystals (such as tourmaline and opal) in which the colour changes when viewed from different directions.",12,-4.278437638805817,-4.213021359512773,0.0
+hinderer,"One who, or that which, hinders.",1,-6.234270667352651,-6.234270667352651,0.0
+disconnectedness,The characteristic of being disconnected.,2,-4.798949087534294,-4.798949087534294,0.0
+fragmental,consisting of fragments,2,-4.882630935042991,-4.882630935042991,0.0
+griever,One who grieves.,1,-5.092494194447082,-5.092494194447082,0.0
+forfend,To prohibit; to forbid; to avert.,3,-5.609470449578481,-5.695827618214454,0.0
+defoliate,"To remove foliage from (one or more plants), most often with a chemical agent.",6,-4.143130802059669,-3.925723192345971,0.0
+insatiably,In an insatiable manner.,2,-5.183875096931372,-5.183875096931372,0.0
+antemortem,Having occurred or having been inflicted before death.,3,-4.710489372170892,-4.377137883954242,0.0
+triose,A sugar or saccharide containing three carbon atoms. Trioses are the smallest monosaccharides. Dihydroxyacetone and L-/D-glyceraldehyde are the only trioses.,10,-5.515629622617077,-4.474277221004127,0.09999999999999998

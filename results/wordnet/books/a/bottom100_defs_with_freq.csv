@@ -1,0 +1,101 @@
+lemma,definition,len_tokens,mean_log_freq,median_log_freq,miss_rate
+unconstipated,not constipated,1,-7.846279334720409,-7.846279334720409,0.0
+calceiform,of slipper-shaped blossoms,2,-5.3506769839816055,-5.3506769839816055,0.5
+homostylic,(botany) having styles all of the same length,3,-4.331559630502018,-4.099276525246335,0.0
+unsarcastic,not sarcastic,1,-5.834084178718047,-5.834084178718047,0.0
+arborical,of or relating to or formed by trees,3,-4.016561078836052,-4.073974454322202,0.0
+dyspneal,not breathing or able to breathe except with difficulty,4,-4.487278938980033,-4.6179907724913045,0.0
+jumentous,smelling strongly like a beast of burden,4,-4.611685913322218,-4.585823269285022,0.0
+artiodactylous,of or relating to or belonging to mammals of the order Artiodactyla,5,-5.0306077557885045,-4.610178948085121,0.0
+atomistical,divided into separate and often disparate elements,5,-4.3690413588778,-4.129002471924292,0.0
+extropic,of or relating to extropy,2,-6.586577499010962,-6.586577499010962,0.0
+amnic,of or related to the amnion or characterized by developing an amnion,5,-5.1462023153165415,-5.116519688399213,0.0
+bistered,colored with or as if with bister,2,-5.684270426868324,-5.684270426868324,0.0
+algometric,of or related to algometry,2,-6.207581539995655,-6.207581539995655,0.0
+apoplectoid,resembling apoplexy,2,-5.537571826004879,-5.537571826004879,0.0
+unascribable,not attributable,1,-4.95666844769811,-4.95666844769811,0.0
+anisogamic,relating to a type of sexual reproduction in which the gametes are dissimilar in some respect (as size or shape),9,-4.5187687292714385,-4.288253068558675,0.0
+platyrhinian,of or related to New World monkeys having nostrils far apart or to people with broad noses,10,-4.074020489129116,-4.127807026727534,0.0
+araneidan,relating to or resembling a spider,3,-4.979349247638615,-5.032009261390218,0.0
+bellyless,lacking a prominent belly,3,-4.533021886314348,-4.4752136352804115,0.0
+cutaneal,relating to or existing on or affecting the skin,4,-4.278795023116545,-4.181441781409282,0.0
+leptorrhinian,having a long narrow nose,3,-3.977104247971253,-4.233261109055899,0.0
+pemphigous,of or relating to or manifesting pemphigus,3,-5.275659401947546,-4.76934804124464,0.0
+uncolumned,not having columns,1,-4.262500661866461,-4.262500661866461,0.0
+branchiopodous,of or relating to or characteristic of the subclass Branchiopoda,4,-5.563338627511316,-5.181004951185081,0.0
+quadrisonic,of or relating to quadraphony,2,-6.620260886339237,-6.620260886339237,0.0
+chlamydeous,having a floral envelope or perianth consisting of a calyx and/or corolla,6,-5.333372884335973,-5.433595909449805,0.0
+nonextensile,not extensile,1,-7.394622473670014,-7.394622473670014,0.0
+astomatal,lacking a stoma or stomata,3,-5.568855695314023,-6.333306414601248,0.0
+chylifactive,producing or converting into chyle,3,-5.1260249281837895,-4.8666378125483645,0.0
+arachnidian,relating to or resembling a member of the class Arachnida,5,-4.737999103190271,-4.610178948085121,0.0
+agrypnotic,of or pertaining to agrypnia,2,-6.933271424615226,-6.933271424615226,0.0
+plumbable,(of depth) capable of being sounded or measured for depth,5,-4.09095434559776,-4.173004347831479,0.0
+adactylous,without fingers and/or toes,2,-4.840209454936174,-4.840209454936174,0.0
+amoebous,pertaining to or resembling amoebae,3,-5.623428681749015,-5.568631504626766,0.0
+bismuthal,of or relating to bismuth,2,-5.077455699516121,-5.077455699516121,0.0
+allotropical,of or related to or exhibiting allotropism,3,-5.406090722311352,-4.393037936132196,0.0
+bibliothecarial,of or relating to a library or bibliotheca or a librarian,4,-4.858873806419266,-4.748078311345887,0.0
+ameban,pertaining to or resembling amoebae,3,-5.623428681749015,-5.568631504626766,0.0
+basidiosporous,of or relating to or characterized by spores produced by basidia,5,-5.305036726728214,-5.116519688399213,0.0
+hematal,relating to the blood vessels or blood,4,-4.112125193974145,-4.02087560915015,0.0
+platyrrhinic,of or related to New World monkeys having nostrils far apart or to people with broad noses,10,-4.074020489129116,-4.127807026727534,0.0
+vulpecular,resembling or characteristic of a fox,3,-4.650458606340624,-4.638472275240551,0.0
+neoclassicistic,relating to or advocating neoclassicism,3,-5.400850660013141,-4.76995028392045,0.0
+yogistic,of or relating to yoga,2,-5.018650680479298,-5.018650680479298,0.0
+arborary,of or relating to or formed by trees,3,-4.016561078836052,-4.073974454322202,0.0
+gymnosophical,of or relating to gymnosophy,2,-6.7723724515037285,-6.7723724515037285,0.0
+unbarrelled,not in a barrel,1,-4.86879910994297,-4.86879910994297,0.0
+mutafacient,capable of inducing mutation (used mainly of intracellular agents),7,-4.427157452616376,-4.255847620101404,0.0
+anestric,of or relating to anestrus,2,-6.026079965709514,-6.026079965709514,0.0
+limacoid,of or resembling a slug,2,-5.4333146117165985,-5.4333146117165985,0.0
+haematal,relating to the blood vessels or blood,4,-4.112125193974145,-4.02087560915015,0.0
+noncivilised,not having a high state of culture and social development,5,-3.348106702787335,-3.3538340994022926,0.0
+lucifugal,light-avoiding,1,,,1.0
+antitypic,of or relating to an antitype,2,-5.7735116631185885,-5.7735116631185885,0.0
+prolusory,of or relating to or having the character of a prolusion,3,-5.424727420289055,-4.610178948085121,0.0
+catarrhinian,of or related to Old World monkeys that have nostrils together and opening downward,8,-4.235939479081966,-4.113490982890911,0.0
+dioecian,having male and female reproductive organs in separate plants or animals,7,-4.222284267544937,-4.109515384395232,0.0
+inexperient,lacking practical experience or training,4,-3.8629327922542336,-3.8738625542723018,0.0
+nonenterprising,lacking in enterprise; not bold or venturesome,4,-4.920361490855968,-4.554998277873424,0.0
+uveous,of or relating to the uvea of the eye,3,-5.196340750641123,-4.610178948085121,0.0
+nutritionary,of or relating to or providing nutrition,3,-4.2902178353386065,-4.610178948085121,0.0
+plumbaginaceous,of or pertaining to or characteristic of plants of the family Plumbaginaceae,5,-4.995996795905526,-4.2808942823911025,0.0
+plutocratical,of or relating to or characteristic of a plutocrat,3,-5.392450400221307,-4.610178948085121,0.0
+carunculous,resembling a caruncle,2,-6.036593932261054,-6.036593932261054,0.0
+onomatopoeical,(of words) formed in imitation of a natural sound; ; - Harry Hoijer,7,-4.025825509456282,-3.8009820229673563,0.1428571428571429
+anisogametic,relating to either of a pair of dissimilar (anisogamic) gametes combining in sexual reproduction,8,-5.528835081106455,-4.7347796325766645,0.0
+unexploratory,not exploratory,1,-5.342079411643297,-5.342079411643297,0.0
+cacodemonic,of or relating to evil spirits,3,-4.27347182914733,-4.291992803639623,0.0
+fernless,devoid of ferns,2,-5.354281968424554,-5.354281968424554,0.0
+salamandriform,shaped like a salamander,2,-5.1477304130454655,-5.1477304130454655,0.0
+blastospheric,of or relating to a blastula,2,-5.712361899034931,-5.712361899034931,0.0
+nonvolatilizable,not volatilizing readily,2,-5.636967351834464,-5.636967351834464,0.0
+chylaceous,consisting of chyle or having the properties of chyle,4,-5.317358877238046,-5.5739786440010395,0.0
+uncamphorated,not containing camphor,2,-4.9718844688070645,-4.9718844688070645,0.0
+epicarpal,of or relating to the epicarp,2,-6.046159598541046,-6.046159598541046,0.0
+uninjectable,(used of drugs) not capable of being injected,4,-4.291545749219256,-4.1678361171614995,0.0
+catkinate,resembling a catkin,2,-6.052655774281593,-6.052655774281593,0.0
+ascocarpous,of or relating to ascocarps,2,-6.040473964158933,-6.040473964158933,0.0
+syncretistical,relating to a historical tendency for a language to reduce its use of inflections,7,-4.240193038488886,-4.127178846984114,0.0
+noncollapsable,not capable of collapsing,2,-4.542462609614214,-4.542462609614214,0.0
+unbarreled,not in a barrel,1,-4.86879910994297,-4.86879910994297,0.0
+homoecious,of parasites especially rust fungi; completing the entire life cycle on a single host,10,-4.248656732439587,-4.1054723007024325,0.0
+unbalconied,not having balconies,1,-5.417413766560818,-5.417413766560818,0.0
+ambiversive,intermediate between introversive and extroversive,3,-6.917066299576544,-7.796344623815967,0.0
+haploidic,of a cell or organism having a single set of chromosomes,5,-4.179619999986416,-3.9178020679685113,0.0
+uncrannied,without chinks or crannies,2,-6.416074813148443,-6.416074813148443,0.0
+autacoidal,of or relating to an autacoid,2,-6.347486367449251,-6.347486367449251,0.0
+ungusseted,not having gussets,1,-6.6720012099594666,-6.6720012099594666,0.0
+noncombinative,not involving combination,2,-4.307671989235569,-4.307671989235569,0.0
+apogametic,of or relating to the development of an embryo in the absence of fertilization,5,-4.507140634631284,-4.610178948085121,0.0
+albinal,of or pertaining to or affected by albinism,3,-5.4821462635777465,-5.568631504626766,0.0
+unexplorative,not exploratory,1,-5.342079411643297,-5.342079411643297,0.0
+anaglyphical,related to anaglyphs or anaglyphy,3,-7.197933260753366,-7.805789273602855,0.0
+parheliacal,relating to or resembling a parhelion,3,-5.826984458135926,-5.032009261390218,0.0
+macrencephalous,having a large brain case,3,-3.520142726617275,-3.1879570775526016,0.0
+alkahestic,of or pertaining to the alkahest that alchemists assumed to exist,5,-5.607468388244129,-5.568631504626766,0.0
+macrencephalic,having a large brain case,3,-3.520142726617275,-3.1879570775526016,0.0
+nonexplorative,not exploratory,1,-5.342079411643297,-5.342079411643297,0.0
+carposporous,having carpospores,1,-8.225601285012578,-8.225601285012578,0.0
+voltarean,in the manner of Voltaire,2,-4.632523359933296,-4.632523359933296,0.0

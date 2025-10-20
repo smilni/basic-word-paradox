@@ -1,0 +1,101 @@
+lemma,definition,len_tokens,mean_log_freq,median_log_freq,miss_rate
+new,not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered,8,-4.020925026816657,-4.168302447523481,0.0
+free,able to act at will; not hampered; not under compulsion or restraint,5,-4.8864712091984925,-5.356034880253807,0.0
+online,on a regular route of a railroad or bus or airline system,6,-4.148328225558497,-4.214109099021227,0.0
+first,preceding all others in time or space or degree,5,-4.020089018448134,-3.7225929070170807,0.0
+good,having desirable or positive qualities especially those suitable for a thing specified,7,-4.175599573357421,-4.020256578311922,0.0
+high,greater than normal in degree or intensity or amount,5,-3.949846667095347,-3.943201999519971,0.0
+used,employed in accomplishing something; - H.H.Arnold & I.C.Eaker,3,-4.545830683391761,-4.984732355749599,0.0
+available,obtainable or accessible and ready for use or service,5,-4.0941095176855224,-3.9720095781186977,0.0
+best,(superlative of `good') having the most positive qualities,4,-4.195220577294591,-3.756047351736347,0.0
+public,not private; open to or concerning the people as a whole,5,-3.638134362962172,-3.495522236150073,0.0
+many,a quantifier that can be used with count nouns and is often preceded by `as' or `too' or `so' or `that'; amounting to a large but indefinite number,10,-4.498565644270832,-3.9845824543549817,0.0
+full,containing as much or as many as is possible or normal,5,-3.72919879375342,-3.678465390430078,0.0
+long,primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified,13,-4.127624085629263,-4.475137073429568,0.0
+general,applying to all or most members of a category or group,4,-3.503035619124138,-3.4318043572926133,0.0
+low,less than normal in degree or intensity or amount,5,-4.030271096271187,-3.943201999519971,0.0
+united,characterized by unity; being or joined into a single entity,5,-4.394353388077148,-4.525984132689504,0.0
+real,being or occurring in fact or actuality; having verified existence; not illusory; ; ; ; ; ; - Longfellow,7,-5.1280319013302815,-4.606195480408996,0.0
+international,concerning or belonging to all or at least two or more nations,4,-4.256866765059428,-4.250060387334129,0.0
+late,being or occurring at an advanced period of time or after a usual or expected time,7,-3.7213913089070694,-3.7528277985182035,0.0
+large,above average in size or number or quantity or magnitude or extent,6,-3.9828251899687053,-3.972798351566074,0.0
+local,relating to or applicable to or concerned with the administration of a city or town or district rather than a larger area,10,-3.865245115469584,-3.846502211185852,0.0
+national,of or relating to or belonging to a nation or country,4,-4.3118871190070305,-4.462947298877268,0.0
+posted,publicly announced,2,-4.781325995212102,-4.781325995212102,0.0
+old,(used especially of persons) having lived for a relatively long time or attained a specific age,10,-3.734826233867892,-3.624703326124374,0.0
+reserved,set aside for the use of a particular person or party,5,-3.8191361348617265,-3.6089781455926326,0.0
+big,above average in size or number or quantity or magnitude or extent,6,-3.9828251899687053,-3.972798351566074,0.0
+black,being of the achromatic color of maximum darkness; having little or no hue owing to absorption of almost all incident light,11,-4.626914671915696,-4.637419057383469,0.0
+much,(quantifier used with mass nouns) great in quantity or degree or extent,8,-4.370558532762079,-4.175621217056481,0.0
+small,limited or below average in number or quantity or magnitude or extent,6,-4.033923946709042,-3.972798351566074,0.0
+related,being connected either logically or causally or by shared characteristics,5,-4.97874620991927,-4.931276723956428,0.0
+american,of or relating to the United States of America or its people or language or culture,7,-3.6455521031301266,-3.6279629988867,0.0
+following,going or proceeding or coming after in the same direction,4,-3.9203935552049796,-3.9103510299376976,0.0
+current,occurring in or belonging to the present time,4,-3.941068578161344,-4.074565033478258,0.0
+personal,concerning or affecting a particular person or his or her private life and personality,7,-3.9667826343664916,-3.911793489989733,0.0
+white,being of the achromatic color of maximum lightness; having little or no hue owing to reflection of almost all incident light,11,-4.731244132948691,-4.637419057383469,0.0
+digital,displaying numbers rather than scale positions,5,-3.7526843709316693,-3.82925568152317,0.0
+private,confined to particular persons or groups or providing privacy,6,-3.923953077538458,-3.557292485493636,0.0
+little,limited or below average in number or quantity or magnitude or extent,6,-4.033923946709042,-3.972798351566074,0.0
+different,unlike in nature or quality or form or degree,4,-3.6908190927215214,-3.677327141482346,0.0
+english,of or relating to or characteristic of England or its culture or people,5,-4.142657336202802,-3.9331043698810584,0.0
+left,being or located on or directed toward the side of the body to the west when facing north,7,-3.8930984165018265,-3.634143000252974,0.0
+hot,used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning,14,-4.062138456036573,-4.139598477155913,0.0714285714285714
+human,characteristic of humanity,2,-4.919682512227385,-4.919682512227385,0.0
+easy,posing no difficulty; requiring little effort,5,-4.285452366207676,-4.15957470145951,0.0
+medical,relating to the study or practice of medicine,4,-4.055550280191186,-3.90471282686104,0.0
+young,(used of living things especially persons) in an early period of life or development or growth,10,-3.5871697931420563,-3.6824987993724987,0.0
+complete,having every necessary or normal part or component or step,5,-3.843823165600161,-3.908506214029868,0.0
+financial,involving financial matters,3,-4.078389529395394,-3.94578108857104,0.0
+standard,conforming to or constituting a standard of measurement or value; or of the usual or regularized or accepted kind,9,-4.585951287289286,-4.458497856628181,0.0
+legal,established by or founded upon law or official or accepted rules,6,-3.8510471189621964,-3.8805690137474294,0.0
+hard,not easy; requiring great physical or mental effort to accomplish or comprehend or endure,9,-4.35758258938325,-4.15957470145951,0.0
+social,relating to human society and its members,4,-3.8578664389747357,-3.643581404614187,0.0
+early,at or near the beginning of a period of time or course of events or before the usual or expected time,8,-3.6805243845256412,-3.7118002272249804,0.0
+important,of great significance or value,3,-3.8221494936099916,-3.5092516734790675,0.0
+east,situated in or facing or moving toward the east,4,-4.46317986160283,-3.8875333860910066,0.0
+single,being or characteristic of a single thing or person,4,-3.9886829862804762,-3.710281255627131,0.0
+fast,acting or moving or capable of acting or moving quickly,6,-3.9680288790108293,-3.923669767291432,0.0
+close,at or within a short distance in space or time or having elements near each other,5,-3.6811519991657264,-3.706503225706688,0.0
+bad,having undesirable or negative qualities,3,-4.468992285409468,-4.285105454817156,0.0
+possible,capable of happening or existing,3,-4.418474931090158,-4.3655061547754155,0.0
+professional,engaged in a profession or engaging in as a profession or means of livelihood,6,-4.783378802943292,-4.78912033427385,0.0
+major,of greater importance or stature or rank,4,-4.378280561712069,-4.277640409035914,0.0
+similar,marked by correspondence or resemblance,3,-4.769598127230222,-4.773308573474525,0.0
+listed,on a list,1,-3.0949840704660527,-3.0949840704660527,0.0
+net,remaining after all deductions,2,-4.719464012240592,-4.719464012240592,0.0
+popular,"regarded with great favor, approval, or affection especially by the general public",8,-4.117163003140453,-4.110486078772061,0.0
+short,primarily temporal sense; indicating or being or seeming to be limited in duration,7,-4.3512225142046885,-4.385072713696815,0.0
+cheap,relatively low in price or charging low prices,6,-3.5357046413209505,-3.291930674442857,0.0
+sure,having or feeling no doubt or uncertainty; confident and assured,5,-4.5865066340195835,-4.859994810296746,0.0
+able,(usually followed by `to') having the necessary means or skill or know-how or authority to do something,8,-3.960881460995682,-3.908506214029868,0.125
+common,belonging to or participated in by a community as a whole; public,5,-3.920474671243413,-3.83901669428208,0.0
+specific,(sometimes followed by `to') applying to or characterized by or distinguishing something particular or special or unique,9,-4.150320594020407,-3.930727144871218,0.0
+limited,small in range or scope,3,-3.818164714595794,-3.6611920149582886,0.0
+powered,(often used in combination) having or using or propelled by means of power or power of a specified kind,10,-3.899954055133018,-3.833032832432263,0.0
+natural,in accordance with nature; relating to or concerning nature,5,-4.26001066754392,-4.36816033237865,0.0
+due,owed and payable immediately or on demand,4,-4.575788383159864,-4.460704039886517,0.0
+technical,of or relating to technique or proficiency in a practical skill,5,-4.685214041583044,-4.5698490218991,0.0
+pro,in favor of (an action or proposal etc.),4,-4.150512475196495,-4.173530196723464,0.0
+direct,direct in spatial dimensions; proceeding without deviation or interruption; straight and short,8,-4.543908488691428,-4.6869258431332135,0.0
+present,temporal sense; intermediate between past and future; now existing or happening or in consideration,7,-4.367115536862376,-4.3655061547754155,0.0
+written,set down in writing in any of various ways,4,-3.5085683608848774,-3.4756582052065825,0.0
+near,not far distant in time or space or degree or circumstances,6,-4.110471161284717,-3.8719498589163694,0.0
+wide,having great (or a certain) extent from one side to the other,4,-3.7707932353865687,-3.7618026503100728,0.0
+true,consistent with fact or reality; not false; ; - B. Russell,5,-4.260971213442917,-4.2694173066737555,0.0
+economic,"of or relating to an economy, the system of production and management of material wealth",7,-3.9415696512318212,-3.8122799270565944,0.0
+simple,having few parts; not complex or complicated or involved,4,-4.338626033526699,-4.0471174943461365,0.0
+clear,readily apparent to the mind,3,-4.537986711354464,-4.784923760387822,0.0
+commercial,connected with or engaged in or sponsored by or used in commerce or commercial enterprises,7,-4.001477842248915,-4.1149701599027795,0.0
+received,conforming to the established language usage of educated native speakers;  (American);  (British),9,-4.271650196158519,-4.2818667683126925,0.0
+registered,(of animals) officially recorded with or certified by a recognized breed association; especially in a stud book,10,-4.316933432356367,-4.305140635901095,0.0
+known,apprehended with certainty,2,-5.728174375458133,-5.728174375458133,0.0
+whole,including all components without exception; being one unit or constituting the full amount or extent or duration; complete,10,-4.034439471485376,-3.987800210524676,0.0
+annual,completing its life cycle within a year,4,-3.5729207808266574,-3.4390431070045926,0.0
+published,prepared and printed for distribution and sale,4,-3.810375572208106,-3.733937587738346,0.0
+basic,pertaining to or constituting a base or basis,4,-4.609213668239197,-4.39514694128893,0.0
+corporate,of or belonging to a corporation,2,-4.351952650138083,-4.351952650138083,0.0
+designed,done or made or performed with purpose and intent; - Havelock Ellis,7,-4.5315217731774835,-4.286896507247228,0.0
+political,involving or characteristic of politics or parties or politicians; - Daniel Goleman,7,-4.8147610778055565,-4.691148062562996,0.0
+environmental,of or relating to the external conditions or surroundings,4,-4.502686505345876,-4.446607159354024,0.0
+french,of or pertaining to France or the people of France,4,-4.098663154191721,-3.7579066118061863,0.0

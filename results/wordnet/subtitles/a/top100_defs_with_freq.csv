@@ -1,0 +1,101 @@
+lemma,definition,len_tokens,mean_log_freq,median_log_freq,miss_rate
+good,having desirable or positive qualities especially those suitable for a thing specified,7,-4.7707091000871795,-4.7151133026556735,0.0
+little,limited or below average in number or quantity or magnitude or extent,6,-5.003657470543423,-5.100605859515598,0.0
+sorry,feeling or expressing regret or sorrow or a sense of loss over something done or undone,9,-4.011903696724526,-4.4536158518437245,0.0
+sure,having or feeling no doubt or uncertainty; confident and assured,5,-4.519245018500177,-4.666878430823446,0.0
+much,(quantifier used with mass nouns) great in quantity or degree or extent,8,-4.477148103610339,-4.681803693949855,0.25
+first,preceding all others in time or space or degree,5,-3.840514912941562,-3.9749405127275024,0.19999999999999996
+long,primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified,13,-4.734813096036498,-5.078617718049556,0.0
+new,not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered,8,-4.285014377132281,-4.661795084131567,0.0
+old,(used especially of persons) having lived for a relatively long time or attained a specific age,10,-4.044014111371048,-3.820401220169782,0.0
+bad,having undesirable or negative qualities,3,-5.1556708223933905,-4.7151133026556735,0.0
+big,above average in size or number or quantity or magnitude or extent,6,-4.907521776197224,-5.039527877549429,0.0
+nice,pleasant or pleasing or agreeable in nature or appearance; - George Meredith,7,-4.531407995066315,-4.803439968224653,0.0
+late,being or occurring at an advanced period of time or after a usual or expected time,7,-4.059831856121344,-4.426792832615426,0.0
+left,being or located on or directed toward the side of the body to the west when facing north,7,-4.2880923964549655,-4.202643386915678,0.0
+wanted,desired or wished for or sought,3,-4.490480264169768,-4.586139597769704,0.0
+wrong,not correct; not in conformity with fact or truth,4,-3.926774026530092,-3.7849662406552467,0.25
+dead,no longer having or seeming to have or expecting to have life,4,-3.6522702328847387,-3.872632086370583,0.25
+real,being or occurring in fact or actuality; having verified existence; not illusory; ; ; ; ; ; - Longfellow,7,-4.757011337315824,-4.967885540605167,0.4285714285714286
+best,(superlative of `good') having the most positive qualities,4,-3.9104652899366195,-4.520515613507417,0.25
+many,a quantifier that can be used with count nouns and is often preceded by `as' or `too' or `so' or `that'; amounting to a large but indefinite number,10,-3.9971252204264016,-4.104671725427564,0.4
+hard,not easy; requiring great physical or mental effort to accomplish or comprehend or endure,9,-4.594662038142188,-4.67373242999681,0.0
+ready,completely prepared or in condition for immediate action or use or progress,7,-4.2822002149459415,-4.37668603632402,0.0
+whole,including all components without exception; being one unit or constituting the full amount or extent or duration; complete,10,-4.9481199203579544,-5.033117175478884,0.0
+happy,enjoying or showing or marked by joy or pleasure,5,-4.1941438429298845,-4.1155392727764,0.0
+used,employed in accomplishing something; - H.H.Arnold & I.C.Eaker,3,-4.485197458817624,-5.179762323942928,0.0
+lost,no longer in your possession or control; unable to be found or recovered,6,-4.095275577759732,-4.330175426777815,0.0
+close,at or within a short distance in space or time or having elements near each other,5,-4.0361870457800935,-4.05133044258355,0.0
+easy,posing no difficulty; requiring little effort,5,-4.5669971481072835,-4.876069514316813,0.0
+young,(used of living things especially persons) in an early period of life or development or growth,10,-3.942270692608264,-3.7914609125834158,0.0
+true,consistent with fact or reality; not false; ; - B. Russell,5,-4.567850065736204,-4.598533415653909,0.0
+high,greater than normal in degree or intensity or amount,5,-4.394856153128817,-4.509231006742646,0.0
+beautiful,delighting the senses or exciting intellectual or emotional admiration,6,-5.347239032132192,-5.305385129673782,0.16666666666666663
+afraid,filled with fear or apprehension,3,-4.8256965174602575,-4.375413533966192,0.0
+different,unlike in nature or quality or form or degree,4,-4.495912098318389,-4.5041485337145994,0.0
+important,of great significance or value,3,-4.369505216105798,-4.562245335882977,0.0
+cool,neither warm nor very cold; giving relief from heat,5,-4.04690559109183,-4.227293937319157,0.0
+free,able to act at will; not hampered; not under compulsion or restraint,5,-5.057974707815685,-5.609653988197739,0.0
+safe,free from danger or the risk of harm,4,-4.146549871950595,-4.221784657918617,0.0
+fast,acting or moving or capable of acting or moving quickly,6,-3.883357636445725,-3.9781581607955983,0.0
+married,joined in matrimony,2,-4.880593433334402,-4.880593433334402,0.0
+full,containing as much or as many as is possible or normal,5,-3.8813263180273507,-3.8496467388723445,0.0
+clear,readily apparent to the mind,3,-4.9051722156320805,-5.3640878064797874,0.0
+able,(usually followed by `to') having the necessary means or skill or know-how or authority to do something,8,-3.958727312013791,-4.2124118290881025,0.125
+alive,possessing life,2,-4.107215129354926,-4.107215129354926,0.0
+hot,used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning,14,-4.253078037312312,-4.3819218270483296,0.0714285714285714
+stupid,lacking or marked by lack of intellectual acuity,5,-4.68598925527337,-4.683303546432523,0.19999999999999996
+black,being of the achromatic color of maximum darkness; having little or no hue owing to absorption of almost all incident light,11,-4.349918969977276,-4.406468566014296,0.18181818181818177
+white,being of the achromatic color of maximum lightness; having little or no hue owing to reflection of almost all incident light,11,-4.422625792834444,-4.406468566014296,0.18181818181818177
+small,limited or below average in number or quantity or magnitude or extent,6,-5.003657470543423,-5.100605859515598,0.0
+early,at or near the beginning of a period of time or course of events or before the usual or expected time,8,-3.801523857129503,-4.116973060876418,0.0
+sick,affected by an impairment of normal physical or mental function,6,-4.658260289235895,-4.67373242999681,0.16666666666666663
+human,characteristic of humanity,2,-5.3460384706211155,-5.3460384706211155,0.0
+perfect,being complete of its kind and without defect or blemish,4,-4.365807375825952,-4.250894618798564,0.25
+serious,concerned with work or important matters rather than play or trivialities,7,-3.672959569391024,-3.5910217322272766,0.1428571428571429
+strong,having strength or power greater than average or expected,5,-3.9874177354004834,-4.0168625725989475,0.0
+cold,having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration,10,-4.23513561911184,-4.019844283974562,0.19999999999999996
+possible,capable of happening or existing,3,-4.185885246872803,-4.412747920280586,0.0
+sweet,having or denoting the characteristic taste of sugar,4,-4.863098030354623,-4.439132557818352,0.25
+glad,showing or causing joy and pleasure; especially made happy,7,-3.783497090701361,-4.073987156622381,0.0
+known,apprehended with certainty,2,-5.565651555842498,-5.565651555842498,0.0
+clean,free from dirt or impurities; or having clean habits,5,-4.26278841798595,-4.264396728314119,0.19999999999999996
+strange,being definitely out of the ordinary and unexpected; slightly odd or even a bit weird,8,-4.303428468659646,-4.459391260263059,0.0
+moving,in motion,1,-4.735552087677484,-4.735552087677484,0.0
+careful,exercising caution or showing care or attention,5,-4.139798931443929,-4.037006849746095,0.0
+quiet,characterized by an absence or near absence of agitation or activity,5,-5.4710954698213214,-5.05175529839831,0.0
+general,applying to all or most members of a category or group,4,-4.691938279757051,-4.6500727841414875,0.0
+dark,devoid of or deficient in light or brightness; shadowed or black,6,-4.8295932732415086,-4.597602620495919,0.16666666666666663
+loved,held dear,2,-3.5344296597521185,-3.5344296597521185,0.0
+turned,moved around an axis or center,3,-4.452621808033591,-4.34833768208584,0.0
+changed,made or become different in nature or form,5,-3.7765881489226425,-3.8084785904138228,0.0
+deep,relatively deep or strong; affecting one deeply,5,-4.536433357138397,-4.541557952336295,0.0
+low,less than normal in degree or intensity or amount,5,-4.556005549809905,-4.509231006742646,0.0
+near,not far distant in time or space or degree or circumstances,6,-4.225582331698343,-4.382872671253846,0.0
+smart,showing mental alertness and calculation and resourcefulness,5,-4.637046787104462,-4.67373242999681,0.4
+kept,(especially of promises or contracts) not violated or disregarded,5,-4.71810340847505,-4.475769446476846,0.0
+busy,actively or fully engaged or occupied,4,-5.228212975126526,-5.254796372527986,0.0
+tired,depleted of strength or energy,3,-4.8383494904612645,-4.3242480320575405,0.0
+short,primarily temporal sense; indicating or being or seeming to be limited in duration,7,-4.937306980959666,-5.078617718049556,0.0
+born,brought into existence,2,-4.261890722969513,-4.261890722969513,0.0
+simple,having few parts; not complex or complicated or involved,4,-4.577875035642129,-4.4823733852747125,0.0
+american,of or relating to the United States of America or its people or language or culture,7,-4.242274824059515,-4.296629031707489,0.0
+dangerous,involving or causing danger or risk; liable to hurt or harm,7,-4.4506519970151235,-4.25818981560287,0.0
+fair,free from favoritism or self-interest or bias or deception; conforming with established standards or rules,9,-5.010334181865455,-5.07760484611909,0.2222222222222222
+round,having a circular shape,2,-5.13188525691776,-5.13188525691776,0.0
+paid,marked by the reception of pay,3,-4.502199623672688,-4.9288127164193964,0.0
+single,being or characteristic of a single thing or person,4,-4.13563806342272,-3.826668979077234,0.0
+personal,concerning or affecting a particular person or his or her private life and personality,7,-4.235230927341768,-4.534418132684192,0.0
+major,of greater importance or stature or rank,4,-4.738953343554197,-5.027237121028729,0.0
+normal,conforming with or constituting a norm or standard or level or type or social norm; not abnormal,9,-5.096677311068561,-5.343918001955352,0.0
+tough,not given to gentleness or sentimentality,3,-4.585218102489029,-4.585218102489029,0.33333333333333337
+present,temporal sense; intermediate between past and future; now existing or happening or in consideration,7,-4.42020778022213,-4.1653761153852376,0.1428571428571429
+slow,not moving quickly; taking a comparatively long time,6,-3.192985507232709,-3.0821359002631707,0.16666666666666663
+interesting,arousing or holding the attention,3,-4.458705254925442,-4.037006849746095,0.0
+saved,rescued; especially from the power and consequences of sin,5,-4.493073997638952,-4.5255597475355005,0.0
+finished,(of materials or goods) brought to the desired final state,6,-4.051667776052055,-4.081004534180087,0.0
+rich,possessing material wealth,3,-4.914970886116898,-4.951529445094325,0.0
+proud,feeling self-respect or pleasure in something by which you measure your self-worth; or being a reason for pride,8,-3.8965897963987657,-3.909888144535829,0.25
+english,of or relating to or characteristic of England or its culture or people,5,-4.6683196295497655,-4.766508402187172,0.0
+private,confined to particular persons or groups or providing privacy,6,-4.622273691177425,-4.59786726729145,0.0
+interested,having or showing interest; especially curiosity or fascination or concern,6,-4.539370611824303,-4.405802527502395,0.0

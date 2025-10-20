@@ -1,0 +1,101 @@
+lemma,definition,len_tokens,mean_log_freq,median_log_freq,miss_rate
+new,not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered,8,-4.001271213283359,-4.168302441254496,0.0
+home,at or to or in the direction of one's home or family,3,-3.270064842075183,-3.290189668650577,0.0
+page,one side of one leaf (of a book or magazine or newspaper or letter etc.) or the written or pictorial matter it contains,10,-3.9152105002823596,-3.7604696662290253,0.0
+time,an instance or single occasion for some event,4,-3.8688174868170733,-3.8905403699971592,0.0
+service,work done by one person or group that benefits another,5,-3.2255687952850183,-3.118523557514815,0.0
+search,the activity of looking thoroughly in order to find something or someone,7,-3.6296290499954154,-3.4424807315151646,0.0
+site,the piece of land on which something is located (or is to be located),5,-4.108787702374531,-3.9225178565195518,0.0
+one,used of a single unit or thing; not two or more,4,-3.3595322547273794,-3.4666291414992303,0.0
+free,able to act at will; not hampered; not under compulsion or restraint,5,-4.744865883984483,-5.151604940087101,0.0
+information,a message received and understood,3,-3.86690999280176,-3.823366170140196,0.0
+may,the month following April and preceding June,5,-4.0834325933630975,-3.5931906674737912,0.0
+product,commodities offered for sale,3,-3.745873749672453,-3.3408211901898555,0.0
+year,a period of time containing 365 (or 366) days,4,-3.397831273260617,-3.2844758440720083,0.0
+news,information about recent and important events,4,-3.326751440347071,-3.436522320632939,0.0
+day,time for Earth to make a complete rotation on its axis,6,-3.81956424675813,-3.7884764632071253,0.0
+find,"come upon, as if by accident; meet with",3,-3.8273120093343462,-3.724004311309988,0.0
+price,the property of having material worth (often indicated by the amount of money something would bring if sold),10,-3.761774759157477,-3.6669419783932584,0.0
+use,put into service; make work or employ for a particular purpose or for its inherent or natural purpose,10,-3.750470724195144,-3.7067434244175748,0.0
+state,the territory occupied by one of the constituent administrative districts of a nation,6,-4.4181505472036084,-4.222447208616497,0.0
+see,perceive by sight or have the power to perceive by sight,5,-4.627580036345146,-4.51200868434309,0.0
+business,a commercial or industrial enterprise and the people who constitute it,5,-3.893352319762225,-3.8426543183943105,0.0
+contact,close interaction,2,-3.9930957425576583,-3.9930957425576583,0.0
+view,a way of regarding situations or topics etc.,5,-3.783117212171051,-3.997505933897311,0.0
+book,a written work or composition that has been published (printed on pages bound together),7,-3.8031148173359552,-3.7958160315149163,0.0
+get,come into the possession of something concrete or abstract,5,-4.053291704990793,-3.9694390410173117,0.0
+review,look at again; examine again,2,-4.043817044272588,-4.043817044272588,0.0
+help,give help or assistance; be of service,4,-3.3069144678165268,-3.231004267711946,0.0
+item,a distinct part that can be specified separately in a group of things that could be enumerated on a list,8,-4.111287655401868,-3.93510704332588,0.0
+right,an abstract idea of that which is due to a person or governmental body by law or tradition or nature; ; - Eleanor Roosevelt,11,-4.124744810633714,-3.855609161240439,0.0
+web,an intricate network suggesting something that was formed by weaving or interweaving,7,-4.598873961569682,-4.204491572375763,0.0
+system,instrumentality that combines interrelated interacting artifacts designed to work as a coherent entity,9,-4.8856510384333545,-5.0714694752097484,0.0
+also,in addition,1,-3.83997848299775,-3.83997848299775,0.0
+post,the position where someone (as a guard or sentry) stands or is assigned to stand,7,-4.3575114514274444,-3.954002208936924,0.0
+pm,an examination and dissection of a dead body to determine cause of death or the changes produced by disease,10,-4.070460379713077,-3.963292496377881,0.0
+online,on a regular route of a railroad or bus or airline system,6,-4.024828349219929,-4.121574398247451,0.0
+link,make a logical or causal connection,4,-4.279223759597047,-4.287530263210466,0.0
+first,preceding all others in time or space or degree,5,-3.9616478754759092,-3.7225929007480953,0.0
+good,having desirable or positive qualities especially those suitable for a thing specified,7,-4.113654677992654,-4.000879214082235,0.0
+hotel,a building where travelers can pay for lodging and meals and other services,6,-3.894275395631469,-4.101998629288975,0.0
+click,move or strike with a noise,3,-4.184129430331683,-4.342042564700936,0.0
+name,a language unit by which a person or thing is known,5,-3.447811733434846,-3.492580651377053,0.0
+game,a contest with rules to determine a winner,4,-4.047141773725864,-4.170739651938712,0.0
+list,a database containing an ordered array of items (names or topics),7,-3.5453269042846927,-3.3818408425367448,0.0
+like,prefer or wish to do something,3,-4.019465410991401,-3.843766073459148,0.0
+date,the specified day of the month,3,-3.594700465840603,-3.3998447959451217,0.0
+work,activity directed toward making or doing something,4,-3.4821216154071224,-3.545957600891695,0.0
+member,one of the persons who compose a social group (especially individuals who have joined and participate in a group organization),10,-3.7930126150180095,-3.623219589872617,0.0
+top,the upper part of anything,3,-3.743814964536117,-3.888739790449659,0.0
+make,engage in,1,-4.772959588826069,-4.772959588826069,0.0
+back,in or to or toward a former location,2,-3.7173875916940693,-3.7173875916940693,0.0
+people,(plural) any group of human beings (men or women or children) collectively,8,-3.8458807287387033,-3.425162545636143,0.0
+message,a communication (usually brief) that is written or spoken or signaled,6,-4.026972566755517,-3.9485063789146055,0.0
+policy,a plan of action adopted by an individual or social group,6,-3.6553920379064113,-3.5398464830322784,0.0
+go,"change location; move, travel, or proceed, also metaphorically",7,-3.977695318732184,-3.338565175480383,0.0
+user,a person who makes use of a thing; someone who uses or employs something,8,-3.516629669172526,-3.4360685659925343,0.0
+school,an educational institution,2,-4.008485297584893,-4.008485297584893,0.0
+video,the visible part of a television transmission,4,-4.023442685125997,-4.178789911398331,0.0
+email,(computer science) a system of world-wide electronic communication in which a computer user can compose a message at one terminal that can be regenerated at the recipient's terminal when the recipient logs in,16,-3.9518659142089874,-3.6932861982407714,0.0625
+city,a large and densely populated urban area; may include several independent administrative districts,10,-4.124811528541143,-3.8468726450004755,0.0
+program,a series of steps to be carried out or goals to be accomplished,5,-4.051101944910067,-3.8672399363532333,0.0
+number,the property possessed by a sum or total or indefinite quantity of units or individuals,8,-4.146332466481306,-3.8673404483221656,0.0
+group,any number of entities (members) considered as a unit,5,-3.623362690847661,-3.5927221423238453,0.0
+company,an institution created to conduct business,4,-3.7056374445245197,-3.8152006908845606,0.0
+world,everything that exists anywhere,3,-4.23261848930698,-4.390207485216289,0.0
+two,being one more than one,0,,,1.0
+health,a healthy state of wellbeing free from disease,5,-3.8831290331539763,-3.8420767525925954,0.0
+comment,a statement that expresses a personal opinion or belief or adds information,7,-3.576293818825719,-3.6382167345516505,0.0
+store,a mercantile establishment for the retail sale of goods or services,6,-3.880255832082956,-3.6111910172367945,0.0
+next,nearest in space or position; immediately adjoining without intervening space,7,-4.498621881966263,-3.857498272347795,0.0
+used,employed in accomplishing something; - H.H.Arnold & I.C.Eaker,3,-4.486377081579648,-4.824964424990107,0.0
+last,immediately past,2,-3.9681635677008917,-3.9681635677008917,0.0
+order,give instructions to or direct somebody to do something with authority,6,-3.8974781663660107,-3.8113528015600466,0.0
+buy,obtain by purchase; acquire by means of a financial transaction,6,-4.015686326536729,-3.944497735148076,0.0
+music,an artistic form of auditory communication incorporating instrumental or vocal tones in a structured and continuous manner,11,-4.421353401091029,-4.429561533348111,0.0
+forum,a public meeting or assembly for open discussion,5,-3.5924327926558846,-3.565018312398224,0.0
+data,a collection of facts from which conclusions may be drawn,4,-3.982724817468074,-3.9803886266781716,0.0
+part,something determined in relation to something that includes it,5,-3.7651629447502026,-3.6494344702682255,0.0
+support,"give moral or psychological support, aid, or courage to",6,-4.139093740450903,-4.22073885797215,0.0
+add,"make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of",11,-3.912423322933002,-3.7533453943550814,0.0
+report,to give an account or representation of in words,4,-3.6841044679804664,-3.4954207997924014,0.0
+result,a phenomenon that follows and is caused by some previous phenomenon,5,-4.1339577728564905,-3.930727138602233,0.0
+photo,a representation of a person or scene in the form of a print or transparent slide; recorded by a camera on light-sensitive material,11,-3.8525189520968537,-3.5458746824964966,0.09090909090909094
+term,a word or expression used for some particular thing,5,-3.5712695928747307,-3.491673261793312,0.0
+copyright,a document granting exclusive right to publish and sell literary or musical or artistic work,10,-3.962878271297388,-3.998448856550037,0.0
+area,a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography),13,-4.172398708409732,-3.9010595929468557,0.0
+please,give pleasure to or be pleasing to,3,-3.723640337921843,-3.499168337791491,0.0
+available,obtainable or accessible and ready for use or service,5,-4.030034592709596,-3.9701428157245244,0.0
+well,(often used as a combining form) in a good or proper or satisfactory manner or to a high standard (`good' is a nonstandard dialectal variant for `well'),15,-4.148066056003062,-3.803085904952183,0.0
+car,a motor vehicle with four wheels; usually propelled by an internal combustion engine,8,-4.33994096393455,-4.0424094879987225,0.0
+map,a diagrammatic representation of the earth's surface (or part of it),5,-4.428299501165915,-4.00133029886096,0.0
+best,(superlative of `good') having the most positive qualities,4,-4.141692238240494,-3.739801962270893,0.0
+software,(computer science) written programs or procedures or rules and associated documentation pertaining to the operation of a computer system and that are stored in read/write memory,14,-3.661902446866825,-3.5775571935300636,0.0
+file,record in a public office or in a court of law,5,-3.3874494743543435,-3.3518701905198323,0.0
+jan,the first month of the year; begins 10 days after the winter solstice,7,-3.685759196064762,-3.3998447959451217,0.0
+set,put into a certain place or abstract location,5,-3.64335052410107,-3.6694080589815634,0.0
+way,how something is done or how it happens,3,-3.634598736326676,-3.6494344702682255,0.0
+job,the principal activity in your life that you do to earn money,5,-3.778758427789472,-3.487572659560119,0.0
+great,relatively large in size or number or extent; larger than others of its kind,8,-3.7402754503107376,-3.6361133802369086,0.0
+line,a formation of people or things one beside another,4,-3.9926509296170023,-3.932703434924609,0.0
+info,a message received and understood,3,-3.86690999280176,-3.823366170140196,0.0

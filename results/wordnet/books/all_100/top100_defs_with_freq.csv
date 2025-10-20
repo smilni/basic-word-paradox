@@ -1,0 +1,101 @@
+lemma,definition,len_tokens,mean_log_freq,median_log_freq,miss_rate
+one,used of a single unit or thing; not two or more,4,-3.420480633312708,-3.4556933155801164,0.0
+may,the month following April and preceding June,5,-4.0449077286804815,-3.743637825779348,0.0
+time,an instance or single occasion for some event,4,-3.8225686013285225,-3.77836517638983,0.0
+state,the territory occupied by one of the constituent administrative districts of a nation,6,-4.116025096326784,-4.071440123264493,0.0
+year,a period of time containing 365 (or 366) days,4,-3.3218079327484444,-3.196168662353877,0.0
+new,not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered,8,-3.917911649837092,-4.0506524580411805,0.0
+two,being one more than one,0,,,1.0
+also,in addition,1,-3.6881401881093105,-3.6881401881093105,0.0
+said,being the one previously mentioned or spoken of,3,-4.268530445473105,-4.234396626045226,0.0
+first,preceding all others in time or space or degree,5,-3.814552265883337,-3.6882253649082055,0.0
+see,perceive by sight or have the power to perceive by sight,5,-4.266465233808551,-4.208967885330198,0.0
+made,produced by a manufacturing process,3,-3.782503337340121,-3.8165230258512697,0.0
+work,activity directed toward making or doing something,4,-3.485560182833691,-3.539076355404074,0.0
+good,having desirable or positive qualities especially those suitable for a thing specified,7,-4.0064378964071565,-4.000097201824926,0.0
+case,an occurrence of something,2,-4.023951924256225,-4.023951924256225,0.0
+day,time for Earth to make a complete rotation on its axis,6,-3.745232432552094,-3.8085027548647177,0.0
+part,something determined in relation to something that includes it,5,-3.6896638067522916,-3.6067067166288718,0.0
+find,"come upon, as if by accident; meet with",3,-3.7416459222735057,-3.7925461443029347,0.0
+well,(often used as a combining form) in a good or proper or satisfactory manner or to a high standard (`good' is a nonstandard dialectal variant for `well'),15,-3.9735142830371557,-3.5309516261376026,0.0
+great,relatively large in size or number or extent; larger than others of its kind,8,-3.5536281359924033,-3.5299952409407584,0.0
+system,instrumentality that combines interrelated interacting artifacts designed to work as a coherent entity,9,-4.812976072367895,-5.0643200612463115,0.0
+many,a quantifier that can be used with count nouns and is often preceded by `as' or `too' or `so' or `that'; amounting to a large but indefinite number,10,-4.122593368415624,-3.4974062365256575,0.09999999999999998
+service,work done by one person or group that benefits another,5,-3.19850811065549,-3.2579449865071513,0.0
+must,a necessary or essential thing,3,-3.607917096438522,-3.491636619828242,0.0
+like,prefer or wish to do something,3,-4.052459864543199,-3.9219299863421466,0.0
+make,engage in,1,-4.555035603304165,-4.555035603304165,0.0
+use,put into service; make work or employ for a particular purpose or for its inherent or natural purpose,10,-3.589161174087964,-3.4530745827938665,0.0
+right,an abstract idea of that which is due to a person or governmental body by law or tradition or nature; ; - Eleanor Roosevelt,11,-3.9620728843115214,-3.6301056673093726,0.0
+number,the property possessed by a sum or total or indefinite quantity of units or individuals,8,-3.9053523671119894,-3.7509775058644395,0.0
+way,how something is done or how it happens,3,-3.656206271207173,-3.6067067166288718,0.0
+people,(plural) any group of human beings (men or women or children) collectively,8,-3.7381930077522894,-3.3184618068339757,0.0
+general,applying to all or most members of a category or group,4,-3.633515216749523,-3.6107735650330017,0.0
+law,the collection of rules imposed by authority,4,-3.8971186539785263,-3.7044386307988497,0.0
+act,a legal document codifying the result of deliberations of a committee or society or legislative body,9,-4.085513235870173,-3.83125649567095,0.0
+life,a characteristic state or mode of living,4,-3.618430595557371,-3.822025792039505,0.0
+used,employed in accomplishing something; - H.H.Arnold & I.C.Eaker,3,-4.259706608155709,-4.452790776951161,0.0
+even,used as an intensive especially to indicate something unexpected,6,-4.0154101592696465,-3.910310756544848,0.0
+far,to a considerable degree; very much,3,-3.605403182225493,-3.703446367745964,0.0
+much,(quantifier used with mass nouns) great in quantity or degree or extent,8,-3.92748321376716,-3.8421083840079913,0.125
+section,a self-contained part of a larger composition (written or musical),6,-3.7910901810677218,-3.998800291126484,0.16666666666666663
+order,give instructions to or direct somebody to do something with authority,6,-3.816911636770742,-3.6883729361815347,0.0
+company,an institution created to conduct business,4,-3.8057495993877066,-3.8867414065420176,0.0
+court,an assembly (including one or more judges) to conduct judicial business,6,-3.8642908256664956,-3.8886502799821336,0.0
+water,binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid; freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade; widely used as a solvent,20,-4.5939859231271765,-4.266746921939712,0.0
+three,being one more than two,0,,,1.0
+government,the organization that is the governing authority of a political unit,5,-3.833937754311787,-3.587633881492857,0.0
+school,an educational institution,2,-3.8776900361362925,-3.8776900361362925,0.0
+public,not private; open to or concerning the people as a whole,5,-3.562998132557856,-3.590546650957252,0.0
+man,an adult person who is male (as opposed to a woman),5,-3.9069138392544156,-3.986442345869833,0.0
+child,a young person of either sex,3,-3.65718579552132,-3.5802122540295946,0.0
+place,put into a certain place or abstract location,5,-3.6780423461959493,-3.5014905732576636,0.0
+however,despite anything to the contrary (usually following a concession),5,-4.099342972988939,-3.9580176178195297,0.0
+power,possession of controlling influence,3,-3.73838532974024,-3.7657583833723502,0.0
+country,a politically organized body of people under a single government,6,-3.8720277832201613,-3.5569599974856656,0.0
+area,a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography),13,-4.011140461325144,-3.8457004831523123,0.0
+study,a detailed critical inspection,3,-4.146216441397835,-4.18788548660853,0.0
+point,a geometric element that has position but no extension,4,-4.10670738876456,-3.919764343404501,0.0
+form,the phonological or orthographic sound or appearance of a word that can be used to describe or identify something,9,-4.258574010675074,-4.071356312589743,0.0
+long,primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified,13,-3.9270024464389075,-4.082505114539731,0.0
+take,carry out,1,-3.937919961775639,-3.937919961775639,0.0
+house,a dwelling that serves as living quarters for one or more families,5,-4.166507600619151,-4.014898335999277,0.0
+say,express in words,2,-3.7145932586945483,-3.7145932586945483,0.0
+result,a phenomenon that follows and is caused by some previous phenomenon,5,-3.9747599681581427,-3.9580176178195297,0.0
+member,one of the persons who compose a social group (especially individuals who have joined and participate in a group organization),10,-3.812782854049639,-3.5258909054471057,0.0
+high,greater than normal in degree or intensity or amount,5,-3.6707837381258996,-3.703446367745964,0.0
+report,to give an account or representation of in words,4,-3.5696306052781934,-3.408158340375352,0.0
+know,be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about,9,-3.9659215815208313,-3.714561051191098,0.0
+mean,mean or intend to express or convey,4,-4.234038053139539,-4.435494762807714,0.0
+doe,the federal department responsible for maintaining a national energy policy of the United States; created in 1977,10,-3.554820104565785,-3.506345537388139,0.0
+group,any number of entities (members) considered as a unit,5,-3.6418584121863526,-3.587633881492857,0.0
+world,everything that exists anywhere,3,-4.299055577959038,-4.281393539099792,0.0
+united,characterized by unity; being or joined into a single entity,5,-4.391555602194252,-4.397890173198276,0.0
+value,a numerical quantity measured or assigned or computed,5,-4.3639990596081955,-4.628824832814146,0.0
+person,a human being,1,-3.5001379837019706,-3.5001379837019706,0.0
+present,temporal sense; intermediate between past and future; now existing or happening or in consideration,7,-4.115881049458474,-4.142117576745061,0.0
+city,a large and densely populated urban area; may include several independent administrative districts,10,-4.002008152600903,-3.8377140688300413,0.0
+line,a formation of people or things one beside another,4,-3.727561763439528,-3.6470241398408416,0.0
+effect,a phenomenon that follows and is caused by some previous phenomenon,5,-3.9747599681581427,-3.9580176178195297,0.0
+change,cause to change; make different; cause a transformation,6,-3.529389914007963,-3.4373031194681007,0.0
+within,on the inside,0,,,1.0
+hand,the (prehensile) extremity of the superior limb,4,-5.074361411626921,-4.7320361077438005,0.0
+question,an instance of questioning,2,-3.5584728516465107,-3.5584728516465107,0.0
+given,acknowledged as a supposition,2,-4.998761076025149,-4.998761076025149,0.0
+fact,a piece of information about circumstances that exist or events that have occurred,6,-3.826430853233892,-3.880835825464075,0.0
+another,any of various alternatives; some other,2,-3.7970343821980066,-3.7970343821980066,0.0
+come,"move toward, travel toward something or somebody or approach something or somebody",7,-4.056849462937143,-3.8613404979057093,0.0
+american,of or relating to the United States of America or its people or language or culture,7,-3.5608636663638342,-3.6208483972724417,0.0
+little,limited or below average in number or quantity or magnitude or extent,6,-3.803059319559376,-3.8112086343363343,0.0
+rate,a magnitude or frequency relative to a time unit,5,-3.7432871905675755,-3.897165885506315,0.0
+back,in or to or toward a former location,2,-3.9094001503354243,-3.9094001503354243,0.0
+national,of or relating to or belonging to a nation or country,4,-4.002695727376403,-4.088396233772102,0.0
+every,(used of count nouns) each and all of the members of a group considered singly and without exception,8,-3.8773715411473857,-3.8619702176714945,0.125
+information,a message received and understood,3,-4.067794771666581,-4.088594103683025,0.0
+program,a series of steps to be carried out or goals to be accomplished,5,-4.02363314368703,-3.937919961775639,0.0
+give,"cause to have, in the abstract sense or physical sense",5,-3.809420387732392,-3.726804374727235,0.0
+men,the force of workers available,3,-3.5637196641006468,-3.5361257148518734,0.0
+interest,a sense of concern with and curiosity about someone or something,5,-4.0470912956270055,-3.921898192638416,0.0
+development,act of improving by expanding or enlarging or refining,5,-4.462176288837389,-4.700376885348155,0.0
+problem,a state of difficulty that needs to be resolved,4,-3.6955294775135483,-3.684974663762086,0.0
+woman,an adult female person (as opposed to a man),5,-3.881360796649365,-3.9761710388143494,0.0

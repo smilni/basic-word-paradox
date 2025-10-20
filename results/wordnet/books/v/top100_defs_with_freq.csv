@@ -1,0 +1,101 @@
+lemma,definition,len_tokens,mean_log_freq,median_log_freq,miss_rate
+make,engage in,1,-3.919023140837218,-3.919023140837218,0.0
+say,express in words,2,-3.534321573189689,-3.534321573189689,0.0
+use,put into service; make work or employ for a particular purpose or for its inherent or natural purpose,10,-3.463357848266823,-3.4273691575214453,0.0
+see,perceive by sight or have the power to perceive by sight,5,-4.046506431796761,-4.174389635670241,0.0
+take,carry out,1,-3.467213369454468,-3.467213369454468,0.0
+give,"cause to have, in the abstract sense or physical sense",5,-3.746021902403232,-3.662812010758606,0.0
+go,"change location; move, travel, or proceed, also metaphorically",7,-3.9112196842953546,-3.839547288175531,0.0
+know,be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about,9,-3.931724945331258,-3.7192871767954414,0.0
+find,"come upon, as if by accident; meet with",3,-3.5531287420240925,-3.3319059961533966,0.0
+come,"move toward, travel toward something or somebody or approach something or somebody",7,-3.962604524378295,-3.6308334177731214,0.0
+follow,"to travel behind, go after, come after",3,-3.3029109908575585,-3.034486772207746,0.0
+show,give an exhibition of to an interested audience,4,-3.958063360956189,-4.3942393104998105,0.25
+like,prefer or wish to do something,3,-3.853286440450821,-3.7990702688696705,0.0
+think,judge or regard; look upon; judge,4,-3.5618086545814625,-3.632212473732281,0.0
+place,put into a certain place or abstract location,5,-3.6646400478339762,-3.4517441560863005,0.0
+order,give instructions to or direct somebody to do something with authority,6,-3.776685298806101,-3.641288441066372,0.0
+report,to give an account or representation of in words,4,-3.4740198745889024,-3.3649298907777467,0.0
+provide,give something useful or necessary to,4,-3.5050327430075265,-3.5508894002445786,0.0
+include,"have as a part, be made up out of",2,-2.839273252185344,-2.839273252185344,0.0
+get,come into the possession of something concrete or abstract,5,-3.847926304691987,-4.149057711796598,0.0
+mean,mean or intend to express or convey,4,-3.7941515109615356,-3.83116845990717,0.0
+change,cause to change; make different; cause a transformation,6,-3.4035716980347144,-3.357909860366508,0.0
+need,"require as useful, just, or proper",3,-3.7176726546844443,-3.862008972791368,0.0
+increase,become bigger or greater in amount,4,-3.420649396566257,-3.287700459218996,0.0
+leave,go away from a place,3,-3.2119807765401283,-3.1019919358427837,0.0
+call,assign a specified (usually proper) proper name to,6,-3.81207706830763,-3.862008972791368,0.0
+become,enter or assume a certain state or condition,5,-3.378357412684905,-3.4517441560863005,0.0
+unite,act in concert or unite in a common purpose or belief,6,-3.6970378817293734,-3.470867367786312,0.0
+hold,"keep in a certain state, position, or activity; e.g.,",5,-3.369263152248709,-3.4517441560863005,0.0
+look,perceive with attention; direct one's gaze towards,5,-4.020766854783764,-3.899603667935882,0.0
+end,"have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical",7,-4.475641129015805,-4.662772342160649,0.0
+require,"require as useful, just, or proper",3,-3.7176726546844443,-3.862008972791368,0.0
+set,put into a certain place or abstract location,5,-3.6646400478339762,-3.4517441560863005,0.0
+control,exercise authoritative control or power over,4,-3.8757956172791452,-3.56374405912379,0.0
+write,produce a literary work,3,-3.5333781317059922,-3.446411806730495,0.0
+pay,"give money, usually in exchange for goods or services",6,-3.383530877183882,-3.388262505107802,0.0
+base,use as a basis for; found on,3,-3.1430013668205046,-3.0055593160240854,0.0
+meet,come together,2,-3.3216663262885904,-3.3216663262885904,0.0
+live,inhabit or live in; be an inhabitant of,3,-4.603766259161134,-4.885871816662293,0.0
+begin,take the first step or steps in carrying out an action,6,-3.327597758958058,-3.4137352166849606,0.0
+want,feel or have a desire for; want strongly,4,-3.741439481686945,-3.6705989947363893,0.0
+note,make mention of,2,-3.1965123747417117,-3.1965123747417117,0.0
+seem,give a certain impression or have a certain outward aspect,5,-3.7202216317462393,-3.4517441560863005,0.0
+receive,get something; come into possession of,4,-3.4816828576576864,-3.371593473313201,0.0
+cause,"give rise to; cause to happen or occur, not always intentionally",7,-3.7075023431211727,-3.569470428216275,0.0
+tell,express in words,2,-3.534321573189689,-3.534321573189689,0.0
+consider,deem to be,1,-4.273263095642438,-4.273263095642438,0.0
+force,"to cause to do through pressure or necessity, by physical, moral or intellectual means :",7,-3.817077826617654,-3.816482137725613,0.0
+open,cause to open or to become open,4,-3.3341466586285367,-3.371862098368382,0.0
+test,"put to the test, as for its quality, or give experimental use to",6,-3.387159911535472,-3.4186860902573217,0.0
+build,make by combining materials and parts,4,-3.0986358844059594,-3.019351132988375,0.25
+bring,take something or somebody with oneself somewhere,4,-3.9579492235788045,-4.108216840677803,0.0
+support,"give moral or psychological support, aid, or courage to",6,-3.8658427489698926,-3.944598732120501,0.0
+appear,give a certain impression or have a certain outward aspect,5,-3.7202216317462393,-3.4517441560863005,0.0
+ask,inquire about,1,-4.64979676261302,-4.64979676261302,0.0
+continue,"continue a certain state, condition, or activity",5,-3.3320721910986535,-3.397067718128466,0.0
+record,make a record of; set down in permanent form,5,-3.320394312163418,-3.2747030041287393,0.0
+read,interpret something that is written or printed,4,-3.7391124714148494,-3.6747694370023347,0.0
+lead,take somebody somewhere,3,-4.075030058684638,-4.6097269630943005,0.0
+keep,"keep in a certain state, position, or activity; e.g.,",5,-3.369263152248709,-3.4517441560863005,0.0
+turn,"change orientation or direction, also in the abstract sense",6,-3.736213975330396,-3.7668544971929303,0.0
+produce,bring forth or yield,3,-3.7731012379440525,-3.9093639164928002,0.0
+return,"go or come back to place, condition, or activity where one has been before",6,-3.2488828380413115,-3.19389330299021,0.0
+put,put into a certain place or abstract location,5,-3.6646400478339762,-3.4517441560863005,0.0
+hear,perceive (sound) via the auditory sense,4,-4.232616482958481,-4.044260967599368,0.0
+pass,go across or through,1,-2.971246620173568,-2.971246620173568,0.0
+carry,"move while supporting, either in a vehicle or in one's hands or on one's body",5,-3.559389265658234,-3.444291241688019,0.0
+contain,include or contain; have as a component,3,-3.6230045116847656,-3.4676203933560306,0.0
+develop,"make something new, such as a product or a mental or artistic creation",7,-3.7182128407105055,-3.8497076493931734,0.0
+determine,"establish after a calculation, investigation, experiment, survey, or study",6,-3.8275266136577195,-3.8099125968817393,0.0
+remain,stay the same; remain in a certain state,4,-3.4017212176866134,-3.4659032895660933,0.0
+apply,put into service; make work or employ for a particular purpose or for its inherent or natural purpose,10,-3.463357848266823,-3.4273691575214453,0.0
+help,give help or assistance; be of service,4,-3.3484527365189556,-3.2792391333023514,0.0
+concern,be relevant to,1,-4.2343362274754055,-4.2343362274754055,0.0
+stand,be standing; be upright,2,-4.229978133838441,-4.229978133838441,0.0
+design,make or work out a plan for; devise,4,-3.3518033291936447,-3.072443042085623,0.0
+obtain,come into possession of,2,-3.591772242002172,-3.591772242002172,0.0
+claim,assert or affirm strongly; state to be true or existing,6,-3.8360217797273433,-3.957883452697465,0.0
+understand,know and comprehend the nature or meaning of,4,-3.827122232074428,-3.565934454995295,0.25
+measure,"determine the measurements of something or somebody, take measurements of",6,-3.8818858413949386,-3.9528113356564445,0.0
+move,"change location; move, travel, or proceed, also metaphorically",7,-3.9112196842953546,-3.839547288175531,0.0
+add,"make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of",11,-3.6438334880076595,-3.7269906763743,0.0
+let,make it possible through a specific action or lack of action for something to happen,8,-3.4845283123294353,-3.537017516995639,0.0
+run,"move fast by using one's feet, with one foot off the ground at any given time",8,-3.5256814993159926,-3.7554085673805933,0.0
+establish,set up or found,2,-3.1401311600764124,-3.1401311600764124,0.0
+describe,give a description of,2,-3.4304816516405836,-3.4304816516405836,0.0
+relate,make a logical or causal connection,4,-4.047836297383096,-4.260835948027472,0.0
+allow,make it possible through a specific action or lack of action for something to happen,8,-3.4845283123294353,-3.537017516995639,0.0
+believe,accept as true; take to be true,4,-3.4712293951383684,-3.6360283684363,0.0
+bear,have,0,,,1.0
+regard,deem to be,1,-4.273263095642438,-4.273263095642438,0.0
+supply,give something useful or necessary to,4,-3.5050327430075265,-3.5508894002445786,0.0
+try,make an effort or attempt,3,-3.461901206303447,-3.7161216266421975,0.0
+learn,gain knowledge or skills,3,-3.989870665698175,-3.8561805939308544,0.0
+love,have a great affection or liking for,3,-3.6714019509341043,-3.1924206942494835,0.0
+cover,provide with a covering or cause to be covered,4,-3.398049600284116,-3.457891493604673,0.0
+care,feel concern or interest,3,-3.4181679275264236,-3.484280306153698,0.0
+offer,"make available or accessible, provide or furnish",5,-3.6272760403087085,-3.536125716484306,0.0
+exist,"have an existence, be extant",2,-4.6521580261148525,-4.6521580261148525,0.0
+press,exert pressure or force to or upon,3,-3.922521549836571,-3.703085601070983,0.0

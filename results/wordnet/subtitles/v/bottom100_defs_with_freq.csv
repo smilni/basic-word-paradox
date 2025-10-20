@@ -1,0 +1,101 @@
+lemma,definition,len_tokens,mean_log_freq,median_log_freq,miss_rate
+tarnish,"make dirty or spotty, as by exposure to air; also used metaphorically",8,-4.325811879712175,-3.9977085404271464,0.0
+alight,"to come to rest, settle",3,-3.3920718818763604,-3.6275847875747216,0.0
+toughen,make tough or tougher,3,-4.020544425152049,-4.109513117514751,0.0
+bandy,toss or strike a ball back and forth,5,-4.028356095500155,-4.114667716825018,0.0
+attest,"provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes",9,-4.4196425151799605,-4.3733276729444555,0.0
+infuse,teach and impress by frequent repetitions or admonitions,5,-4.97227937288719,-5.024545895741856,0.19999999999999996
+dabble,dip a foot or hand briefly into a liquid,5,-4.544898657571484,-4.935220653635562,0.0
+bustle,move or cause to move energetically or busily,5,-3.3970531691032044,-3.1699513791580545,0.4
+podcast,distribute (multimedia files) over the internet for playback on a mobile device or a personal computer,9,-4.67220308384052,-4.583799007015724,0.11111111111111116
+coexist,"coexist peacefully, as of nations",3,-5.379434651437147,-5.399950668826587,0.0
+reminisce,recall the past,2,-4.241604580157826,-4.241604580157826,0.0
+antiquate,make obsolete or old-fashioned,3,-4.174904299419271,-4.174904299419271,0.33333333333333337
+daunt,cause to lose courage,3,-3.8928872922854025,-3.8512567489935043,0.0
+dissuade,turn away from by persuasion,3,-4.055641982794562,-3.2752438657996037,0.0
+skulk,"lie in wait, lie in ambush, behave in a sneaky and secretive manner",8,-4.43598621594132,-4.725871704973963,0.0
+consecrate,appoint to a clerical posts,3,-5.087019805265613,-5.006689470440396,0.0
+renegotiate,negociate anew,2,-5.803994452820376,-5.803994452820376,0.5
+impart,transmit (knowledge or skills),3,-4.858854050126108,-4.942631976523405,0.0
+propel,cause to move forward with force,4,-3.7172603430314415,-3.817467047517212,0.0
+deter,try to prevent; show opposition to,4,-4.040065026115433,-3.935189705982987,0.0
+infuriate,make furious,2,-3.8650052630115397,-3.8650052630115397,0.0
+incur,make oneself subject to; bring upon oneself; become liable to,6,-3.885639919972498,-3.8536253611328273,0.0
+befit,accord or comport with,2,-4.261853439599012,-4.261853439599012,0.5
+waver,pause or hold back in uncertainty or unwillingness,5,-4.2187915318766525,-4.240832662059715,0.19999999999999996
+apprise,inform (somebody) of something,3,-3.640410960579248,-3.5956175404631794,0.0
+spew,expel or eject (saliva or phlegm or sputum) from the mouth,6,-5.089141265258265,-5.397652332417543,0.33333333333333337
+affirm,establish or strengthen as with new evidence or facts,4,-3.9182818912217003,-3.898494982567756,0.0
+blindside,"catch unawares, especially with harmful consequences",5,-4.738633204105048,-4.802987588144996,0.19999999999999996
+clinch,secure or fasten by flattening the ends of nails or bolts,6,-4.7192013491279825,-4.662516001604573,0.0
+calibrate,make fine adjustments or divide into marked intervals for optimal measuring,8,-4.728434985321695,-5.218298757718197,0.25
+shrug,raise one's shoulders to indicate indifference or resignation,5,-4.8623820294724815,-4.727603269240016,0.0
+flounder,walk with great difficulty,3,-3.934527410916553,-3.4621557121506337,0.0
+nourish,provide with nourishment,2,-5.194889885272011,-5.194889885272011,0.0
+assimilate,take up mentally,2,-3.8774615523786973,-3.8774615523786973,0.0
+overstep,pass beyond (limits or boundaries),3,-5.1850357709615755,-5.481589309901484,0.0
+supple,make pliant and flexible,3,-4.080321396297521,-4.080321396297521,0.33333333333333337
+gawk,look with amazement; look stupidly,4,-4.373937624041032,-4.342186501680777,0.0
+outweigh,be heavier than,1,-5.487650557002083,-5.487650557002083,0.0
+lope,run easily,2,-3.833512989270943,-3.833512989270943,0.0
+scurry,to move about or proceed hurriedly,3,-3.882876184399946,-3.882876184399946,0.33333333333333337
+vaccinate,perform vaccinations or produce immunity in by inoculation,5,-4.706821184337677,-4.541876080155105,0.4
+carjack,"take someone's car from him by force, usually with the intention of stealing it",7,-3.680756133260972,-3.725868748080788,0.0
+dishonour,bring shame or dishonor upon,3,-4.390122528843956,-4.299630381783851,0.0
+whisk,move somewhere quickly,3,-3.7219176215920933,-3.894991157613586,0.0
+overdress,dress too warmly,2,-5.011467888008089,-5.011467888008089,0.0
+entreat,ask for or request earnestly,3,-3.6663464572268714,-3.6663464572268714,0.33333333333333337
+scribe,"score a line on with a pointed instrument, as in metalworking",5,-4.0976933622216585,-3.9955394174715875,0.19999999999999996
+prioritize,assign a priority to,2,-4.86567759498225,-4.86567759498225,0.0
+discern,detect with the senses,2,-4.863719396284489,-4.863719396284489,0.5
+outgrow,grow too large or too mature for,3,-4.380350553863301,-4.317326087341292,0.0
+keynote,set the keynote of,2,-4.897229872693102,-4.897229872693102,0.0
+swivel,turn on a pivot,2,-4.690822508827741,-4.690822508827741,0.0
+subtract,make a subtraction,2,-2.617890872673162,-2.617890872673162,0.5
+jilt,cast aside capriciously or unfeelingly,4,-4.529655197542963,-4.529655197542963,0.5
+unchain,remove the chains from,2,-4.370866175067684,-4.370866175067684,0.0
+glisten,"be shiny, as if wet",2,-4.778716925212691,-4.778716925212691,0.0
+crumple,fall apart,2,-3.9640416844349295,-3.9640416844349295,0.0
+blab,divulge confidential information or secrets,4,-4.7427985231631,-4.573778752298567,0.0
+alienate,"arouse hostility or indifference in where there had formerly been love, affection, or friendliness",7,-5.126180252204407,-5.608121528395733,0.1428571428571429
+overbear,overcome,1,-5.025339502655362,-5.025339502655362,0.0
+annul,declare invalid,2,-5.216957957318268,-5.216957957318268,0.0
+stonewall,obstruct or hinder any discussion,3,-5.611869818428263,-5.800708061944115,0.0
+transpire,"pass through the tissue or substance or its pores or interstices, as of gas",6,-5.160241415500374,-5.1771314961110555,0.16666666666666663
+forego,be earlier in time; go back further,4,-2.8674962211699695,-2.6661216515856303,0.0
+bequeath,leave or give by will after one's death,3,-3.0747757046182493,-2.8650414937986572,0.0
+insulate,"protect from heat, cold, or noise by surrounding with insulating material",7,-4.541008255632844,-4.346335410601747,0.0
+distil,undergo condensation; change from a gaseous to a liquid state and fall in drops,8,-4.1690488901610605,-3.724554358146059,0.25
+besiege,surround so as to force to give up,3,-3.7039775435468396,-3.7836773460409194,0.0
+pressurize,increase the pressure on a gas or liquid,4,-4.495388621310566,-4.391628700740346,0.0
+rivet,direct one's attention on something,3,-3.76863701696687,-4.037006381518381,0.0
+snub,refuse to acknowledge,2,-4.629719718471106,-4.629719718471106,0.0
+discontinue,put an end to a state or an activity,4,-3.740053936279547,-3.5649088359232746,0.0
+refute,"overthrow by argument, evidence, or proof",4,-4.716882296987947,-4.581970701362382,0.0
+punt,kick the ball,2,-3.9013586273881646,-3.9013586273881646,0.0
+localize,identify the location or place of,3,-4.034853915732374,-4.443060980825848,0.0
+belittle,cause to seem less serious; play down,5,-3.6496579104388784,-3.835249093888201,0.0
+summarize,give a summary (of),2,-4.280034410439537,-4.280034410439537,0.0
+clench,hold in a tight grasp,3,-4.225009585679129,-4.268214432088762,0.0
+unhinge,disturb in mind or make uneasy or cause to be worried or alarmed,7,-3.8819996689444642,-3.6188983222505953,0.1428571428571429
+swoon,"pass out from weakness, physical or emotional distress due to a loss of blood supply to the brain",10,-4.53094910943821,-4.507845062515134,0.0
+caucus,meet to select a candidate or promote a policy,5,-4.5329375561105625,-4.911485576044338,0.0
+persevere,"be persistent, refuse to stop",3,-4.273638071191329,-4.275551693036339,0.0
+cleave,"separate or cut with a tool, such as a sharp instrument",5,-4.412137291511248,-4.584902381324132,0.0
+surmise,infer from incomplete evidence,3,-4.763190179852016,-4.763190179852016,0.33333333333333337
+dispel,force to go away; used both with concrete and metaphoric meanings,7,-3.5365890380993408,-3.4508124974227385,0.4285714285714286
+intertwine,"spin,wind, or twist together",4,-4.125310195923229,-4.2563514858916065,0.0
+allot,give out,1,-2.777528018820328,-2.777528018820328,0.0
+smolder,burn slowly and without a flame,3,-4.302611171129146,-4.469345766704264,0.0
+deafen,be unbearably loud,2,-4.328229678256273,-4.328229678256273,0.5
+plummet,drop sharply,2,-4.402198178583478,-4.402198178583478,0.0
+comprise,be composed of,1,-5.32508085751133,-5.32508085751133,0.0
+allocate,distribute according to a plan or set apart for a special purpose,7,-4.139361882365,-4.2506357508913215,0.0
+embezzle,appropriate (as property entrusted to one's care) fraudulently to one's own use,6,-4.214840679865717,-4.430755017346782,0.16666666666666663
+strew,spread by scattering ( is archaic),3,-5.189797093222672,-5.051171610473864,0.0
+traverse,travel across or pass over,2,-4.77276553822,-4.77276553822,0.0
+characterize,describe or portray the character or the qualities or peculiarities of,5,-4.8366604665878885,-4.606558107498554,0.19999999999999996
+underline,give extra weight to (a communication),4,-4.0800969381893495,-4.333505656593587,0.0
+beckon,signal with the hands or nod,3,-4.223051028297619,-4.270297714244271,0.0
+nauseate,upset and make nauseated,3,-4.341141220346407,-4.1447179221991375,0.0
+reiterate,"to say, state, or perform again",3,-3.5688276480858008,-3.7578391374657407,0.0

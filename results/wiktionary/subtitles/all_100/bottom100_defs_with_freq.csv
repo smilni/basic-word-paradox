@@ -1,0 +1,101 @@
+lemma,definition,len_tokens,mean_log_freq,median_log_freq,miss_rate
+economical,Careful with money so as not to spend too much; prudent; thrifty.,6,-3.989768277084471,-3.9112301675763312,0.16666666666666663
+awkwardness,The state or quality of being awkward; clumsiness; unskillfulness.,5,-4.395929651884998,-4.614634132709683,0.4
+catholicism,The state or quality of being catholic or universal; catholicity.,5,-4.626388152595855,-4.734459111592554,0.19999999999999996
+checkered,"Divided into a grid of squares of alternating colours or shades, or into light and dark patches.",9,-4.675113603587195,-4.790030925403619,0.0
+looter,"One who loots, who steals during a general disturbance such as a riot or natural disaster.",7,-4.573926318195418,-4.52127164573088,0.1428571428571429
+crossover,A place where one thing crosses over another.,3,-3.3639879541502307,-3.1801781961897384,0.0
+legitimately,"In a legitimate manner, properly, fair and square.",5,-4.575105306723107,-4.610142464345242,0.0
+vocalist,A singer; a person who likes to sing.,4,-3.689410590228134,-3.831730219941282,0.0
+pseudonym,"A fictitious name (more literally, a false name), as those used by writers and movie stars.",9,-4.156765141375243,-3.8816222257382234,0.0
+speer,"to ask, to inquire",2,-4.53341670722388,-4.53341670722388,0.0
+allocated,Having been granted an allocation; having received (something) as part of a plan or scheduled disbursement; having been assigned (something) that was set aside for a particular purpose.,14,-4.092891246358416,-4.411906746644721,0.1428571428571429
+borscht,"A beetroot soup that can be served hot or cold, usually with sour cream, called borsch in its countries of origin.",12,-4.220346295254833,-4.280058871669468,0.16666666666666663
+crabby,Relating to or resembling crabs; crablike.,4,-5.346985574753013,-5.356094957504237,0.25
+splint,A narrow strip of wood split or peeled from a larger piece.,7,-4.528435056236609,-4.393324670835957,0.0
+wimpy,"Having the characteristics of a wimp; feeble, indecisive, cowardly.",5,-5.535262716347244,-5.486256214033416,0.19999999999999996
+incorrectly,In an incorrect manner.,2,-5.123083402848986,-5.123083402848986,0.0
+moll,"A female companion of a gangster, especially a former or current prostitute.",7,-4.657313534404856,-4.6051886009001555,0.0
+tho,The ; those.,0,,,1.0
+dutiful,"Accepting of one's legal or moral obligations and willing to do them well, and without complaint.",7,-4.302173126094437,-4.47126343129632,0.0
+fatten,To cause (a person or animal) to be fat or fatter.,5,-4.329361161004896,-4.019191457228289,0.0
+cleanly,"Being habitually clean, practising good hygiene.",5,-4.383445313914395,-4.694177850509462,0.19999999999999996
+sappy,"Excessively sweet, emotional, nostalgic; cheesy; mushy. (British equivalent: soppy)",9,-5.121812658430499,-5.483688133844435,0.2222222222222222
+tethered,"Tied, strapped, especially with tethers or hobbles.",5,-4.898754564536446,-4.721185693620495,0.19999999999999996
+solvent,"A fluid that dissolves a solid, liquid, or gaseous solute, resulting in a solution.",8,-4.83979716019988,-4.8121591474007825,0.25
+mutate,To undergo mutation.,2,-5.669760901924139,-5.669760901924139,0.0
+moderately,In a moderate manner.,2,-5.210783858076267,-5.210783858076267,0.0
+diligently,"In a diligent manner, with appropriate effort, carefully.",5,-4.914190002909095,-4.610142464345242,0.0
+lat,"A staff, particularly one of an Indian kind.",4,-4.20626607375683,-4.413158094577732,0.0
+akin,Of the same kin; related by blood.,3,-4.7290460769377,-5.181043878241325,0.0
+toner,Powder used in laser printers and photocopiers to form the text and images on the printed paper.,10,-4.458048693741998,-4.448754928695351,0.09999999999999998
+dupe,A person who has been deceived.,2,-4.494995610760707,-4.494995610760707,0.0
+annoyance,That which annoys.,1,-6.039848654177209,-6.039848654177209,0.0
+consolidate,To combine into a single unit; to group together or join.,6,-4.184818819063525,-4.039496984080838,0.0
+nome,A prefecture or unit of regional government in Greece.,5,-5.00186001037339,-5.2134251016359485,0.0
+vaseline,Petroleum jelly.,2,-5.5583804497553295,-5.5583804497553295,0.0
+origami,The Japanese art of paper folding.,4,-4.538117199014936,-4.258318309152473,0.0
+directional,Indicating direction.,2,-4.7523960608151645,-4.7523960608151645,0.0
+ventricle,"Any small cavity within a body; a hollow part or organ, especially",7,-4.3607226992881065,-4.171322177319984,0.0
+unsupervised,Not supervised; not being constantly observed.,3,-5.238257934512299,-5.034889643945602,0.0
+jumble,To mix or confuse.,2,-5.031240133328006,-5.031240133328006,0.0
+molding,"The act or process of shaping in or on a mold, or of making molds; the art or occupation of a molder.",9,-4.5748164127966895,-4.443915023664321,0.11111111111111116
+christen,To perform the religious rite of baptism upon; to baptize.,5,-5.339377512001772,-5.345368701564239,0.0
+amazement,"The condition of being amazed; a state of overwhelming wonder, as from surprise or sudden fear, horror, or admiration; astonishment.",11,-4.602209628238511,-4.368581143471639,0.09090909090909094
+bestest,best; the best of the best,3,-3.3756471126761647,-3.375647112676165,0.0
+retaining,"Of or pertaining to something that retains something else, as with a retaining wall.",7,-3.7081461781686933,-3.3304957079067328,0.2857142857142857
+converging,approaching each other at a point; convergent.,3,-4.0606927945725,-4.0606927945725,0.33333333333333337
+nicker,Pound sterling.,2,-4.863801038325267,-4.863801038325267,0.0
+parasitic,Of or pertaining to a biological or symbolic parasite.,4,-5.325921538823946,-5.234891824661883,0.25
+guardianship,"The office or position of one acting as a guardian or conservator, especially in a legal capacity.",8,-4.364791529601121,-4.280128967333155,0.125
+playhouse,A venue for performing plays.,3,-4.593264583994601,-4.749661192700071,0.0
+characterize,To depict someone or something a particular way (often negative).,7,-3.6972300293727294,-3.7218243452216133,0.1428571428571429
+southerner,"A native or inhabitant of the south of a region (or of the world as a whole), such as the United Kingdom.",8,-4.380923425598304,-4.4383530385982315,0.0
+inconspicuous,Invisible.,1,-4.831285737522162,-4.831285737522162,0.0
+traverse,"A route used in mountaineering, specifically rock climbing, in which the descent occurs by a different route than the ascent.",11,-4.66404905789039,-4.575949751220149,0.09090909090909094
+knapsack,"(In UK, dated or archaic). A case of canvas or leather, for carrying items on the back.",9,-4.753461771350139,-4.751440492884935,0.06451612903225812
+impunity,Exemption from punishment.,2,-4.734697851478494,-4.734697851478494,0.5
+gulag,"Also 'GULAG': the system of all Soviet labour camps and prisons in use, especially during the Stalinist period (1930s–1950s).",10,-4.215710094712652,-4.171322177319984,0.09999999999999998
+vas,"A vessel or duct transporting any bodily fluid, such as blood, lymph, chyle, or semen.",9,-5.103091826001061,-5.146981694198156,0.11111111111111116
+unknowingly,"Without awareness, without intent.",2,-5.3262048033487375,-5.3262048033487375,0.0
+lind,"the lime tree, or linden tree",4,-4.77871925331916,-4.675967597634463,0.0
+steeple,"A tall tower, often on a church, normally topped with a spire.",7,-4.296635693187397,-4.324866314509862,0.1428571428571429
+rotor,"A rotating part of a mechanical device; for example, in an electric motor, generator, alternator or pump.",10,-4.747982877455326,-4.7996128038640755,0.09999999999999998
+splutter,"A forceful emission of something, especially in small drops or particles; a spluttering or sputtering.",9,-4.874472806518849,-5.033563067960831,0.0
+overzealous,Too zealous; too enthusiastic or fervent.,3,-5.562727399457547,-5.562727399457547,0.6666666666666667
+khaki,"A dull, yellowish-brown colour, the colour of dust.",5,-4.7899455357988305,-4.780718426898767,0.19999999999999996
+spatula,"A kitchen utensil consisting of a flat surface attached to a long handle, used for turning, lifting or stirring food.",13,-4.488952216927985,-4.380189937911987,0.0
+vaporize,To turn into vapor.,2,-4.705771669413094,-4.705771669413094,0.0
+memorandum,A short note serving as a reminder.,4,-4.446758616550408,-4.24623625082496,0.0
+justifiable,That can be justified.,1,-5.562475104348046,-5.562475104348046,0.0
+pomegranate,"The fruit of the , about the size of an orange with a thick, hard, reddish skin enclosing many seeds, each with an edible pink or red pulp tasting both sweet and tart.",17,-4.495216984736474,-4.584285470654826,0.11764705882352944
+synergy,A synonym of binding energy.,3,-4.413378765074743,-4.413378765074743,0.33333333333333337
+wisp,"A small bundle, as of straw or other like substance; any slender, flexible structure or group.",8,-4.965452019039672,-5.075269684216177,0.0
+locus,"A place or locality, especially a centre of activity or the scene of a crime.",7,-4.133398377134717,-4.116831228402672,0.1428571428571429
+nativity,"Someone's birth; the place, time and circumstances of a birth.",6,-3.759497204402486,-3.8550876725887573,0.0
+debit,"In bookkeeping, an entry in the left hand column of an account.",6,-4.076512930011618,-4.199009869201084,0.16666666666666663
+printout,"Something printed on paper, usually by a printer (machine).",6,-4.279117357642648,-4.109648347593098,0.0
+adoration,An act of religious worship.,3,-4.575650826953076,-4.8047595063854125,0.0
+wormwood,"An intensely bitter herb ( and similar plants in genus Artemisia) used in medicine, in the production of absinthe and vermouth, and as a tonic.",12,-4.92184793249277,-4.832826680843823,0.16666666666666663
+naga,A loincloth.,1,,,1.0
+nauseating,Causing a feeling of nausea; disgusting and revolting.,5,-4.753937299276687,-5.3595192656132005,0.0
+workhouse,"An institution for homeless poor people funded by the local parish, where the able-bodied were required to work.",10,-4.317671621221334,-4.6314734069539,0.09999999999999998
+brownstone,A variety of brown to red-brown sandstone once popular as a building material.,6,-4.564333185631856,-4.590813285859683,0.33333333333333337
+nullah,"A stream-bed, ravine, or other watercourse; a drain for rain or floodwater.",6,-5.007454551383133,-4.98372152783336,0.5
+shebang,A lean-to or temporary shelter.,3,-4.838643751485355,-4.838643751485355,0.33333333333333337
+callback,The return of a situation to a previous position or state; a reference to such a position or state.,8,-4.160006547814898,-4.021117718471215,0.0
+methodist,One who follows a method.,2,-4.287542007721998,-4.287542007721998,0.0
+pram,"A small vehicle, usually covered, in which a newborn baby is pushed around in a lying position.",9,-4.145251102689326,-4.03676026197865,0.0
+pragmatic,"Practical, concerned with making decisions and actions that are useful in practice, not just theory.",8,-4.2240650936685515,-4.357852265349404,0.0
+oni,A Japanese evil spirit or demon.,4,-4.284935539897791,-4.289034026374264,0.0
+flintstone,A piece of flint.,2,-4.5006315335410605,-4.5006315335410605,0.0
+reiterate,"To say or do (something) for a second time, such as for emphasis.",5,-3.5079910165866828,-2.8393400726377687,0.0
+decryption,"The process reversing an encryption, i.e. the process which converts encrypted data into its original form.",9,-4.7147852801469625,-4.424558235832432,0.11111111111111116
+scrambler,Someone or something that scrambles (in various senses).,5,-4.335702980620377,-4.983272670382159,0.0
+pollute,"To make something harmful, especially by the addition of some unwanted product.",7,-4.417292514735177,-4.6188280037998375,0.0
+carpentry,The trade of cutting and joining timber in order to construct buildings or other structures; woodworking.,9,-4.468845896072871,-4.2263084821132235,0.11111111111111116
+pituitary,Of or relating to the pituitary gland.,3,-5.727789273434529,-5.5655123623208125,0.0
+labrador,A Labrador retriever.,2,-6.245358507377182,-6.245358507377182,0.0
+tricycle,"A cycle with three wheels, powered by pedals and usually intended for young children.",8,-4.290247613923672,-4.302688762891687,0.0
+winkle,"A periwinkle or its shell, of family .",3,-4.030137730567771,-4.030137730567771,0.33333333333333337
+undisclosed,Not disclosed.,1,-5.679922675784425,-5.679922675784425,0.0

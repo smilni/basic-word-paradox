@@ -1,0 +1,101 @@
+lemma,definition,len_tokens,mean_log_freq,median_log_freq,miss_rate
+get,come into the possession of something concrete or abstract,5,-4.169949081306325,-4.849324524206811,0.0
+go,"change location; move, travel, or proceed, also metaphorically",7,-4.175585680277881,-4.063941766538517,0.0
+know,be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about,9,-4.233962564283033,-4.178885009484903,0.11111111111111116
+come,"move toward, travel toward something or somebody or approach something or somebody",7,-3.478178023760218,-3.5956175404631794,0.0
+like,prefer or wish to do something,3,-3.586612209673785,-3.5917630007968158,0.0
+think,judge or regard; look upon; judge,4,-3.7864828570915945,-4.0180971527206,0.0
+want,feel or have a desire for; want strongly,4,-3.7818687107139866,-3.76013063336861,0.0
+say,express in words,2,-4.018145334817226,-4.018145334817226,0.0
+see,perceive by sight or have the power to perceive by sight,5,-4.590055673458307,-4.249738698642375,0.0
+look,perceive with attention; direct one's gaze towards,5,-4.699155850171442,-4.42956474197022,0.0
+take,carry out,1,-3.8798546051075684,-3.8798546051075684,0.0
+tell,express in words,2,-4.018145334817226,-4.018145334817226,0.0
+let,make it possible through a specific action or lack of action for something to happen,8,-3.7216982100694747,-3.9823605889727522,0.0
+make,engage in,1,-4.4376158373294885,-4.4376158373294885,0.0
+need,"require as useful, just, or proper",3,-4.529564136168893,-4.507093852427799,0.0
+give,"cause to have, in the abstract sense or physical sense",5,-4.358648930062746,-3.8512567489935043,0.0
+thank,express gratitude or show appreciation to,4,-4.563393727362073,-4.834779320497471,0.0
+mean,mean or intend to express or convey,4,-4.322820201527127,-4.5144144603553364,0.0
+find,"come upon, as if by accident; meet with",3,-3.2033368380579326,-3.172535140407075,0.0
+talk,exchange thoughts; talk with,3,-3.6914135311431426,-3.6914135311431426,0.33333333333333337
+call,assign a specified (usually proper) proper name to,6,-4.4866526243808345,-4.507093852427799,0.0
+leave,go away from a place,3,-2.8171903421178652,-3.1179476488045577,0.0
+love,have a great affection or liking for,3,-3.5395506591000476,-3.1301415743946768,0.0
+please,give pleasure to or be pleasing to,3,-3.2684632464503216,-2.912322915981949,0.0
+help,give help or assistance; be of service,4,-3.658183962679672,-3.468082026275324,0.0
+try,make an effort or attempt,3,-3.8790800483249956,-4.369995541425467,0.0
+wait,stay in one place and anticipate or expect something,5,-3.618129767446168,-3.1720619111575306,0.0
+happen,come to pass,2,-3.9207523470318337,-3.9207523470318337,0.0
+kill,"cause to die; put to death, usually intentionally or knowingly",7,-4.195412366110963,-3.8512567489935043,0.0
+stop,"come to a halt, stop moving",4,-3.3586488203117995,-3.0945280788176914,0.0
+hear,perceive (sound) via the auditory sense,4,-4.246041922503566,-3.828651379238726,0.25
+keep,"keep in a certain state, position, or activity; e.g.,",5,-3.9334399441041867,-4.027395519681545,0.0
+put,put into a certain place or abstract location,5,-4.0949301957263256,-4.081940091092454,0.0
+ask,inquire about,1,-5.575792616795221,-5.575792616795221,0.0
+feel,undergo an emotional sensation or be in a particular state of mind,6,-4.51836939942505,-4.608511006452785,0.0
+use,put into service; make work or employ for a particular purpose or for its inherent or natural purpose,10,-4.117481034405928,-4.327172030687957,0.0
+live,inhabit or live in; be an inhabitant of,3,-4.3887073050346554,-4.3887073050346554,0.33333333333333337
+place,put into a certain place or abstract location,5,-4.0949301957263256,-4.081940091092454,0.0
+move,"change location; move, travel, or proceed, also metaphorically",7,-4.175585680277881,-4.063941766538517,0.0
+stay,stay the same; remain in a certain state,4,-3.7689402246825088,-3.9108794482400255,0.0
+meet,come together,2,-2.878749952726443,-2.878749952726443,0.0
+start,take the first step or steps in carrying out an action,6,-3.5250825188785697,-3.764410402968969,0.0
+run,"move fast by using one's feet, with one foot off the ground at any given time",8,-3.5732032565754475,-3.507412951276181,0.0
+believe,accept as true; take to be true,4,-3.417439139390293,-3.540704137738589,0.0
+die,pass from physical life and lose all bodily attributes and functions necessary to sustain life,10,-4.472936067486614,-4.632131396818828,0.0
+play,participate in games or sport,3,-4.350862442815925,-4.395955128389,0.0
+bring,take something or somebody with oneself somewhere,4,-3.224247195158014,-3.217478733937593,0.0
+show,give an exhibition of to an interested audience,4,-4.190750767964353,-4.44820675020288,0.25
+listen,hear with intention,2,-3.949353579513141,-3.949353579513141,0.0
+understand,know and comprehend the nature or meaning of,4,-4.035481547766067,-4.2938816992773425,0.25
+miss,fail to perceive or to catch with the senses or the mind,5,-4.109420565376819,-3.8465436433435642,0.19999999999999996
+hold,"keep in a certain state, position, or activity; e.g.,",5,-3.9334399441041867,-4.027395519681545,0.0
+remember,recall knowledge from memory; have a recollection,4,-4.80358674714522,-4.576786726411157,0.0
+lose,"fail to keep or to maintain; cease to have, either physically or in an abstract sense",7,-4.465051641366499,-4.693891319320418,0.0
+turn,"change orientation or direction, also in the abstract sense",6,-4.442471275299326,-4.1861676261087535,0.0
+care,feel concern or interest,3,-3.592527463453996,-3.6376364160939074,0.0
+open,cause to open or to become open,4,-3.5251661234349885,-3.4546257427243052,0.0
+shoot,hit with a missile from a weapon,3,-4.215533980226799,-4.182186218656028,0.0
+speak,express in speech,2,-4.519104773585921,-4.519104773585921,0.0
+break,terminate,1,-5.210695482300516,-5.210695482300516,0.0
+watch,look attentively,2,-2.5536994729338387,-2.5536994729338387,0.5
+end,"have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical",7,-4.940294501075554,-5.484635712905085,0.2857142857142857
+change,cause to change; make different; cause a transformation,6,-3.804935921909477,-3.7510773851533608,0.0
+drink,take in liquids,2,-3.782189482882196,-3.782189482882196,0.0
+worry,"be worried, concerned, anxious, troubled, or uneasy",5,-4.55957282372072,-4.492540128513895,0.19999999999999996
+saw,cut with a saw,2,-3.4855839200516527,-3.4855839200516527,0.0
+sit,be seated,1,-3.9856108309773077,-3.9856108309773077,0.0
+pay,"give money, usually in exchange for goods or services",6,-3.5502336114240207,-3.5918878744142875,0.0
+send,cause to go somewhere,3,-3.304141298278956,-3.8512567489935043,0.0
+eat,take in solid food,3,-3.668503004939632,-3.7801584408802547,0.0
+forget,dismiss from the mind; stop remembering,4,-3.7180201893357214,-3.332372053292678,0.25
+guess,"expect, believe, or suppose",3,-3.4755924649237695,-3.4770679485580196,0.0
+bite,"to grip, cut off, or tear with or as if with the teeth or jaws",5,-4.3877597665056705,-4.347875327392551,0.0
+fight,be engaged in a fight; carry on a fight,4,-3.7938253201715924,-3.6543850121161126,0.0
+laugh,produce laughter,2,-4.418760568894323,-4.418760568894323,0.0
+seem,give a certain impression or have a certain outward aspect,5,-4.214239597320499,-4.081940091092454,0.0
+stand,be standing; be upright,2,-4.491955921914288,-4.491955921914288,0.0
+check,"examine so as to determine accuracy, quality, or condition",5,-4.791757855668535,-4.71511283442796,0.0
+walk,use one's feet to advance; advance by steps,4,-4.1906915269789415,-4.284926472133745,0.0
+sleep,be asleep,1,-4.298059986840775,-4.298059986840775,0.0
+suppose,express a supposition,2,-4.602801739731871,-4.602801739731871,0.5
+lie,be located or situated somewhere; occupy a certain position,6,-4.597733029971698,-4.36460962730899,0.0
+sound,appear in a certain way,3,-3.690254263400368,-4.081940091092454,0.0
+save,"save from ruin, destruction, or harm",4,-4.205772797202837,-4.251148865566892,0.0
+hope,expect and wish,2,-3.6766070966048567,-3.6766070966048567,0.0
+marry,take in marriage,2,-3.3467631543651795,-3.3467631543651795,0.0
+hit,cause to move by striking,3,-3.510604064075779,-3.510604064075779,0.33333333333333337
+deal,act on verbally or in some form of artistic expression,5,-4.842643564387475,-4.923697699460185,0.0
+write,produce a literary work,3,-4.3225354736055275,-4.541876080155105,0.0
+hurt,be the source of pain,2,-4.160660474521986,-4.160660474521986,0.0
+buy,obtain by purchase; acquire by means of a financial transaction,6,-4.670485944327175,-4.944013062404083,0.0
+shut,move so that an opening or passage is obstructed; make shut,5,-4.3802862291105,-4.275242737669916,0.19999999999999996
+order,give instructions to or direct somebody to do something with authority,6,-3.966132656361465,-4.0125911412167,0.0
+read,interpret something that is written or printed,4,-4.035304908082753,-3.9353212676813785,0.0
+drive,operate or control a vehicle,3,-4.268865909796262,-4.529673446085364,0.0
+pick,select carefully from a group,3,-4.507682588385864,-4.551452067747454,0.0
+set,put into a certain place or abstract location,5,-4.0949301957263256,-4.081940091092454,0.0
+become,enter or assume a certain state or condition,5,-4.0801556345586665,-4.1539973693029095,0.0
+win,be the winner in a contest or competition; be victorious,4,-4.892559019175243,-4.696636531038909,0.0
+cut,separate with or as if with an instrument,2,-4.640966995344912,-4.640966995344912,0.0

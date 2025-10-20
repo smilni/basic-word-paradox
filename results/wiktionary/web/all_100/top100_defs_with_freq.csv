@@ -1,0 +1,101 @@
+lemma,definition,len_tokens,mean_log_freq,median_log_freq,miss_rate
+new,"made, or created.",2,-3.354610514144314,-3.354610514144314,0.0
+home,A dwelling.,1,-5.465320989341481,-5.465320989341481,0.0
+page,One of the many pieces of paper bound together within a book or similar document.,7,-3.5245980759049886,-3.556905807151736,0.0
+time,The inevitable progression into the future with the passing of present and past events.,7,-4.079597395712988,-3.745014249988702,0.0
+service,An act of being of assistance to someone.,3,-3.822806077175779,-3.8855063228086397,0.0
+search,An attempt to find something.,3,-3.57831842440356,-3.6494344702682255,0.0
+site,The place where anything is fixed; situation; local position,6,-3.738500904849023,-3.799775011342552,0.0
+one,The represented by the ; the numerical value equal to that cardinal number.,6,-4.112806289456818,-4.262907524737567,0.0
+free,Unconstrained.,1,-6.256981569467553,-6.256981569467553,0.0
+information,"That which resolves uncertainty; anything that answers the question of ""what a given entity is"".",7,-4.028155569394646,-3.888739790449659,0.0
+may,To be strong; to have power (over).,2,-3.680943580607602,-3.680943580607602,0.0
+product,Anything that is produced; a result.,3,-3.7247424272432057,-3.888739790449659,0.0
+year,A period of time akin to the time taken for the Earth to undergo a full cycle of seasons.,10,-3.8542601523343434,-3.7489863786579045,0.0
+news,New information of interest.,3,-2.9812745480071787,-2.798361090230373,0.0
+day,The time when the Sun is above the horizon and it lights the sky.,5,-3.7994964120015213,-3.680042549968081,0.0
+find,To locate,1,-4.635396179903818,-4.635396179903818,0.0
+price,The cost required to gain possession of something.,5,-3.9837228541854928,-4.04115352565384,0.0
+use,The act of using.,2,-3.232377921122298,-3.232377921122298,0.0
+state,A condition; a set of circumstances applying at any given time.,6,-3.508237811191863,-3.439806599213112,0.0
+see,"To perceive or detect someone or something with the eyes, or as if by sight.",6,-4.337547128569377,-4.198757503575865,0.0
+business,A specific commercial enterprise or establishment.,4,-3.9571633016531957,-3.819283033310538,0.0
+contact,The act of touching physically; being in close association.,5,-4.012260903585103,-3.7156707809286504,0.0
+view,Visual perception.,2,-4.3801200919864485,-4.3801200919864485,0.0
+book,"A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",12,-3.870345547724604,-3.7313483225493003,0.0
+get,To obtain; to acquire.,2,-4.553765378882361,-4.553765378882361,0.0
+review,A second or subsequent reading of a text or artifact in an attempt to gain new insights.,9,-3.9622831692759957,-4.145003869522176,0.0
+help,Action given to provide assistance; aid.,5,-3.6695486852523103,-3.5116922548070715,0.0
+item,A distinct physical object.,3,-4.157380305825222,-3.9626785540993694,0.0
+right,"Designating the side of the body which is positioned to the east if one is facing north, the side on which the heart is not located in most humans. This arrow points to the reader's right: →",15,-3.813108953204064,-3.638887458163329,0.0
+web,The silken structure which a spider builds using silk secreted from the spinnerets at the caudal tip of its abdomen; a spiderweb.,12,-4.995324133744213,-4.696830927597604,0.08333333333333337
+system,A group or set of related things that operate together as a complex whole.,8,-3.6654342028365408,-3.600716821435884,0.0
+also,In addition; besides; as well; further; too.,3,-3.9051799061758463,-3.83997848299775,0.0
+post,A long dowel or plank protruding from the ground; a fencepost; a lightpost.,7,-5.461656054513541,-5.846485307792683,0.1428571428571429
+online,Of a system: connected (generally electrically) to a larger network.,6,-3.976861160770716,-3.8323020066797584,0.0
+link,"A connection between places, people, events, things, or ideas.",6,-3.423388704406922,-3.356696907821739,0.0
+first,Preceding all others of a series or kind; the ordinal of one; earliest.,6,-4.447840349526781,-3.759047706885968,0.0
+hotel,"A large town house or mansion; a grand private residence, especially in France.",9,-3.9385219601242394,-3.753202883921516,0.0
+click,"A brief, sharp, not particularly loud, relatively high-pitched sound produced by the impact of something small and hard against something hard, such as by the operation of a switch, a lock or a latch.",18,-4.066801773741901,-4.013344522103569,0.05555555555555558
+name,"Any nounal word or phrase which indicates a particular person, place, class, or thing.",9,-3.7307749087757887,-3.4921269565851825,0.11111111111111116
+game,A playful or competitive activity.,3,-4.4414550518065035,-4.365451293637938,0.0
+list,"A strip of fabric, especially from the edge of a piece of cloth.",6,-4.251581992298665,-4.226699707431322,0.0
+like,"To enjoy, be pleased by; favor; be in favor of.",4,-4.068626306287615,-4.288536213217209,0.0
+date,"The fruit of the date palm, , somewhat in the shape of an olive, containing a soft, sweet pulp and enclosing a hard kernel.",13,-4.355463987669777,-4.281982654105426,0.0
+work,Employment.,1,-3.8705989878019973,-3.8705989878019973,0.0
+member,One who belongs to a group.,2,-3.961310899787903,-3.961310899787903,0.0
+top,The highest or uppermost part of something.,4,-4.080737293674087,-3.4356373487444745,0.0
+make,To create.,1,-3.632523212134885,-3.632523212134885,0.0
+back,At or near the rear.,1,-4.415685402656182,-4.415685402656182,0.0
+people,a body of persons considered generally or collectively; a group of two or more persons.,7,-3.8770136676847575,-3.575088091277399,0.0
+message,"A communication, or what is communicated; any concept or information conveyed.",5,-4.077991447379096,-4.032899780709509,0.0
+policy,"A principle of behaviour, conduct which an entity (government, organization, etc.) applies or seeks to follow, especially as formally expressed by an authoritative body.",14,-4.220795197576817,-4.162575997884998,0.0
+go,"To move, either physically or in an abstract sense",4,-4.200337426949455,-4.008838938375559,0.0
+user,"One who uses or makes use of something, a consumer or client or an express or implied licensee (free user) or a trespasser.",12,-3.8718691243692267,-3.683936738316225,0.0
+school,An institution dedicated to teaching and learning; an educational institution.,6,-4.27919767351658,-4.008485297584893,0.0
+video,"Television, a television show, or a movie.",4,-3.6276360877934852,-3.6304780086104564,0.0
+email,A system for sending messages and datas by means of computers connected together in a network.,9,-3.39060334386568,-3.312659514625844,0.0
+city,"A large settlement, bigger than a town; sometimes with a specific legal definition, depending on the place.",10,-3.864531646845696,-3.730938621386875,0.0
+program,A set of structured activities; a plan of action.,5,-3.6675135908513723,-3.4424807315151646,0.0
+number,Quantity.,1,-4.112106479774653,-4.112106479774653,0.0
+group,A number of things or persons being in some relation to one another.,4,-3.4673633406118642,-3.4360685659925343,0.0
+company,A team; a group of people who work together professionally.,6,-3.6266665158069213,-3.286987810576717,0.0
+world,"The subjective human experience, regarded collectively; human collective existence; existence in general; the reality we live in.",12,-4.173197148777404,-4.251320237199303,0.0
+two,A numerical value equal to 2; this many dots (••).,5,-3.9894900045579034,-4.171969894438098,0.0
+health,"The state of being free from physical or psychological disease, illness, or malfunction; wellness.",8,-4.156133438994405,-4.270894619011887,0.0
+comment,A spoken or written remark.,3,-4.160581449040747,-4.273582087735274,0.0
+store,A place where items may be accumulated or routinely kept.,5,-4.161213103687523,-3.64487698990834,0.0
+next,"in place or position, having nothing similar intervening; .",5,-4.080105290045379,-3.7108102322354455,0.0
+last,"Final, ultimate, coming after all others of its kind.",5,-3.789448118241011,-3.748683531537062,0.0
+order,"Arrangement, disposition, or sequence.",3,-4.449454042599417,-4.290595260802651,0.0
+buy,To obtain (something) in exchange for money or goods.,5,-3.6525377016273253,-3.6494344702682255,0.0
+music,"A series of sounds organized in time, usually employing some combination of harmony, melody, rhythm, tempo, etc., often to convey a mood.",14,-4.345275873292433,-4.580987919420269,0.0
+forum,A place for discussion.,2,-3.4725336055410896,-3.4725336055410896,0.0
+part,A portion; a component.,2,-4.001182496550805,-4.001182496550805,0.0
+support,To help keep from falling.,3,-3.4609349585106437,-3.64487698990834,0.0
+add,"To join or unite (e.g. one thing to another, or as several particulars) so as to increase the number, augment the quantity or enlarge the magnitude, or so as to form into one aggregate.",13,-4.144838114982026,-3.9010595929468557,0.0
+report,"To relate details of (an event or incident); to recount, describe (something). {{defdate|from }}",7,-4.204993031000081,-4.37824189775139,0.0
+result,"To proceed, spring up or rise, as a consequence, from facts, arguments, premises, combination of circumstances, consultation, thought or endeavor.",12,-4.283351886520136,-4.351984692100439,0.08333333333333337
+photo,A photograph.,1,-4.280903892348304,-4.280903892348304,0.0
+term,"That which limits the extent of anything; limit, extremity, bound, boundary, .",6,-4.372169012665221,-4.178374211519687,0.0
+copyright,"The right by law to be the entity which determines who may publish, copy and distribute a piece of writing, music, picture or other work of authorship.",13,-3.968993212551718,-3.7441365853533024,0.0
+area,A measure of the extent of a surface; it is measured in square units.,6,-3.9771206287250087,-3.9566706715797215,0.0
+please,To make happy or satisfy; to give pleasure to.,5,-3.9677332131868903,-3.966887528588718,0.0
+available,Such as one may avail oneself of; capable of being used for the accomplishment of a purpose.,5,-4.32210924443463,-4.5551442677112455,0.0
+well,"Accurately, competently, satisfactorily.",3,-5.677305320358099,-5.714343433629552,0.0
+car,"A wheeled vehicle that moves independently, with at least three wheels, powered mechanically, steered by a driver and mostly for personal transportation but relatively smaller than a truck/lorry and a bus.",16,-4.218336671420166,-4.065197498715833,0.0
+map,"A visual representation of an area, whether real or imaginary, showing the relative positions of places and other features.",10,-3.8268678353245944,-3.5638073046022027,0.0
+software,"Encoded computer instructions, usually modifiable (unless stored in some form of unalterable memory such as ROM).",10,-4.525460675497232,-4.053884290524565,0.0
+file,A collection of papers collated and archived together.,5,-4.135036068991712,-3.650344387367148,0.0
+set,"To put (something) down, to rest.",3,-3.7801520554686134,-3.6694080589815634,0.0
+way,To do with a place or places.,2,-3.333837335035463,-3.333837335035463,0.0
+job,A task.,1,-3.9905506716083763,-3.9905506716083763,0.0
+great,Taking much space; large.,4,-3.457089961943779,-3.4673512445043935,0.0
+line,"A path through two or more points (compare ‘segment’); a continuous mark, including as made by a pen; any path, curved or straight.",12,-3.941093704409002,-4.031387356716368,0.0
+info,information.,1,-2.798361090230373,-2.798361090230373,0.0
+high,"Physically elevated, extending above a base or average level",6,-4.38257189094337,-4.201574398690205,0.0
+sale,An exchange of goods or services for currency or credit.,5,-3.423281223165252,-3.450866454801874,0.0
+life,"The state of organisms preceding their death, characterized by biological processes such as metabolism and reproduction and distinguishing them from inanimate objects; the state of being alive and living.",15,-4.4193057007642444,-4.563594196226661,0.0
+public,Able to be known or seen by everyone; happening without concealment; open to general view.,9,-3.761812991763321,-3.3650788621052525,0.0
+type,A grouping based on shared characteristics; a class.,5,-3.639817670466317,-3.601368644400502,0.0
+student,A person who studies or learns about a particular subject.,5,-3.509217026081629,-3.492580651377053,0.0

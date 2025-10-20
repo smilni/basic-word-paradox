@@ -1,0 +1,101 @@
+lemma,definition,len_tokens,mean_log_freq,median_log_freq,miss_rate
+unreproducible,impossible to reproduce or duplicate,3,-4.872560416948731,-4.980817455601203,0.0
+unbelted,lacking a belt,2,-4.399335155261079,-4.399335155261079,0.0
+earless,lacking external ears,3,-4.309425891512775,-4.2659246450989015,0.0
+trihydroxy,containing three hydroxyl groups,3,-4.5995729915453625,-4.298874822095048,0.0
+inharmonious,not in harmony,1,-4.876248523009274,-4.876248523009274,0.0
+atheromatous,of or relating to or resembling atheroma,3,-5.933354679071084,-5.549451499886405,0.0
+monocarboxylic,containing one carboxyl group,3,-4.644024564126197,-4.298874822095048,0.0
+hypovolemic,of or relating to a decrease in the volume of circulating blood,5,-4.625361482567267,-4.638367124518664,0.0
+denotative,having the power of explicitly denoting or designating or naming,5,-4.395243333653171,-4.963697201034798,0.0
+benignant,pleasant and beneficial in nature or influence,4,-4.456742911842891,-4.5252278779253725,0.0
+cambial,of or relating to or functioning as a cambium,3,-5.193727644684625,-4.827936264489413,0.0
+reparable,capable of being repaired or rectified,3,-4.914275726404009,-4.555144273980231,0.0
+gilled,provided with gills,2,-4.358070880979378,-4.358070880979378,0.0
+disfranchised,deprived of the rights of citizenship especially the right to vote,6,-4.258441376688476,-3.9996504756271865,0.0
+cryptanalytic,of or relating to cryptanalysis,2,-5.764863281569797,-5.764863281569797,0.0
+uncomplimentary,showing or representing unfavorably,3,-4.869345022470842,-4.3538451613060225,0.0
+nonperiodic,not recurring at regular intervals,3,-4.97836674358931,-4.768339603154374,0.0
+undistinguishable,not capable of being distinguished or differentiated,3,-5.03932782581003,-5.0840530233374714,0.0
+limbless,having no limbs,1,-5.396728820177497,-5.396728820177497,0.0
+diaphyseal,relating to the diaphysis of a bone,3,-5.665865450006588,-4.827936264489413,0.0
+oligarchical,of or relating to or supporting or characteristic of an oligarchy,4,-4.856914527770883,-4.87960649422292,0.0
+orientating,positioning with respect to a reference system or determining your bearings physically or intellectually,8,-4.303640281270394,-4.1121103149462925,0.0
+nonmaterial,not consisting of matter,2,-4.439408974315418,-4.439408974315418,0.0
+pentavalent,having a valence of five,1,-5.899466106926314,-5.899466106926314,0.0
+phyletic,of or relating to the evolutionary development of organisms,4,-4.607104553504547,-4.962428473658173,0.0
+deformational,relating to or causing change in either shape or size of a material body or geometric figure,9,-4.053684188518578,-3.8454497572702717,0.0
+parentless,having no parent or parents or not cared for by parent surrogates,5,-4.294350459979525,-4.101864347040692,0.0
+inextinguishable,difficult or impossible to extinguish,3,-4.96797934341649,-4.577871323258038,0.0
+lysogenic,of or relating to lysogeny,2,-4.827936264489413,-4.827936264489413,0.5
+unenforced,not enforced; not compelled especially by legal or police action,6,-4.327398420816489,-3.979047397183975,0.0
+unpasteurised,not having undergone pasteurization,2,-6.153720828541415,-6.153720828541415,0.0
+unspecialized,not specialized or modified for a particular purpose or function,5,-4.267133252416629,-3.9611572344845594,0.0
+plutocratic,of or relating to or characteristic of a plutocrat,3,-4.87960649422292,-4.87960649422292,0.33333333333333337
+calcific,involving or resulting from calcification,3,-4.934300312465441,-4.691148062562996,0.0
+cappadocian,of or pertaining to Cappadocia or its people or culture,4,-4.782198696630174,-4.861995107518342,0.0
+mithraic,of or relating to Mithraism or its god,3,-5.305274489666313,-4.827936264489413,0.0
+megakaryocytic,of or pertaining to large bone marrow cells,5,-4.5394912117146555,-4.5244178943189635,0.0
+hypophysectomized,having the pituitary gland removed by surgery,4,-4.814963786292017,-4.764061920444734,0.0
+uncomplaining,not complaining,1,-5.108052893939785,-5.108052893939785,0.0
+unthankful,not feeling or showing gratitude; ; - Shakespeare,4,-4.3600014028975655,-4.32576221241075,0.0
+calisthenic,of or relating to calisthenics,2,-5.89110152964011,-5.89110152964011,0.0
+subjacent,lying nearby but lower,3,-4.0879607714120665,-4.333893943199852,0.0
+argive,of or relating to the ancient Greek city of Argos or its people,6,-4.305411717885106,-4.386995076020923,0.0
+hemic,relating to or containing or affecting blood,4,-4.372611946696862,-4.340422442471558,0.0
+hatless,not wearing a hat,2,-4.338470391119403,-4.338470391119403,0.0
+unanalyzed,not analyzed or broken down for detailed examination,4,-4.3955042831653675,-4.352064936655676,0.0
+pectic,of or relating to or derived from pectin,3,-5.478419732963643,-5.2571658332626034,0.0
+geomorphologic,pertaining to geological structure,3,-4.896769089229513,-4.957266684433094,0.0
+radiolucent,almost complete transparent to X-rays or other forms of radiation,6,-4.095229193096719,-3.9473330177307138,0.16666666666666663
+postganglionic,beyond or distal to a ganglion (referring especially to the unmyelinated fibers that originate from cells in autonomic ganglia),10,-5.374299424749137,-5.661319944718697,0.0
+perirhinal,near the nose,1,-4.747975720193615,-4.747975720193615,0.0
+supraorbital,located or occurring above the eye socket,4,-4.430886344651964,-4.506267038198015,0.0
+flagellated,having or resembling a lash or whip (as does a flagellum),4,-5.857544135908926,-5.705230836773899,0.0
+latinate,derived from or imitative of Latin,3,-5.41040685295208,-5.2571658332626034,0.0
+carbocyclic,having or relating to or characterized by a ring composed of carbon atoms,6,-4.740937859240847,-4.6531083368375565,0.0
+cyclothymic,of or relating to or exhibiting cyclothymia,3,-4.699972359961469,-4.699972359961469,0.33333333333333337
+discalced,(used of certain religious orders) barefoot or wearing only sandals,7,-4.208361837316252,-4.212609693656416,0.0
+unsaleable,impossible to sell,2,-4.104208625792145,-4.104208625792145,0.0
+oviparous,egg-laying,1,,,1.0
+unmusical,lacking interest in or talent for music,4,-3.9432284875060795,-3.9776129374734377,0.0
+nonrigid,designating an airship having a shape maintained only by internal gas pressure and without a supporting structure,9,-4.3694285169118885,-4.058444718390215,0.0
+unfocussed,(of an image) not being in or brought into focus,3,-3.8114846888797835,-3.9523884060721897,0.0
+radiophonic,relating to or by means of radiotelephony,3,-4.345458009066385,-4.345458009066385,0.33333333333333337
+stingless,without a sting,1,-5.326478051936139,-5.326478051936139,0.0
+albigensian,of or relating to Albigenses or Albigensianism,3,-4.827936264489413,-4.827936264489413,0.6666666666666667
+chitinous,of or resembling chitin,2,-6.07625490847354,-6.07625490847354,0.0
+stoppable,capable of being stopped,2,-4.216958008042948,-4.216958008042948,0.0
+tensional,of or relating to or produced by tension,3,-4.655696488192242,-4.827936264489413,0.0
+clearheaded,not mentally confused; able to think clearly and act intelligently,7,-4.4216239815679375,-4.259746945809446,0.0
+unmarred,free from physical or moral spots or stains,5,-4.185258865229912,-4.342130310895576,0.0
+tricentennial,of or relating to or completing a period of 300 years,4,-3.8227747380079804,-3.673979593335276,0.0
+iodised,treated with iodine,2,-5.05968901723881,-5.05968901723881,0.0
+curst,deserving a curse; sometimes used as an intensifier,5,-4.755426142550938,-4.948658796141549,0.0
+campanulate,shaped like a bell or campana,3,-5.1074194090650495,-4.366624805952895,0.0
+allotropic,of or related to or exhibiting allotropism,3,-3.9888130365296814,-3.9888130365296814,0.33333333333333337
+dramaturgical,relating to the technical aspects of drama,4,-4.404316115149532,-4.515910982157778,0.0
+apneic,of or relating to apnea,2,-5.309712387480287,-5.309712387480287,0.0
+informatory,providing or conveying information,3,-3.8526056445064207,-3.511692261076057,0.0
+pugilistic,of or relating to pugilism or pugilists,3,-6.074453914622255,-6.074453914622255,0.33333333333333337
+chasidic,of or relating to the Jewish Hasidim or its members or their beliefs and practices,6,-4.245391781337404,-4.410103594911069,0.16666666666666663
+synthetical,involving or of the nature of synthesis (combining separate elements to form a coherent whole) as opposed to analysis; - P.S.Welch,11,-4.352193613974974,-4.211499696281881,0.0
+spiritualistic,of or relating to or connected with spiritualism,3,-5.100489791492266,-4.827936264489413,0.0
+appositive,relating to or being in apposition,2,-5.981976073345383,-5.981976073345383,0.0
+alphameric,of or pertaining to alphanumeric characters,3,-5.2406027836532605,-5.790885845155626,0.0
+presymptomatic,of or relating to the early phases of a disease when accurate diagnosis is not possible because symptoms of the disease have not yet appeared,11,-4.199320469897263,-4.13801421140475,0.0
+totipotent,having the ability to give rise to unlike cells,4,-3.9224748246388694,-3.8847805795735235,0.0
+uncoiled,no longer coiled,2,-4.172796282082418,-4.172796282082418,0.0
+consubstantial,regarded as the same in substance or essence (as of the three persons of the Trinity),5,-4.488559244512169,-4.560306295469481,0.0
+neritic,of or relating to the region of the sea over the continental shelf which is less than 200 meters deep,8,-4.239745368659085,-4.195235914332891,0.0
+untempered,not brought to a proper consistency or hardness,4,-4.723630928387994,-4.645418046690201,0.0
+downmarket,designed for low-income consumers,3,-3.643114124649287,-3.643114124649287,0.33333333333333337
+rectifiable,capable of being repaired or rectified,3,-4.914275726404009,-4.555144273980231,0.0
+nonaligned,"not affiliated with any faction, party, or cause",4,-4.326997648565363,-4.070820866297696,0.0
+photomechanical,of or relating to or involving various methods of using photography to make plates for printing,9,-3.90857224920877,-3.843129208438928,0.0
+rectosigmoid,of or related to or near the sigmoid colon and the upper part of the rectum,6,-4.970535993964092,-4.928746640356232,0.0
+caecal,of or like a cecum,1,-6.9189362881582115,-6.9189362881582115,0.0
+undiplomatic,not skilled in dealing with others,3,-4.187718357600204,-3.964456287732572,0.0
+areolar,relating to or like or divided into areolae,3,-5.4504461611553845,-4.948273898219854,0.0
+churchillian,of or relating to or suggestive of Winston Churchill,4,-5.19176000835987,-5.0546052440611495,0.0
+antemortem,preceding death,2,-4.893994062736861,-4.893994062736861,0.0
