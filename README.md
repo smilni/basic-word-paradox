@@ -1,6 +1,12 @@
 # Basic-Word Paradox: Is Basic Vocabulary Harder to Define?
 
-This repository contains the code and data for a project investigating whether dictionary definitions of "basic" (high-frequency) words differ systematically from those of "non-basic" (low-frequency) words in terms of vocabulary frequency and definition length.
+This repository contains the code and data for for "Data Science for Linguists" course project completed as part of my Master's studies at the University of Tübingen. In this project, I investigate whether dictionary definitions of "basic" (high-frequency) words differ systematically from those of "non-basic" (low-frequency) words in terms of vocabulary frequency and definition length.
+
+For a nicely rendered HTML version of the project, refer to the following website: https://smilni.github.io/basic-word-paradox/.
+
+For the original executable project code, refer to the following [Jupyter Notebook](https://github.com/smilni/basic-word-paradox/blob/main/basic_words_project.ipynb).
+
+NB: the contents of the website and the notebook are the same; use the website to read about the project and the notebook to execute the project code. The website was rendered from the notebook using [Quarto](https://quarto.org).
 
 ## Research Question
 
@@ -8,11 +14,11 @@ Do dictionary definitions of "basic" words differ systematically from those of "
 
 ## Hypothesis
 
-We hypothesize that definitions of "basic" concepts should be longer and contain less frequent (i.e., less basic) words, reflecting their conceptual breadth and the limits of simple paraphrase.
+I hypothesize that definitions of "basic" concepts should be longer and contain less frequent (i.e., less basic) words, reflecting their conceptual breadth and the limits of simple paraphrase.
 
 ## Key Findings
 
-Contrary to the "Basic-Word Paradox" hypothesis, our analysis reveals that:
+Contrary to the "Basic-Word Paradox" hypothesis, my analysis reveals that:
 
 - Definitions of basic words systematically use higher-frequency vocabulary than those of non-basic words across all corpora and parts of speech
 - Basic words tend to have slightly longer definitions in written corpora, but this effect varies by part of speech
