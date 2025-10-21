@@ -6,7 +6,7 @@ For a nicely rendered HTML version of the project, refer to the following websit
 
 For the original executable project code, refer to the following [Jupyter Notebook](https://github.com/smilni/basic-word-paradox/blob/main/basic_words_project.ipynb).
 
-NB: the contents of the website and the notebook are the same; use the website to read about the project and the notebook to execute the project code.
+NB: the contents of the website and the notebook are the same; use the website to read about the project and the notebook to execute the project code. The website was rendered from the notebook using [Quarto](https://quarto.org).
 
 ## Research Question
 
